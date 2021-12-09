@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:5aec314a-c855-4b12-aa37-42a4dc867122" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Anna Kareninová I</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>ČÁST PRVNÍ</text>
+      </navLabel>
+      <content src="Text/anna_karenina_006.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/anna_karenina_007.xhtml#toc_marker-1-1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/anna_karenina_008.xhtml#toc_marker-1-2"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/anna_karenina_010.xhtml#toc_marker-1-3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_009.xhtml#toc_marker-1-4"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/anna_karenina_011.xhtml#toc_marker-1-5"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_012.xhtml#toc_marker-1-6"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_013.xhtml#toc_marker-1-7"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_014.xhtml#toc_marker-1-8"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_015.xhtml#toc_marker-1-9"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/anna_karenina_016.xhtml#toc_marker-1-10"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_017.xhtml#toc_marker-1-11"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_018.xhtml#toc_marker-1-12"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_019.xhtml#toc_marker-1-13"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_020.xhtml#toc_marker-1-14"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_021.xhtml#toc_marker-1-15"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_022.xhtml#toc_marker-1-16"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_023.xhtml#toc_marker-1-17"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_024.xhtml#toc_marker-1-18"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_025.xhtml#toc_marker-1-19"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_026.xhtml#toc_marker-1-20"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_027.xhtml#toc_marker-1-21"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_028.xhtml#toc_marker-1-22"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_029.xhtml#toc_marker-1-23"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_030.xhtml#toc_marker-1-24"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>XXV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_031.xhtml#toc_marker-1-25"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_032.xhtml#toc_marker-1-26"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_033.xhtml#toc_marker-1-27"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_034.xhtml#toc_marker-1-28"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>XXIX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_035.xhtml#toc_marker-1-29"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_036.xhtml#toc_marker-1-30"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>XXXI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_037.xhtml#toc_marker-1-31"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>XXXII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_038.xhtml#toc_marker-1-32"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>XXXIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_039.xhtml#toc_marker-1-33"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>XXXIV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_040.xhtml#toc_marker-1-34"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>ČÁST DRUHÁ</text>
+      </navLabel>
+      <content src="Text/anna_karenina_041.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/anna_karenina_042.xhtml#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/anna_karenina_043.xhtml#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/anna_karenina_044.xhtml#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_045.xhtml#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/anna_karenina_046.xhtml#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_047.xhtml#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_048.xhtml#toc_marker-2-7"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_049.xhtml#toc_marker-2-8"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_050.xhtml#toc_marker-2-9"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/anna_karenina_051.xhtml#toc_marker-2-10"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_052.xhtml#toc_marker-2-11"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_053.xhtml#toc_marker-2-12"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_054.xhtml#toc_marker-2-13"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_055.xhtml#toc_marker-2-14"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_056.xhtml#toc_marker-2-15"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_057.xhtml#toc_marker-2-16"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_058.xhtml#toc_marker-2-17"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_059.xhtml#toc_marker-2-18"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_060.xhtml#toc_marker-2-19"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_061.xhtml#toc_marker-2-20"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_062.xhtml#toc_marker-2-21"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_063.xhtml#toc_marker-2-22"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_064.xhtml#toc_marker-2-23"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_065.xhtml#toc_marker-2-24"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>XXV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_066.xhtml#toc_marker-2-25"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_067.xhtml#toc_marker-2-26"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_068.xhtml#toc_marker-2-27"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_069.xhtml#toc_marker-2-28"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>XXIX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_070.xhtml#toc_marker-2-29"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_071.xhtml#toc_marker-2-30"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>XXXI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_072.xhtml#toc_marker-2-31"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>XXXII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_073.xhtml#toc_marker-2-32"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>XXXIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_074.xhtml#toc_marker-2-33"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>XXXIV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_075.xhtml#toc_marker-2-34"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>XXXV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_076.xhtml#toc_marker-2-35"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>ČÁST TŘETÍ</text>
+      </navLabel>
+      <content src="Text/anna_karenina_077.xhtml#toc_marker-3"/>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/anna_karenina_078.xhtml#toc_marker-3-1"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/anna_karenina_079.xhtml#toc_marker-3-2"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/anna_karenina_080.xhtml#toc_marker-3-3"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_081.xhtml#toc_marker-3-4"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/anna_karenina_082.xhtml#toc_marker-3-5"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_083.xhtml#toc_marker-3-6"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_084.xhtml#toc_marker-3-7"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_085.xhtml#toc_marker-3-8"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_086.xhtml#toc_marker-3-9"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/anna_karenina_087.xhtml#toc_marker-3-10"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_088.xhtml#toc_marker-3-11"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_089.xhtml#toc_marker-3-12"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_090.xhtml#toc_marker-3-13"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_091.xhtml#toc_marker-3-14"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_092.xhtml#toc_marker-3-15"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_093.xhtml#toc_marker-3-16"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_094.xhtml#toc_marker-3-17"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_095.xhtml#toc_marker-3-18"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_096.xhtml#toc_marker-3-19"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_097.xhtml#toc_marker-3-20"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_098.xhtml#toc_marker-3-21"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_099.xhtml#toc_marker-3-22"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_100.xhtml#toc_marker-3-23"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>XXIV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_101.xhtml#toc_marker-3-24"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>XXV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_102.xhtml#toc_marker-3-25"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>XXVI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_103.xhtml#toc_marker-3-26"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>XXVII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_104.xhtml#toc_marker-3-27"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>XXVIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_105.xhtml#toc_marker-3-28"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>XXIX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_106.xhtml#toc_marker-3-29"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>XXX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_107.xhtml#toc_marker-3-30"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>XXXI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_108.xhtml#toc_marker-3-31"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>XXXII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_109.xhtml#toc_marker-3-32"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-105" playOrder="105">
+      <navLabel>
+        <text>ČÁST ČTVRTÁ</text>
+      </navLabel>
+      <content src="Text/anna_karenina_110.xhtml#toc_marker-4"/>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/anna_karenina_111.xhtml#toc_marker-4-1"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/anna_karenina_112.xhtml#toc_marker-4-2"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/anna_karenina_113.xhtml#toc_marker-4-3"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_114.xhtml#toc_marker-4-4"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/anna_karenina_115.xhtml#toc_marker-4-5"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>VI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_116.xhtml#toc_marker-4-6"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>VII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_117.xhtml#toc_marker-4-7"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>VIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_118.xhtml#toc_marker-4-8"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>IX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_119.xhtml#toc_marker-4-9"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>X</text>
+        </navLabel>
+        <content src="Text/anna_karenina_120.xhtml#toc_marker-4-10"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>XI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_121.xhtml#toc_marker-4-11"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>XII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_122.xhtml#toc_marker-4-12"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>XIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_123.xhtml#toc_marker-4-13"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>XIV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_124.xhtml#toc_marker-4-14"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>XV</text>
+        </navLabel>
+        <content src="Text/anna_karenina_125.xhtml#toc_marker-4-15"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>XVI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_126.xhtml#toc_marker-4-16"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>XVII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_127.xhtml#toc_marker-4-17"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>XVIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_128.xhtml#toc_marker-4-18"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>XIX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_129.xhtml#toc_marker-4-19"/>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>XX</text>
+        </navLabel>
+        <content src="Text/anna_karenina_130.xhtml#toc_marker-4-20"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>XXI</text>
+        </navLabel>
+        <content src="Text/anna_karenina_131.xhtml#toc_marker-4-21"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>XXII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_132.xhtml#toc_marker-4-22"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>XXIII</text>
+        </navLabel>
+        <content src="Text/anna_karenina_133.xhtml#toc_marker-4-23"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

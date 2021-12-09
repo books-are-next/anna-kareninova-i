@@ -1,0 +1,1101 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Anna Kareninová I",
+    "identifier": "urn:uuid:5aec314a-c855-4b12-aa37-42a4dc867122",
+    "author": "Lev Nikolajevič Tolstoj",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-12-09T07:58:45.782Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_084.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_085.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_086.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_087.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_088.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_089.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_090.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_091.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_092.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_093.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_094.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_095.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_096.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_097.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_098.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_099.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_100.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_101.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_102.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_103.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_104.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_105.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_106.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_107.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_108.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_109.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_110.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_111.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_112.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_113.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_114.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_115.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_116.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_117.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_118.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_119.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_120.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_121.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_122.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_123.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_124.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_125.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_126.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_127.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_128.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_129.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_130.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_131.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_132.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_133.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/anna_karenina_134.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/anna_karen_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_anna_kareninova_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "ČÁST PRVNÍ",
+      "children": [
+        {
+          "title": "I",
+          "href": "OEBPS/Text/anna_karenina_007.xhtml#toc_marker-1-1"
+        },
+        {
+          "title": "II",
+          "href": "OEBPS/Text/anna_karenina_008.xhtml#toc_marker-1-2"
+        },
+        {
+          "title": "III",
+          "href": "OEBPS/Text/anna_karenina_010.xhtml#toc_marker-1-3"
+        },
+        {
+          "title": "IV",
+          "href": "OEBPS/Text/anna_karenina_009.xhtml#toc_marker-1-4"
+        },
+        {
+          "title": "V",
+          "href": "OEBPS/Text/anna_karenina_011.xhtml#toc_marker-1-5"
+        },
+        {
+          "title": "VI",
+          "href": "OEBPS/Text/anna_karenina_012.xhtml#toc_marker-1-6"
+        },
+        {
+          "title": "VII",
+          "href": "OEBPS/Text/anna_karenina_013.xhtml#toc_marker-1-7"
+        },
+        {
+          "title": "VIII",
+          "href": "OEBPS/Text/anna_karenina_014.xhtml#toc_marker-1-8"
+        },
+        {
+          "title": "IX",
+          "href": "OEBPS/Text/anna_karenina_015.xhtml#toc_marker-1-9"
+        },
+        {
+          "title": "X",
+          "href": "OEBPS/Text/anna_karenina_016.xhtml#toc_marker-1-10"
+        },
+        {
+          "title": "XI",
+          "href": "OEBPS/Text/anna_karenina_017.xhtml#toc_marker-1-11"
+        },
+        {
+          "title": "XII",
+          "href": "OEBPS/Text/anna_karenina_018.xhtml#toc_marker-1-12"
+        },
+        {
+          "title": "XIII",
+          "href": "OEBPS/Text/anna_karenina_019.xhtml#toc_marker-1-13"
+        },
+        {
+          "title": "XIV",
+          "href": "OEBPS/Text/anna_karenina_020.xhtml#toc_marker-1-14"
+        },
+        {
+          "title": "XV",
+          "href": "OEBPS/Text/anna_karenina_021.xhtml#toc_marker-1-15"
+        },
+        {
+          "title": "XVI",
+          "href": "OEBPS/Text/anna_karenina_022.xhtml#toc_marker-1-16"
+        },
+        {
+          "title": "XVII",
+          "href": "OEBPS/Text/anna_karenina_023.xhtml#toc_marker-1-17"
+        },
+        {
+          "title": "XVIII",
+          "href": "OEBPS/Text/anna_karenina_024.xhtml#toc_marker-1-18"
+        },
+        {
+          "title": "XIX",
+          "href": "OEBPS/Text/anna_karenina_025.xhtml#toc_marker-1-19"
+        },
+        {
+          "title": "XX",
+          "href": "OEBPS/Text/anna_karenina_026.xhtml#toc_marker-1-20"
+        },
+        {
+          "title": "XXI",
+          "href": "OEBPS/Text/anna_karenina_027.xhtml#toc_marker-1-21"
+        },
+        {
+          "title": "XXII",
+          "href": "OEBPS/Text/anna_karenina_028.xhtml#toc_marker-1-22"
+        },
+        {
+          "title": "XXIII",
+          "href": "OEBPS/Text/anna_karenina_029.xhtml#toc_marker-1-23"
+        },
+        {
+          "title": "XXIV",
+          "href": "OEBPS/Text/anna_karenina_030.xhtml#toc_marker-1-24"
+        },
+        {
+          "title": "XXV",
+          "href": "OEBPS/Text/anna_karenina_031.xhtml#toc_marker-1-25"
+        },
+        {
+          "title": "XXVI",
+          "href": "OEBPS/Text/anna_karenina_032.xhtml#toc_marker-1-26"
+        },
+        {
+          "title": "XXVII",
+          "href": "OEBPS/Text/anna_karenina_033.xhtml#toc_marker-1-27"
+        },
+        {
+          "title": "XXVIII",
+          "href": "OEBPS/Text/anna_karenina_034.xhtml#toc_marker-1-28"
+        },
+        {
+          "title": "XXIX",
+          "href": "OEBPS/Text/anna_karenina_035.xhtml#toc_marker-1-29"
+        },
+        {
+          "title": "XXX",
+          "href": "OEBPS/Text/anna_karenina_036.xhtml#toc_marker-1-30"
+        },
+        {
+          "title": "XXXI",
+          "href": "OEBPS/Text/anna_karenina_037.xhtml#toc_marker-1-31"
+        },
+        {
+          "title": "XXXII",
+          "href": "OEBPS/Text/anna_karenina_038.xhtml#toc_marker-1-32"
+        },
+        {
+          "title": "XXXIII",
+          "href": "OEBPS/Text/anna_karenina_039.xhtml#toc_marker-1-33"
+        },
+        {
+          "title": "XXXIV",
+          "href": "OEBPS/Text/anna_karenina_040.xhtml#toc_marker-1-34"
+        }
+      ],
+      "href": "OEBPS/Text/anna_karenina_006.xhtml#toc_marker-1"
+    },
+    {
+      "title": "ČÁST DRUHÁ",
+      "children": [
+        {
+          "title": "I",
+          "href": "OEBPS/Text/anna_karenina_042.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "II",
+          "href": "OEBPS/Text/anna_karenina_043.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "III",
+          "href": "OEBPS/Text/anna_karenina_044.xhtml#toc_marker-2-3"
+        },
+        {
+          "title": "IV",
+          "href": "OEBPS/Text/anna_karenina_045.xhtml#toc_marker-2-4"
+        },
+        {
+          "title": "V",
+          "href": "OEBPS/Text/anna_karenina_046.xhtml#toc_marker-2-5"
+        },
+        {
+          "title": "VI",
+          "href": "OEBPS/Text/anna_karenina_047.xhtml#toc_marker-2-6"
+        },
+        {
+          "title": "VII",
+          "href": "OEBPS/Text/anna_karenina_048.xhtml#toc_marker-2-7"
+        },
+        {
+          "title": "VIII",
+          "href": "OEBPS/Text/anna_karenina_049.xhtml#toc_marker-2-8"
+        },
+        {
+          "title": "IX",
+          "href": "OEBPS/Text/anna_karenina_050.xhtml#toc_marker-2-9"
+        },
+        {
+          "title": "X",
+          "href": "OEBPS/Text/anna_karenina_051.xhtml#toc_marker-2-10"
+        },
+        {
+          "title": "XI",
+          "href": "OEBPS/Text/anna_karenina_052.xhtml#toc_marker-2-11"
+        },
+        {
+          "title": "XII",
+          "href": "OEBPS/Text/anna_karenina_053.xhtml#toc_marker-2-12"
+        },
+        {
+          "title": "XIII",
+          "href": "OEBPS/Text/anna_karenina_054.xhtml#toc_marker-2-13"
+        },
+        {
+          "title": "XIV",
+          "href": "OEBPS/Text/anna_karenina_055.xhtml#toc_marker-2-14"
+        },
+        {
+          "title": "XV",
+          "href": "OEBPS/Text/anna_karenina_056.xhtml#toc_marker-2-15"
+        },
+        {
+          "title": "XVI",
+          "href": "OEBPS/Text/anna_karenina_057.xhtml#toc_marker-2-16"
+        },
+        {
+          "title": "XVII",
+          "href": "OEBPS/Text/anna_karenina_058.xhtml#toc_marker-2-17"
+        },
+        {
+          "title": "XVIII",
+          "href": "OEBPS/Text/anna_karenina_059.xhtml#toc_marker-2-18"
+        },
+        {
+          "title": "XIX",
+          "href": "OEBPS/Text/anna_karenina_060.xhtml#toc_marker-2-19"
+        },
+        {
+          "title": "XX",
+          "href": "OEBPS/Text/anna_karenina_061.xhtml#toc_marker-2-20"
+        },
+        {
+          "title": "XXI",
+          "href": "OEBPS/Text/anna_karenina_062.xhtml#toc_marker-2-21"
+        },
+        {
+          "title": "XXII",
+          "href": "OEBPS/Text/anna_karenina_063.xhtml#toc_marker-2-22"
+        },
+        {
+          "title": "XXIII",
+          "href": "OEBPS/Text/anna_karenina_064.xhtml#toc_marker-2-23"
+        },
+        {
+          "title": "XXIV",
+          "href": "OEBPS/Text/anna_karenina_065.xhtml#toc_marker-2-24"
+        },
+        {
+          "title": "XXV",
+          "href": "OEBPS/Text/anna_karenina_066.xhtml#toc_marker-2-25"
+        },
+        {
+          "title": "XXVI",
+          "href": "OEBPS/Text/anna_karenina_067.xhtml#toc_marker-2-26"
+        },
+        {
+          "title": "XXVII",
+          "href": "OEBPS/Text/anna_karenina_068.xhtml#toc_marker-2-27"
+        },
+        {
+          "title": "XXVIII",
+          "href": "OEBPS/Text/anna_karenina_069.xhtml#toc_marker-2-28"
+        },
+        {
+          "title": "XXIX",
+          "href": "OEBPS/Text/anna_karenina_070.xhtml#toc_marker-2-29"
+        },
+        {
+          "title": "XXX",
+          "href": "OEBPS/Text/anna_karenina_071.xhtml#toc_marker-2-30"
+        },
+        {
+          "title": "XXXI",
+          "href": "OEBPS/Text/anna_karenina_072.xhtml#toc_marker-2-31"
+        },
+        {
+          "title": "XXXII",
+          "href": "OEBPS/Text/anna_karenina_073.xhtml#toc_marker-2-32"
+        },
+        {
+          "title": "XXXIII",
+          "href": "OEBPS/Text/anna_karenina_074.xhtml#toc_marker-2-33"
+        },
+        {
+          "title": "XXXIV",
+          "href": "OEBPS/Text/anna_karenina_075.xhtml#toc_marker-2-34"
+        },
+        {
+          "title": "XXXV",
+          "href": "OEBPS/Text/anna_karenina_076.xhtml#toc_marker-2-35"
+        }
+      ],
+      "href": "OEBPS/Text/anna_karenina_041.xhtml#toc_marker-2"
+    },
+    {
+      "title": "ČÁST TŘETÍ",
+      "children": [
+        {
+          "title": "I",
+          "href": "OEBPS/Text/anna_karenina_078.xhtml#toc_marker-3-1"
+        },
+        {
+          "title": "II",
+          "href": "OEBPS/Text/anna_karenina_079.xhtml#toc_marker-3-2"
+        },
+        {
+          "title": "III",
+          "href": "OEBPS/Text/anna_karenina_080.xhtml#toc_marker-3-3"
+        },
+        {
+          "title": "IV",
+          "href": "OEBPS/Text/anna_karenina_081.xhtml#toc_marker-3-4"
+        },
+        {
+          "title": "V",
+          "href": "OEBPS/Text/anna_karenina_082.xhtml#toc_marker-3-5"
+        },
+        {
+          "title": "VI",
+          "href": "OEBPS/Text/anna_karenina_083.xhtml#toc_marker-3-6"
+        },
+        {
+          "title": "VII",
+          "href": "OEBPS/Text/anna_karenina_084.xhtml#toc_marker-3-7"
+        },
+        {
+          "title": "VIII",
+          "href": "OEBPS/Text/anna_karenina_085.xhtml#toc_marker-3-8"
+        },
+        {
+          "title": "IX",
+          "href": "OEBPS/Text/anna_karenina_086.xhtml#toc_marker-3-9"
+        },
+        {
+          "title": "X",
+          "href": "OEBPS/Text/anna_karenina_087.xhtml#toc_marker-3-10"
+        },
+        {
+          "title": "XI",
+          "href": "OEBPS/Text/anna_karenina_088.xhtml#toc_marker-3-11"
+        },
+        {
+          "title": "XII",
+          "href": "OEBPS/Text/anna_karenina_089.xhtml#toc_marker-3-12"
+        },
+        {
+          "title": "XIII",
+          "href": "OEBPS/Text/anna_karenina_090.xhtml#toc_marker-3-13"
+        },
+        {
+          "title": "XIV",
+          "href": "OEBPS/Text/anna_karenina_091.xhtml#toc_marker-3-14"
+        },
+        {
+          "title": "XV",
+          "href": "OEBPS/Text/anna_karenina_092.xhtml#toc_marker-3-15"
+        },
+        {
+          "title": "XVI",
+          "href": "OEBPS/Text/anna_karenina_093.xhtml#toc_marker-3-16"
+        },
+        {
+          "title": "XVII",
+          "href": "OEBPS/Text/anna_karenina_094.xhtml#toc_marker-3-17"
+        },
+        {
+          "title": "XVIII",
+          "href": "OEBPS/Text/anna_karenina_095.xhtml#toc_marker-3-18"
+        },
+        {
+          "title": "XIX",
+          "href": "OEBPS/Text/anna_karenina_096.xhtml#toc_marker-3-19"
+        },
+        {
+          "title": "XX",
+          "href": "OEBPS/Text/anna_karenina_097.xhtml#toc_marker-3-20"
+        },
+        {
+          "title": "XXI",
+          "href": "OEBPS/Text/anna_karenina_098.xhtml#toc_marker-3-21"
+        },
+        {
+          "title": "XXII",
+          "href": "OEBPS/Text/anna_karenina_099.xhtml#toc_marker-3-22"
+        },
+        {
+          "title": "XXIII",
+          "href": "OEBPS/Text/anna_karenina_100.xhtml#toc_marker-3-23"
+        },
+        {
+          "title": "XXIV",
+          "href": "OEBPS/Text/anna_karenina_101.xhtml#toc_marker-3-24"
+        },
+        {
+          "title": "XXV",
+          "href": "OEBPS/Text/anna_karenina_102.xhtml#toc_marker-3-25"
+        },
+        {
+          "title": "XXVI",
+          "href": "OEBPS/Text/anna_karenina_103.xhtml#toc_marker-3-26"
+        },
+        {
+          "title": "XXVII",
+          "href": "OEBPS/Text/anna_karenina_104.xhtml#toc_marker-3-27"
+        },
+        {
+          "title": "XXVIII",
+          "href": "OEBPS/Text/anna_karenina_105.xhtml#toc_marker-3-28"
+        },
+        {
+          "title": "XXIX",
+          "href": "OEBPS/Text/anna_karenina_106.xhtml#toc_marker-3-29"
+        },
+        {
+          "title": "XXX",
+          "href": "OEBPS/Text/anna_karenina_107.xhtml#toc_marker-3-30"
+        },
+        {
+          "title": "XXXI",
+          "href": "OEBPS/Text/anna_karenina_108.xhtml#toc_marker-3-31"
+        },
+        {
+          "title": "XXXII",
+          "href": "OEBPS/Text/anna_karenina_109.xhtml#toc_marker-3-32"
+        }
+      ],
+      "href": "OEBPS/Text/anna_karenina_077.xhtml#toc_marker-3"
+    },
+    {
+      "title": "ČÁST ČTVRTÁ",
+      "children": [
+        {
+          "title": "I",
+          "href": "OEBPS/Text/anna_karenina_111.xhtml#toc_marker-4-1"
+        },
+        {
+          "title": "II",
+          "href": "OEBPS/Text/anna_karenina_112.xhtml#toc_marker-4-2"
+        },
+        {
+          "title": "III",
+          "href": "OEBPS/Text/anna_karenina_113.xhtml#toc_marker-4-3"
+        },
+        {
+          "title": "IV",
+          "href": "OEBPS/Text/anna_karenina_114.xhtml#toc_marker-4-4"
+        },
+        {
+          "title": "V",
+          "href": "OEBPS/Text/anna_karenina_115.xhtml#toc_marker-4-5"
+        },
+        {
+          "title": "VI",
+          "href": "OEBPS/Text/anna_karenina_116.xhtml#toc_marker-4-6"
+        },
+        {
+          "title": "VII",
+          "href": "OEBPS/Text/anna_karenina_117.xhtml#toc_marker-4-7"
+        },
+        {
+          "title": "VIII",
+          "href": "OEBPS/Text/anna_karenina_118.xhtml#toc_marker-4-8"
+        },
+        {
+          "title": "IX",
+          "href": "OEBPS/Text/anna_karenina_119.xhtml#toc_marker-4-9"
+        },
+        {
+          "title": "X",
+          "href": "OEBPS/Text/anna_karenina_120.xhtml#toc_marker-4-10"
+        },
+        {
+          "title": "XI",
+          "href": "OEBPS/Text/anna_karenina_121.xhtml#toc_marker-4-11"
+        },
+        {
+          "title": "XII",
+          "href": "OEBPS/Text/anna_karenina_122.xhtml#toc_marker-4-12"
+        },
+        {
+          "title": "XIII",
+          "href": "OEBPS/Text/anna_karenina_123.xhtml#toc_marker-4-13"
+        },
+        {
+          "title": "XIV",
+          "href": "OEBPS/Text/anna_karenina_124.xhtml#toc_marker-4-14"
+        },
+        {
+          "title": "XV",
+          "href": "OEBPS/Text/anna_karenina_125.xhtml#toc_marker-4-15"
+        },
+        {
+          "title": "XVI",
+          "href": "OEBPS/Text/anna_karenina_126.xhtml#toc_marker-4-16"
+        },
+        {
+          "title": "XVII",
+          "href": "OEBPS/Text/anna_karenina_127.xhtml#toc_marker-4-17"
+        },
+        {
+          "title": "XVIII",
+          "href": "OEBPS/Text/anna_karenina_128.xhtml#toc_marker-4-18"
+        },
+        {
+          "title": "XIX",
+          "href": "OEBPS/Text/anna_karenina_129.xhtml#toc_marker-4-19"
+        },
+        {
+          "title": "XX",
+          "href": "OEBPS/Text/anna_karenina_130.xhtml#toc_marker-4-20"
+        },
+        {
+          "title": "XXI",
+          "href": "OEBPS/Text/anna_karenina_131.xhtml#toc_marker-4-21"
+        },
+        {
+          "title": "XXII",
+          "href": "OEBPS/Text/anna_karenina_132.xhtml#toc_marker-4-22"
+        },
+        {
+          "title": "XXIII",
+          "href": "OEBPS/Text/anna_karenina_133.xhtml#toc_marker-4-23"
+        }
+      ],
+      "href": "OEBPS/Text/anna_karenina_110.xhtml#toc_marker-4"
+    }
+  ]
+}
