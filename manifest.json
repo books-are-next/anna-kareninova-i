@@ -1,0 +1,2709 @@
+{
+  "author": "Lev Nikolajevič Tolstoj",
+  "edition": "beletrie",
+  "identifier": "tolstoj-anna-kareninova-i-d916c28",
+  "languagecode": "cs",
+  "modified": "2021-12-09T07:58:45.782Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Anna Kareninová I",
+  "revision": "d916c28",
+  "generatedAt": {
+    "date": "Thu Dec 09 2021 08:28:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1639038514047
+  },
+  "documents": [
+    {
+      "title": "Anna Kareninová I",
+      "file": "anna_karenina_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "anna_karenina_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anna Kareninová I",
+      "file": "anna_karenina_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "anna_karenina_001.html",
+      "next": "anna_karenina_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anna Kareninová I",
+      "file": "anna_karenina_003.html",
+      "words": 9,
+      "chars": 63,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 2,
+      "prev": "anna_karenina_002.html",
+      "next": "anna_karenina_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anna Kareninová I",
+      "file": "anna_karenina_004.html",
+      "words": 92,
+      "chars": 609,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "anna_karenina_003.html",
+      "next": "anna_karenina_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anna Kareninová I",
+      "file": "anna_karenina_005.html",
+      "words": 12,
+      "chars": 62,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 4,
+      "prev": "anna_karenina_004.html",
+      "next": "anna_karenina_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST PRVNÍ • Anna Kareninová I",
+      "file": "anna_karenina_006.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "anna_karenina_005.html",
+      "next": "anna_karenina_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST PRVNÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Anna Kareninová I",
+      "file": "anna_karenina_007.html",
+      "words": 709,
+      "chars": 4186,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 6,
+      "prev": "anna_karenina_006.html",
+      "next": "anna_karenina_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Anna Kareninová I",
+      "file": "anna_karenina_008.html",
+      "words": 909,
+      "chars": 5575,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 7,
+      "prev": "anna_karenina_007.html",
+      "next": "anna_karenina_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV • Anna Kareninová I",
+      "file": "anna_karenina_009.html",
+      "words": 1393,
+      "chars": 8143,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 8,
+      "prev": "anna_karenina_008.html",
+      "next": "anna_karenina_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Anna Kareninová I",
+      "file": "anna_karenina_010.html",
+      "words": 1288,
+      "chars": 7749,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 9,
+      "prev": "anna_karenina_009.html",
+      "next": "anna_karenina_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V • Anna Kareninová I",
+      "file": "anna_karenina_011.html",
+      "words": 2407,
+      "chars": 14551,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 10,
+      "prev": "anna_karenina_010.html",
+      "next": "anna_karenina_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI • Anna Kareninová I",
+      "file": "anna_karenina_012.html",
+      "words": 832,
+      "chars": 5124,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 11,
+      "prev": "anna_karenina_011.html",
+      "next": "anna_karenina_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII • Anna Kareninová I",
+      "file": "anna_karenina_013.html",
+      "words": 544,
+      "chars": 3422,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 12,
+      "prev": "anna_karenina_012.html",
+      "next": "anna_karenina_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII • Anna Kareninová I",
+      "file": "anna_karenina_014.html",
+      "words": 682,
+      "chars": 3975,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 13,
+      "prev": "anna_karenina_013.html",
+      "next": "anna_karenina_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX • Anna Kareninová I",
+      "file": "anna_karenina_015.html",
+      "words": 1811,
+      "chars": 10684,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 14,
+      "prev": "anna_karenina_014.html",
+      "next": "anna_karenina_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X • Anna Kareninová I",
+      "file": "anna_karenina_016.html",
+      "words": 1963,
+      "chars": 11515,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 15,
+      "prev": "anna_karenina_015.html",
+      "next": "anna_karenina_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI • Anna Kareninová I",
+      "file": "anna_karenina_017.html",
+      "words": 1256,
+      "chars": 7301,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 16,
+      "prev": "anna_karenina_016.html",
+      "next": "anna_karenina_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII • Anna Kareninová I",
+      "file": "anna_karenina_018.html",
+      "words": 1243,
+      "chars": 7483,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 17,
+      "prev": "anna_karenina_017.html",
+      "next": "anna_karenina_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII • Anna Kareninová I",
+      "file": "anna_karenina_019.html",
+      "words": 683,
+      "chars": 3893,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 18,
+      "prev": "anna_karenina_018.html",
+      "next": "anna_karenina_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV • Anna Kareninová I",
+      "file": "anna_karenina_020.html",
+      "words": 1915,
+      "chars": 11513,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 19,
+      "prev": "anna_karenina_019.html",
+      "next": "anna_karenina_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV • Anna Kareninová I",
+      "file": "anna_karenina_021.html",
+      "words": 661,
+      "chars": 3866,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 20,
+      "prev": "anna_karenina_020.html",
+      "next": "anna_karenina_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI • Anna Kareninová I",
+      "file": "anna_karenina_022.html",
+      "words": 572,
+      "chars": 3305,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 21,
+      "prev": "anna_karenina_021.html",
+      "next": "anna_karenina_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII • Anna Kareninová I",
+      "file": "anna_karenina_023.html",
+      "words": 889,
+      "chars": 5443,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 22,
+      "prev": "anna_karenina_022.html",
+      "next": "anna_karenina_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII • Anna Kareninová I",
+      "file": "anna_karenina_024.html",
+      "words": 1473,
+      "chars": 8880,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 23,
+      "prev": "anna_karenina_023.html",
+      "next": "anna_karenina_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX • Anna Kareninová I",
+      "file": "anna_karenina_025.html",
+      "words": 1739,
+      "chars": 9972,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 24,
+      "prev": "anna_karenina_024.html",
+      "next": "anna_karenina_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX • Anna Kareninová I",
+      "file": "anna_karenina_026.html",
+      "words": 1058,
+      "chars": 6068,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 25,
+      "prev": "anna_karenina_025.html",
+      "next": "anna_karenina_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI • Anna Kareninová I",
+      "file": "anna_karenina_027.html",
+      "words": 680,
+      "chars": 3951,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 26,
+      "prev": "anna_karenina_026.html",
+      "next": "anna_karenina_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII • Anna Kareninová I",
+      "file": "anna_karenina_028.html",
+      "words": 1398,
+      "chars": 8506,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 27,
+      "prev": "anna_karenina_027.html",
+      "next": "anna_karenina_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII • Anna Kareninová I",
+      "file": "anna_karenina_029.html",
+      "words": 1269,
+      "chars": 7569,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 28,
+      "prev": "anna_karenina_028.html",
+      "next": "anna_karenina_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV • Anna Kareninová I",
+      "file": "anna_karenina_030.html",
+      "words": 1272,
+      "chars": 7436,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 29,
+      "prev": "anna_karenina_029.html",
+      "next": "anna_karenina_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV • Anna Kareninová I",
+      "file": "anna_karenina_031.html",
+      "words": 1408,
+      "chars": 8319,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 30,
+      "prev": "anna_karenina_030.html",
+      "next": "anna_karenina_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI  • Anna Kareninová I",
+      "file": "anna_karenina_032.html",
+      "words": 978,
+      "chars": 5872,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 31,
+      "prev": "anna_karenina_031.html",
+      "next": "anna_karenina_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVII • Anna Kareninová I",
+      "file": "anna_karenina_033.html",
+      "words": 692,
+      "chars": 3981,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 32,
+      "prev": "anna_karenina_032.html",
+      "next": "anna_karenina_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVIII • Anna Kareninová I",
+      "file": "anna_karenina_034.html",
+      "words": 858,
+      "chars": 4925,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 33,
+      "prev": "anna_karenina_033.html",
+      "next": "anna_karenina_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIX • Anna Kareninová I",
+      "file": "anna_karenina_035.html",
+      "words": 984,
+      "chars": 5621,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 34,
+      "prev": "anna_karenina_034.html",
+      "next": "anna_karenina_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXX • Anna Kareninová I",
+      "file": "anna_karenina_036.html",
+      "words": 800,
+      "chars": 4687,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 35,
+      "prev": "anna_karenina_035.html",
+      "next": "anna_karenina_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXI • Anna Kareninová I",
+      "file": "anna_karenina_037.html",
+      "words": 1069,
+      "chars": 6208,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 36,
+      "prev": "anna_karenina_036.html",
+      "next": "anna_karenina_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXII • Anna Kareninová I",
+      "file": "anna_karenina_038.html",
+      "words": 661,
+      "chars": 3948,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 37,
+      "prev": "anna_karenina_037.html",
+      "next": "anna_karenina_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIII • Anna Kareninová I",
+      "file": "anna_karenina_039.html",
+      "words": 1028,
+      "chars": 6035,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 38,
+      "prev": "anna_karenina_038.html",
+      "next": "anna_karenina_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIV • Anna Kareninová I",
+      "file": "anna_karenina_040.html",
+      "words": 1155,
+      "chars": 6991,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 39,
+      "prev": "anna_karenina_039.html",
+      "next": "anna_karenina_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST DRUHÁ • Anna Kareninová I",
+      "file": "anna_karenina_041.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 40,
+      "prev": "anna_karenina_040.html",
+      "next": "anna_karenina_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST DRUHÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Anna Kareninová I",
+      "file": "anna_karenina_042.html",
+      "words": 995,
+      "chars": 6043,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 41,
+      "prev": "anna_karenina_041.html",
+      "next": "anna_karenina_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Anna Kareninová I",
+      "file": "anna_karenina_043.html",
+      "words": 1074,
+      "chars": 6117,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 42,
+      "prev": "anna_karenina_042.html",
+      "next": "anna_karenina_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Anna Kareninová I",
+      "file": "anna_karenina_044.html",
+      "words": 976,
+      "chars": 5669,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 43,
+      "prev": "anna_karenina_043.html",
+      "next": "anna_karenina_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV • Anna Kareninová I",
+      "file": "anna_karenina_045.html",
+      "words": 984,
+      "chars": 5978,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 44,
+      "prev": "anna_karenina_044.html",
+      "next": "anna_karenina_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V • Anna Kareninová I",
+      "file": "anna_karenina_046.html",
+      "words": 1036,
+      "chars": 6251,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 45,
+      "prev": "anna_karenina_045.html",
+      "next": "anna_karenina_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI • Anna Kareninová I",
+      "file": "anna_karenina_047.html",
+      "words": 1420,
+      "chars": 8682,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 46,
+      "prev": "anna_karenina_046.html",
+      "next": "anna_karenina_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII • Anna Kareninová I",
+      "file": "anna_karenina_048.html",
+      "words": 1524,
+      "chars": 8963,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 47,
+      "prev": "anna_karenina_047.html",
+      "next": "anna_karenina_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII • Anna Kareninová I",
+      "file": "anna_karenina_049.html",
+      "words": 1196,
+      "chars": 6924,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 48,
+      "prev": "anna_karenina_048.html",
+      "next": "anna_karenina_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX • Anna Kareninová I",
+      "file": "anna_karenina_050.html",
+      "words": 1110,
+      "chars": 6459,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 49,
+      "prev": "anna_karenina_049.html",
+      "next": "anna_karenina_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X • Anna Kareninová I",
+      "file": "anna_karenina_051.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 50,
+      "prev": "anna_karenina_050.html",
+      "next": "anna_karenina_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI • Anna Kareninová I",
+      "file": "anna_karenina_052.html",
+      "words": 621,
+      "chars": 3469,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 51,
+      "prev": "anna_karenina_051.html",
+      "next": "anna_karenina_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII • Anna Kareninová I",
+      "file": "anna_karenina_053.html",
+      "words": 922,
+      "chars": 5529,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 52,
+      "prev": "anna_karenina_052.html",
+      "next": "anna_karenina_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII • Anna Kareninová I",
+      "file": "anna_karenina_054.html",
+      "words": 1946,
+      "chars": 11338,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 53,
+      "prev": "anna_karenina_053.html",
+      "next": "anna_karenina_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV • Anna Kareninová I",
+      "file": "anna_karenina_055.html",
+      "words": 1293,
+      "chars": 7394,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 54,
+      "prev": "anna_karenina_054.html",
+      "next": "anna_karenina_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV • Anna Kareninová I",
+      "file": "anna_karenina_056.html",
+      "words": 975,
+      "chars": 5855,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 55,
+      "prev": "anna_karenina_055.html",
+      "next": "anna_karenina_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI • Anna Kareninová I",
+      "file": "anna_karenina_057.html",
+      "words": 1269,
+      "chars": 7456,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 56,
+      "prev": "anna_karenina_056.html",
+      "next": "anna_karenina_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII • Anna Kareninová I",
+      "file": "anna_karenina_058.html",
+      "words": 1272,
+      "chars": 7462,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 57,
+      "prev": "anna_karenina_057.html",
+      "next": "anna_karenina_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII • Anna Kareninová I",
+      "file": "anna_karenina_059.html",
+      "words": 584,
+      "chars": 3556,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 58,
+      "prev": "anna_karenina_058.html",
+      "next": "anna_karenina_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX • Anna Kareninová I",
+      "file": "anna_karenina_060.html",
+      "words": 925,
+      "chars": 5502,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 59,
+      "prev": "anna_karenina_059.html",
+      "next": "anna_karenina_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX • Anna Kareninová I",
+      "file": "anna_karenina_061.html",
+      "words": 759,
+      "chars": 4508,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 60,
+      "prev": "anna_karenina_060.html",
+      "next": "anna_karenina_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI • Anna Kareninová I",
+      "file": "anna_karenina_062.html",
+      "words": 1466,
+      "chars": 8646,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 61,
+      "prev": "anna_karenina_061.html",
+      "next": "anna_karenina_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII • Anna Kareninová I",
+      "file": "anna_karenina_063.html",
+      "words": 1432,
+      "chars": 8407,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 62,
+      "prev": "anna_karenina_062.html",
+      "next": "anna_karenina_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII • Anna Kareninová I",
+      "file": "anna_karenina_064.html",
+      "words": 832,
+      "chars": 4806,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 63,
+      "prev": "anna_karenina_063.html",
+      "next": "anna_karenina_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV • Anna Kareninová I",
+      "file": "anna_karenina_065.html",
+      "words": 1703,
+      "chars": 10430,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 64,
+      "prev": "anna_karenina_064.html",
+      "next": "anna_karenina_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV • Anna Kareninová I",
+      "file": "anna_karenina_066.html",
+      "words": 1477,
+      "chars": 8808,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 65,
+      "prev": "anna_karenina_065.html",
+      "next": "anna_karenina_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI • Anna Kareninová I",
+      "file": "anna_karenina_067.html",
+      "words": 1305,
+      "chars": 7980,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 66,
+      "prev": "anna_karenina_066.html",
+      "next": "anna_karenina_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVII • Anna Kareninová I",
+      "file": "anna_karenina_068.html",
+      "words": 704,
+      "chars": 4253,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 67,
+      "prev": "anna_karenina_067.html",
+      "next": "anna_karenina_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVIII • Anna Kareninová I",
+      "file": "anna_karenina_069.html",
+      "words": 1118,
+      "chars": 6837,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 68,
+      "prev": "anna_karenina_068.html",
+      "next": "anna_karenina_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIX • Anna Kareninová I",
+      "file": "anna_karenina_070.html",
+      "words": 1007,
+      "chars": 5895,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 69,
+      "prev": "anna_karenina_069.html",
+      "next": "anna_karenina_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXX • Anna Kareninová I",
+      "file": "anna_karenina_071.html",
+      "words": 1000,
+      "chars": 6076,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 70,
+      "prev": "anna_karenina_070.html",
+      "next": "anna_karenina_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXI • Anna Kareninová I",
+      "file": "anna_karenina_072.html",
+      "words": 795,
+      "chars": 4775,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 71,
+      "prev": "anna_karenina_071.html",
+      "next": "anna_karenina_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXII • Anna Kareninová I",
+      "file": "anna_karenina_073.html",
+      "words": 1390,
+      "chars": 8140,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 72,
+      "prev": "anna_karenina_072.html",
+      "next": "anna_karenina_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIII • Anna Kareninová I",
+      "file": "anna_karenina_074.html",
+      "words": 1334,
+      "chars": 7879,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 73,
+      "prev": "anna_karenina_073.html",
+      "next": "anna_karenina_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIV • Anna Kareninová I",
+      "file": "anna_karenina_075.html",
+      "words": 1673,
+      "chars": 10125,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 74,
+      "prev": "anna_karenina_074.html",
+      "next": "anna_karenina_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXV • Anna Kareninová I",
+      "file": "anna_karenina_076.html",
+      "words": 1467,
+      "chars": 8720,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 75,
+      "prev": "anna_karenina_075.html",
+      "next": "anna_karenina_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST TŘETÍ • Anna Kareninová I",
+      "file": "anna_karenina_077.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 76,
+      "prev": "anna_karenina_076.html",
+      "next": "anna_karenina_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST TŘETÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Anna Kareninová I",
+      "file": "anna_karenina_078.html",
+      "words": 1018,
+      "chars": 6146,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 77,
+      "prev": "anna_karenina_077.html",
+      "next": "anna_karenina_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Anna Kareninová I",
+      "file": "anna_karenina_079.html",
+      "words": 770,
+      "chars": 4596,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 78,
+      "prev": "anna_karenina_078.html",
+      "next": "anna_karenina_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Anna Kareninová I",
+      "file": "anna_karenina_080.html",
+      "words": 1679,
+      "chars": 10147,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 79,
+      "prev": "anna_karenina_079.html",
+      "next": "anna_karenina_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV • Anna Kareninová I",
+      "file": "anna_karenina_081.html",
+      "words": 1432,
+      "chars": 8120,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 80,
+      "prev": "anna_karenina_080.html",
+      "next": "anna_karenina_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V • Anna Kareninová I",
+      "file": "anna_karenina_082.html",
+      "words": 1436,
+      "chars": 8367,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 81,
+      "prev": "anna_karenina_081.html",
+      "next": "anna_karenina_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI • Anna Kareninová I",
+      "file": "anna_karenina_083.html",
+      "words": 995,
+      "chars": 5712,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 82,
+      "prev": "anna_karenina_082.html",
+      "next": "anna_karenina_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII • Anna Kareninová I",
+      "file": "anna_karenina_084.html",
+      "words": 1083,
+      "chars": 6552,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 83,
+      "prev": "anna_karenina_083.html",
+      "next": "anna_karenina_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII • Anna Kareninová I",
+      "file": "anna_karenina_085.html",
+      "words": 1305,
+      "chars": 7879,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 84,
+      "prev": "anna_karenina_084.html",
+      "next": "anna_karenina_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX • Anna Kareninová I",
+      "file": "anna_karenina_086.html",
+      "words": 818,
+      "chars": 4822,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 85,
+      "prev": "anna_karenina_085.html",
+      "next": "anna_karenina_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X • Anna Kareninová I",
+      "file": "anna_karenina_087.html",
+      "words": 1158,
+      "chars": 6861,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 86,
+      "prev": "anna_karenina_086.html",
+      "next": "anna_karenina_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI • Anna Kareninová I",
+      "file": "anna_karenina_088.html",
+      "words": 819,
+      "chars": 4904,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 87,
+      "prev": "anna_karenina_087.html",
+      "next": "anna_karenina_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII • Anna Kareninová I",
+      "file": "anna_karenina_089.html",
+      "words": 1121,
+      "chars": 6567,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 88,
+      "prev": "anna_karenina_088.html",
+      "next": "anna_karenina_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII • Anna Kareninová I",
+      "file": "anna_karenina_090.html",
+      "words": 1836,
+      "chars": 11149,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 89,
+      "prev": "anna_karenina_089.html",
+      "next": "anna_karenina_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV • Anna Kareninová I",
+      "file": "anna_karenina_091.html",
+      "words": 1284,
+      "chars": 8105,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 90,
+      "prev": "anna_karenina_090.html",
+      "next": "anna_karenina_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV • Anna Kareninová I",
+      "file": "anna_karenina_092.html",
+      "words": 1557,
+      "chars": 9020,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 91,
+      "prev": "anna_karenina_091.html",
+      "next": "anna_karenina_093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI • Anna Kareninová I",
+      "file": "anna_karenina_093.html",
+      "words": 1000,
+      "chars": 5807,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 92,
+      "prev": "anna_karenina_092.html",
+      "next": "anna_karenina_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII • Anna Kareninová I",
+      "file": "anna_karenina_094.html",
+      "words": 1475,
+      "chars": 8801,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 93,
+      "prev": "anna_karenina_093.html",
+      "next": "anna_karenina_095.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII • Anna Kareninová I",
+      "file": "anna_karenina_095.html",
+      "words": 1201,
+      "chars": 7149,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 94,
+      "prev": "anna_karenina_094.html",
+      "next": "anna_karenina_096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX • Anna Kareninová I",
+      "file": "anna_karenina_096.html",
+      "words": 952,
+      "chars": 5634,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 95,
+      "prev": "anna_karenina_095.html",
+      "next": "anna_karenina_097.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX • Anna Kareninová I",
+      "file": "anna_karenina_097.html",
+      "words": 953,
+      "chars": 5589,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 96,
+      "prev": "anna_karenina_096.html",
+      "next": "anna_karenina_098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI • Anna Kareninová I",
+      "file": "anna_karenina_098.html",
+      "words": 1842,
+      "chars": 11002,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 97,
+      "prev": "anna_karenina_097.html",
+      "next": "anna_karenina_099.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII • Anna Kareninová I",
+      "file": "anna_karenina_099.html",
+      "words": 1492,
+      "chars": 8739,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 98,
+      "prev": "anna_karenina_098.html",
+      "next": "anna_karenina_100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII • Anna Kareninová I",
+      "file": "anna_karenina_100.html",
+      "words": 1100,
+      "chars": 6574,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 99,
+      "prev": "anna_karenina_099.html",
+      "next": "anna_karenina_101.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV • Anna Kareninová I",
+      "file": "anna_karenina_101.html",
+      "words": 1092,
+      "chars": 6493,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 100,
+      "prev": "anna_karenina_100.html",
+      "next": "anna_karenina_102.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV • Anna Kareninová I",
+      "file": "anna_karenina_102.html",
+      "words": 893,
+      "chars": 5404,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 101,
+      "prev": "anna_karenina_101.html",
+      "next": "anna_karenina_103.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI • Anna Kareninová I",
+      "file": "anna_karenina_103.html",
+      "words": 1389,
+      "chars": 8438,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 102,
+      "prev": "anna_karenina_102.html",
+      "next": "anna_karenina_104.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVII • Anna Kareninová I",
+      "file": "anna_karenina_104.html",
+      "words": 1718,
+      "chars": 10701,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 103,
+      "prev": "anna_karenina_103.html",
+      "next": "anna_karenina_105.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVIII • Anna Kareninová I",
+      "file": "anna_karenina_105.html",
+      "words": 1387,
+      "chars": 8279,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 104,
+      "prev": "anna_karenina_104.html",
+      "next": "anna_karenina_106.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIX • Anna Kareninová I",
+      "file": "anna_karenina_106.html",
+      "words": 1339,
+      "chars": 8175,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 105,
+      "prev": "anna_karenina_105.html",
+      "next": "anna_karenina_107.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXX • Anna Kareninová I",
+      "file": "anna_karenina_107.html",
+      "words": 1027,
+      "chars": 6064,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 106,
+      "prev": "anna_karenina_106.html",
+      "next": "anna_karenina_108.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXI • Anna Kareninová I",
+      "file": "anna_karenina_108.html",
+      "words": 1183,
+      "chars": 6824,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 107,
+      "prev": "anna_karenina_107.html",
+      "next": "anna_karenina_109.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXII • Anna Kareninová I",
+      "file": "anna_karenina_109.html",
+      "words": 914,
+      "chars": 5306,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 108,
+      "prev": "anna_karenina_108.html",
+      "next": "anna_karenina_110.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČÁST ČTVRTÁ • Anna Kareninová I",
+      "file": "anna_karenina_110.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 109,
+      "prev": "anna_karenina_109.html",
+      "next": "anna_karenina_111.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST ČTVRTÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Anna Kareninová I",
+      "file": "anna_karenina_111.html",
+      "words": 747,
+      "chars": 4503,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 110,
+      "prev": "anna_karenina_110.html",
+      "next": "anna_karenina_112.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Anna Kareninová I",
+      "file": "anna_karenina_112.html",
+      "words": 654,
+      "chars": 3796,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 111,
+      "prev": "anna_karenina_111.html",
+      "next": "anna_karenina_113.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Anna Kareninová I",
+      "file": "anna_karenina_113.html",
+      "words": 1649,
+      "chars": 9315,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 112,
+      "prev": "anna_karenina_112.html",
+      "next": "anna_karenina_114.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV • Anna Kareninová I",
+      "file": "anna_karenina_114.html",
+      "words": 991,
+      "chars": 5951,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 113,
+      "prev": "anna_karenina_113.html",
+      "next": "anna_karenina_115.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V • Anna Kareninová I",
+      "file": "anna_karenina_115.html",
+      "words": 1394,
+      "chars": 8932,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 114,
+      "prev": "anna_karenina_114.html",
+      "next": "anna_karenina_116.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI • Anna Kareninová I",
+      "file": "anna_karenina_116.html",
+      "words": 1024,
+      "chars": 6475,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 115,
+      "prev": "anna_karenina_115.html",
+      "next": "anna_karenina_117.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII • Anna Kareninová I",
+      "file": "anna_karenina_117.html",
+      "words": 1185,
+      "chars": 7013,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 116,
+      "prev": "anna_karenina_116.html",
+      "next": "anna_karenina_118.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII • Anna Kareninová I",
+      "file": "anna_karenina_118.html",
+      "words": 1150,
+      "chars": 6934,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 117,
+      "prev": "anna_karenina_117.html",
+      "next": "anna_karenina_119.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX • Anna Kareninová I",
+      "file": "anna_karenina_119.html",
+      "words": 1754,
+      "chars": 10670,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 118,
+      "prev": "anna_karenina_118.html",
+      "next": "anna_karenina_120.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X • Anna Kareninová I",
+      "file": "anna_karenina_120.html",
+      "words": 1117,
+      "chars": 7213,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 119,
+      "prev": "anna_karenina_119.html",
+      "next": "anna_karenina_121.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI • Anna Kareninová I",
+      "file": "anna_karenina_121.html",
+      "words": 508,
+      "chars": 2909,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 120,
+      "prev": "anna_karenina_120.html",
+      "next": "anna_karenina_122.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII • Anna Kareninová I",
+      "file": "anna_karenina_122.html",
+      "words": 1267,
+      "chars": 7680,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 121,
+      "prev": "anna_karenina_121.html",
+      "next": "anna_karenina_123.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII • Anna Kareninová I",
+      "file": "anna_karenina_123.html",
+      "words": 1111,
+      "chars": 6433,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 122,
+      "prev": "anna_karenina_122.html",
+      "next": "anna_karenina_124.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV • Anna Kareninová I",
+      "file": "anna_karenina_124.html",
+      "words": 1226,
+      "chars": 7019,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 123,
+      "prev": "anna_karenina_123.html",
+      "next": "anna_karenina_125.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV • Anna Kareninová I",
+      "file": "anna_karenina_125.html",
+      "words": 1097,
+      "chars": 6226,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 124,
+      "prev": "anna_karenina_124.html",
+      "next": "anna_karenina_126.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI • Anna Kareninová I",
+      "file": "anna_karenina_126.html",
+      "words": 1030,
+      "chars": 6016,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 125,
+      "prev": "anna_karenina_125.html",
+      "next": "anna_karenina_127.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII • Anna Kareninová I",
+      "file": "anna_karenina_127.html",
+      "words": 2172,
+      "chars": 12798,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 126,
+      "prev": "anna_karenina_126.html",
+      "next": "anna_karenina_128.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII • Anna Kareninová I",
+      "file": "anna_karenina_128.html",
+      "words": 1163,
+      "chars": 6974,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 127,
+      "prev": "anna_karenina_127.html",
+      "next": "anna_karenina_129.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX • Anna Kareninová I",
+      "file": "anna_karenina_129.html",
+      "words": 1766,
+      "chars": 10687,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 128,
+      "prev": "anna_karenina_128.html",
+      "next": "anna_karenina_130.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX • Anna Kareninová I",
+      "file": "anna_karenina_130.html",
+      "words": 579,
+      "chars": 3383,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 129,
+      "prev": "anna_karenina_129.html",
+      "next": "anna_karenina_131.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI • Anna Kareninová I",
+      "file": "anna_karenina_131.html",
+      "words": 948,
+      "chars": 5552,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 130,
+      "prev": "anna_karenina_130.html",
+      "next": "anna_karenina_132.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII • Anna Kareninová I",
+      "file": "anna_karenina_132.html",
+      "words": 1453,
+      "chars": 8679,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 131,
+      "prev": "anna_karenina_131.html",
+      "next": "anna_karenina_133.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII • Anna Kareninová I",
+      "file": "anna_karenina_133.html",
+      "words": 923,
+      "chars": 5331,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 132,
+      "prev": "anna_karenina_132.html",
+      "next": "anna_karenina_134.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anna Kareninová I",
+      "file": "anna_karenina_134.html",
+      "words": 52,
+      "chars": 360,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 133,
+      "prev": "anna_karenina_133.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 144222,
+      "chars": 857236,
+      "ideas": 4235
+    },
+    "chapters": {
+      "words": 144213,
+      "chars": 857180,
+      "ideas": 4230
+    }
+  }
+}
