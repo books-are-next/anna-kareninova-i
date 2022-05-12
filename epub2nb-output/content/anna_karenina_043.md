@@ -1,5 +1,6 @@
 ---
 title: II
+contentType: prose
 ---
 
 Hned po doktorovi přišla Dolly. Věděla, že toho dne má být konzilium, a třebaže nedávno vstala po porodu (koncem zimy porodila děvčátko), třebaže měla dost svého trápení a starostí, nechala doma nemluvně a onemocnělou holčičku a jela se poptat, jak se rozhodl Kittin osud.

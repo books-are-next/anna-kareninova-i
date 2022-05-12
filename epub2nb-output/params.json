@@ -49,7 +49,7 @@
             "filename": "anna_karenina_002.md",
             "xhtml": "anna_karenina_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -1517,7 +1517,7 @@
       "identifier": "urn:uuid:5aec314a-c855-4b12-aa37-42a4dc867122",
       "author": "Lev Nikolajevič Tolstoj",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-09T09:04:17.798Z"
+      "modified": "2019-02-20T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -2402,6 +2402,6 @@
       "user": "books-are-next",
       "repo": "anna-kareninova-i"
     },
-    "generatedAt": 1639040659130
+    "generatedAt": 1652351393513
   }
 }

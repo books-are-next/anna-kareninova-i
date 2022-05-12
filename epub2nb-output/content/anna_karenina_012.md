@@ -1,5 +1,6 @@
 ---
 title: VI
+contentType: prose
 ---
 
 Když se Oblonskij Levina zeptal, proč vlastně přijel, Levin se začervenal a měl za to na sebe zlost, protože mu nemohl odpovědět „chci učinit tvé švagrové nabídku k sňatku“, ač přijel jen a jen proto.

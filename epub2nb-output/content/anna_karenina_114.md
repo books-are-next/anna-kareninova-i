@@ -1,5 +1,6 @@
 ---
 title: IV
+contentType: prose
 ---
 
 Po tom, co se ve dveřích svého domova setkal s Vronským, jel Alexej Alexandrovič do italské opery, jak také bylo jeho úmyslem. Vydržel tam dvě jednání a setkal se se všemi, s kým se potřeboval setkat. Po návratu domů si bedlivě prohlédl věšák, a když zjistil, že vojenský plášť už na něm nevisí, odebral se jako vždy do svého pokoje. Ale proti svému obyčeji neulehl a chodil sem a tam do tří hodin ráno. Hněval se na ženu, že nedbá pravidel slušnosti a nechce splnit jedinou podmínku, kterou si kladl – aby milenec nechodil za ní domů. Pocit zloby nedával Alexeji Alexandroviči pokoje. Nevyhověla jeho požadavku, tudíž ji musí potrestat a splnit svou pohrůžku, totiž požádat o rozvod a vzít jí syna. Věděl, s jakými obtížemi je to spojeno, ale když jednou řekl, že to provede, musel teď pohrůžku splnit. Hraběnka Lydie Ivanovna mu naznačovala, že je to nejlepší východisko, a poslední dobou dosáhla rozvodová praxe takové dokonalosti, že Alexej Alexandrovič viděl možnost zdolání formálních obtíží. Kromě toho, neštěstí nikdy nechodí samo, a otázka národnostních menšin i otázka zavlažování polí v Zarajské gubernii mu natropily v úřadě takové nepříjemnosti, že byl celou poslední dobu nanejvýš podrážděn.

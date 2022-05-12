@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Nazítří v jedenáct hodin dopoledne jel Vronskij naproti matce na stanici petrohradské dráhy a první, kdo mu přišel na širokém schodišti do cesty, byl Oblonskij, čekající sestru, která měla přijet týmž vlakem. „Ale! Jasnosti!“ zvolal Oblonskij. „Koho čekáš?“

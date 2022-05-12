@@ -1,5 +1,6 @@
 ---
 title: XXII
+contentType: prose
 ---
 
 Oblonskij vešel do pracovny Alexeje Alexandroviče. Ve tváři měl poněkud slavnostní výraz, s jakým obvykle usedal na předsednické místo ve svém úřadě. Karenin chodil s rukama za zády po pokoji a přemýšlel o téže věci, o které mluvil Stěpan Arkaďjič s jeho ženou.

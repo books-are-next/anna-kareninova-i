@@ -1,5 +1,6 @@
 ---
 title: XXVIII
+contentType: prose
 ---
 
 Druhý den po plese časně ráno poslala Anna Arkaďjevna muži telegram, že dnes odjíždí z Moskvy.

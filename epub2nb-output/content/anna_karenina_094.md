@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Společnost na partii kroketu, do které kněžna Tverská zvala Annu, měly tvořit dvě dámy se svými ctiteli. Ty dvě dámy byly hlavními představitelkami nového vybraného petrohradského kroužku jménem les sept merveilles du monde[^40], kterýžto název byl imitací jiné imitace. Dámy náležely ke kroužku sice vznešenému, ale zcela nepřátelskému tomu, který navštěvovala Anna. Nadto byl starý Stremov, jedna z vlivných osobností v Petrohradě, ctitel Lízy Merkalovové, v úřadě soupeřem Alexeje Alexandroviče. Ze všech těch důvodů tam Anna nechtěla jít a na tento její odmítavý postoj narážela kněžna Tverská ve svém psaníčku. Ale teď Anna doufala, že se sejde s Vronským, a proto si přála jet.

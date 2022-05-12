@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 Po svačině se Levin octl jinde, mezi starým čtverákem, který mu nabídl sousedství, a mladým chlapíkem, který byl teprve od podzimu ženatý a letos šel sekat poprvé.

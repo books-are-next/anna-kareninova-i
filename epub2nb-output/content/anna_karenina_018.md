@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 Princezně Kitty Ščerbacké bylo osmnáct roků. Chodila do společnosti teprve první sezónu. Ve společnosti sklízela větší úspěchy, než mívaly obě starší sestry, a větší, než se nadála sama paní kněžna. Skoro všichni mládenci, tančící na moskevských plesích, byli do Kitty zamilováni, ba co víc, už první zimu se jí naskytly dvě vážné partie: Levin a hned po jeho odjezdu hrabě Vronskij.

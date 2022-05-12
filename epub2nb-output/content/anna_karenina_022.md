@@ -1,5 +1,6 @@
 ---
 title: XVI
+contentType: prose
 ---
 
 Vronskij nikdy nepoznal rodinný život. Jeho matka byla zamlada proslulá lvice salónů a prožila ještě za muže, a zvlášť po jeho smrti, mnoho milostných románků, o kterých se všude ve vyšších kruzích vědělo.

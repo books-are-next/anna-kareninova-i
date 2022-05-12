@@ -1,5 +1,6 @@
 ---
 title: IV
+contentType: prose
 ---
 
 Osobní věc, kterou se Levin v duchu obíral za rozhovoru s bratrem, byla: jednou loni přijel na sena, nějak se rozčilil na správce a pak použil svého uklidňujícího prostředku – půjčil si od sekáče kosu a začal sekat.

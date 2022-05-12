@@ -1,5 +1,6 @@
 ---
 title: XXVI
+contentType: prose
 ---
 
 Svijažskij byl maršálkem šlechty ve svém okrese. Byl o pět let starší než Levin a byl dávno ženat. V domácnosti žila jeho mladá švagrová, dívka Levinovi velmi sympatická. Levin věděl, že Svijažskij a jeho žena by tu dívku velice rádi za něho provdali. Věděl to docela jistě, jako to vždy vědí mladí muži, takzvaní ženichové, přestože by se to neodvážil nikomu říci. Věděl také, že by se sice rád oženil, že by z té velmi půvabné dívky podle všeho byla znamenitá manželka, ale že by se s ní přesto nemohl oženit (i kdyby nebyl zamilován do Kitty Ščerbacké), zrovna jako by nemohl odletět do nebe. A to vědomí mu kazilo požitek, který si od návštěvy u Svijažských sliboval.

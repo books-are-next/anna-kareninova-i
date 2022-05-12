@@ -1,5 +1,6 @@
 ---
 title: XXII
+contentType: prose
 ---
 
 Liják netrval dlouho, a když Vronskij přijížděl k Petěrgofu, když prostřední kůň uháněl plným klusem a táhl za sebou oba přípřežní, klusající už bez otěží blátem, slunce opět vyhlédlo a střechy vil i staré lípy v zahradách po obou stranách hlavní ulice se vlhce leskly a voda vesele kapala z větví a crčela ze střech. Už nemyslil na to, jak liják zničil závodiště, ale měl teď radost, že díky dešti ji nejspíš nalezne doma, a to samotnou, neboť věděl, že Alexej Alexandrovič se nedávno vrátil z lázní a z Petrohradu se nestěhuje.

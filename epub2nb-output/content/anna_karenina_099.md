@@ -1,5 +1,6 @@
 ---
 title: XXII
+contentType: prose
 ---
 
 Táhlo už na šestou a Vronskij, aby se neopozdil a zároveň aby nemusel jet svým spřežením, které všichni znali, nasedl do nájemného kočáru Jašvinova a nařídil kočímu, aby jel co nejrychleji. Starý čtyřmístný kočár byl prostorný. Vronskij se posadil do rohu, natáhl nohy na přední sedadlo a zamyslil se.

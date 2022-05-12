@@ -1,5 +1,6 @@
 ---
 title: XVIII
+contentType: prose
 ---
 
 Ozvaly se kroky a mužský hlas, potom ženský hlas a smích a pak následovali očekávaní hosté: Sapfó Stolzová a mladý muž sršící nadbytkem zdraví, zvaný Vaska. Bylo patrno, že strava složená z krvavých bifteků, lanýžů a burgundského mu jde náležitě k duhu. Vaska se uklonil dámám a pohlédl na ně, ale jen na vteřinu. Vstoupil za Sapfó do salónu a ubíral se přes salón za ní, jako by k ní byl uvázán, a nespouštěl z ní jiskrné oči, jako by ji chtěl pozřít. Sapfó Stolzová byla blondýna s černýma očima. Vešla na vysokých podpatcích drobnými, čilými krůčky a pevně jako muž stiskla dámám ruku.

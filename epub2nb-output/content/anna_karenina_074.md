@@ -1,5 +1,6 @@
 ---
 title: XXXIII
+contentType: prose
 ---
 
 Kitty se seznámila i s paní Stahlovou a ta známost zároveň s přátelským vztahem k Váreňce na ni měla mocný vliv, a nejen to, utěšovala ji v jejím zármutku. Nalezla útěchu v tom, že nová známost jí odhalila zcela nový svět, který neměl nic společného s její minulostí, svět ušlechtilý a krásný, z jehož výše mohla na celou minulost shlížet klidně. Poznala, že kromě života pudového, jemuž se dosud poddávala, existuje život duchovní. Ten život se zjevoval v náboženství, avšak to náboženství nemělo nic společného s tím, které znala Kitty od dětství a které se projevovalo hrubou mší a nešporami v útulku pro vdovy, kde jste se mohli setkat se známými, a memorováním církevně slovanských textů za dozoru důstojného pána. Toto bylo náboženství ušlechtilé a tajemné, související s množstvím krásných myšlenek a citů, náboženství, ve které můžeme nejen věřit, poněvadž je nám uloženo, ale které můžeme milovat.

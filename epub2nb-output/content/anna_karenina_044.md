@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 Při vstupu do Kittina salónku, hezkého růžového pokojíčku s figurkami z míšeňského porcelánu, růžového a veselého, jako byla sama Kitty ještě před dvěma měsíci, vzpomněla si Dolly, jak spolu ten pokojíček loni zařizovaly, jak radostně a láskyplně. Srdce jí usedalo, když teď spatřila Kitty, sedící na židličce u dveří a strnule zírající na cíp koberce. Kitty pohlédla na sestru a chladný, poněkud tvrdý výraz jejího obličeje se nezměnil.

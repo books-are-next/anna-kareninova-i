@@ -1,5 +1,6 @@
 ---
 title: XXXIV
+contentType: prose
 ---
 
 Kníže Ščerbackij nedokončil léčebnou kúru, jel z Karlových Varů do Badenu a Kissingenu za známými Rusy, aby se – jak říkal – nalokal ruského ovzduší, a pak už se vrátil k rodině.

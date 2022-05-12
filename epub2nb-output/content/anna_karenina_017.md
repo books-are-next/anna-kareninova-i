@@ -1,5 +1,6 @@
 ---
 title: XI
+contentType: prose
 ---
 
 Levin dopil sklenku a oba se odmlčeli.

@@ -1,5 +1,6 @@
 ---
 title: XXIII
+contentType: prose
 ---
 
 Vronskij se ji už několikrát, třebaže ne tak energicky jako nyní, pokoušel přimět, aby se zamyslila nad svým postavením, a pokaždé narážel na názorovou povrchnost a lehkomyslnost v úsudcích, s kterou i teď odpovídala na jeho výzvu. Snad v tom bylo cosi, co si nemohla či nechtěla ujasnit, a kdykoli o tom začínala mluvit, ona, skutečná Anna, se nějak hroužila do sebe a objevovala se jiná, podivná, cizí žena, kterou nemiloval, které se bál a která mu kladla odpor. Ale dnes se jí rozhodl říci vše.

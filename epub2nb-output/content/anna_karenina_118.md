@@ -1,5 +1,6 @@
 ---
 title: VIII
+contentType: prose
 ---
 
 Alexej Alexandrovič se vrátil z kostela a zůstal dopoledne doma. Měl za to dopoledne vyřídit dvě věci: za prvé přijmout deputaci národnostní menšiny, dlící toho času v Moskvě a cestující do Petrohradu, a udělit jí náležité pokyny; za druhé napsat slíbený dopis advokátovi. Deputace, třebaže vyslaná z podnětu Alexeje Alexandroviče, znamenala mnoho nepříjemností i nebezpečí, takže byl Karenin velice rád, že ji zastihl v Moskvě. Členové deputace neměli nejmenší ponětí o své úloze a povinnostech. Byli naivně přesvědčeni, že jejich úkolem je vylíčit potřeby obyvatelstva i skutečný stav věcí, a požádat vládu o pomoc, ale naprosto nechápali, že některá jejich prohlášení a požadavky jdou na ruku nepřátelské straně, a tudíž maří celou věc. Karenin si dal s nimi velkou práci, napsal jim program, který měli dodržovat, a když je propustil, napsal do Petrohradu dopisy, kam má být deputace odkázána. Hlavní pomocnicí v té věci měla být hraběnka Lydie Ivanovna. Byla odbornice pro deputace a uměla natropit s deputací tolik hluku i dát jí pravý směr jako nikdo. Když měl Alexej Alexandrovič odbytou tuto věc, napsal také advokátovi. Bez váhání mu dal své svolení, aby jednal, jak uzná za vhodné. K dopisu přiložil tři psaníčka Vronského Anně, která nalezl v jejích deskách.

@@ -1,5 +1,6 @@
 ---
 title: X
+contentType: prose
 ---
 
 Když Levin vstoupil s Oblonským do restaurace, neušel mu jakýsi zvláštní odstín skrývaného nadšení, které jevil obličej i celá postava Stěpana Arkaďjiče. Oblonskij si svlékl svrchník a v klobouku na ucho vešel do jídelny, udíleje rozkazy přehorlivým tatarským sklepníkům ve fracích a s ubrousky pod paží. Ukláněl se vpravo i vlevo svým známým, neboť zde se našli jako všude jinde a radostně ho vítali, až došel k pultu, zajedl vodku rybičkou, oslovil našminkovanou Francouzku za kancelářským stolkem, která byla samá mašlička, kraječka a kudrlinka, a cosi jí řekl, až se upřímně rozesmála. Levin si nedal vodku jen proto, že ta Francouzka, stvořená snad ze samých cizích vlasů, poudre de riz a vinaigre de toilette[^7], na něho působila urážlivě. Rychle se jí vyhnul jako nějaké nečistotě. Celá jeho duše překypovala vzpomínkami na Kitty a v očích mu zářil úsměv vítězného štěstí.

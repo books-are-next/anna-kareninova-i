@@ -1,5 +1,6 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Zatímco Oblonskij jel do Petrohradu, aby tam dostál zcela přirozené, nanejvýš nutné povinnosti, tak dobře známé všem úředníkům, byť nepochopitelné neúředníkům, povinnosti, bez níž nelze sloužit v úřadě – měl se totiž objevit na ministerstvu, aby se o něm pořád vědělo –, zatímco si k výkonu této povinnosti vzal z domova skoro všecky peníze a vesele a příjemně trávil čas na dostizích a na letních sídlech, přestěhovala se Dolly s dětmi na venkov, aby měli vydání co nejmenší. Odjela do své věnné vsi Jergušova, v které na jaře prodali les a která ležela padesát verst od Levinova Pokrovského.

@@ -1,5 +1,6 @@
 ---
 title: XXIX
+contentType: prose
 ---
 
 Tak už je po všem, chválabohu! To byla první myšlenka Anny Arkaďjevny, jakmile se naposled rozloučila s bratrem, který až do třetího zvonění stál na chodbičce lidem v cestě. Posadila se vedle Anušky a rozhlédla se v pološeru lůžkového vozu. Chválabohu, zítra uvidí Serjožu a Alexeje Alexandroviče a hezký život, na který si už zvykla, poběží jako dřív.

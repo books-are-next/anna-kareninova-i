@@ -1,5 +1,6 @@
 ---
 title: XXXII
+contentType: prose
 ---
 
 Slyšme podrobnosti, jež kněžna zvěděla o Váreňčině minulosti, o jejím vztahu k madame Stahlové i o madame Stahlové samé.

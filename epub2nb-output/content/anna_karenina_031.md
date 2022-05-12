@@ -1,5 +1,6 @@
 ---
 title: XXV
+contentType: prose
 ---
 
 „Tak vidíš,“ pokračoval Nikolaj Levin. Usilovně vraštil čelo a trhal sebou, zřejmě nevěděl, co říci a co udělat. „Víš…“ Ukázal na jakési železné tyče v koutě, převázané motouzem. „Vidíš tohle? To je zárodek nového podniku, který chceme založit. Má to být výrobní družstvo…“

@@ -1,5 +1,6 @@
 ---
 title: XX
+contentType: prose
 ---
 
 Alexej Alexandrovič se rozloučil s Betsy v sále a ubíral se k ženě. Ležela, ale jakmile zaslechla jeho kroky, honem si sedla do původní polohy a ulekaně se na něho dívala. Viděl, že plakala.

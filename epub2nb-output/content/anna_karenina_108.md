@@ -1,5 +1,6 @@
 ---
 title: XXXI
+contentType: prose
 ---
 
 Levin seběhl do půli schodiště, když uslyšel z předsíně známé pokašlávání. Ale slyšel je při zvuku vlastních kroků jen nejasně a doufal, že se zmýlil. Potom spatřil i celou vytáhlou, vyzáblou známou postavu a to už si snad neměl nic nalhávat, ale pořád ještě doufal, že se mýlí a že ten dlouhán, který si svléká zimník a odkašlává si, není jeho bratr Nikolaj.

@@ -1,5 +1,6 @@
 ---
 title: XIII
+contentType: prose
 ---
 
 Levin si obul obrovské holínky a poprvé si nevzal kožich, ale soukenný kabát, a šel po hospodářství. Kráčel přes stružky, které se třpytily v slunci, až to píchalo do očí, co chvíli šlápl do ledového škraloupu, anebo zas do lepkavého bláta.

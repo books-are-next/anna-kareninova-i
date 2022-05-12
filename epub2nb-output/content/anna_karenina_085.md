@@ -1,5 +1,6 @@
 ---
 title: VIII
+contentType: prose
 ---
 
 Koncem května, když se všecko dalo více méně do pořádku, dostala mužovu odpověď na své stesky, jaké má na vsi svízele. V dopise ji prosil za odpuštění, že všecko dost neuvážil, a sliboval, že přijede, jakmile se mu naskytne příležitost. Příležitost se nenaskytla a Darja Alexandrovna žila na vsi až do začátku června sama.

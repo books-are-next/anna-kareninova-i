@@ -1,5 +1,6 @@
 ---
 title: XIII
+contentType: prose
 ---
 
 Když se vstalo od stolu, Levin by byl nejraději šel za Kitty do salónu. Ale obával se, aby jí nebylo nemilé, že se jí tak nápadně dvoří. Setrval v kroužku pánů a účastnil se společné debaty, a třebaže se na Kitty nedíval, tušil její pohyby, její pohledy i místo, kde byla v salóně.

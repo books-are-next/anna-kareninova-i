@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 Stěpan Arkaďjič se ve škole dobře učil, neboť byl velmi nadaný, ale přitom byl lenoch a nezbeda, takže se octl mezi posledními. Ale přes svůj věčně hýřivý život, nižší hodnosti a poměrně mladá léta měl významné, dobře placené místo přednosty v jednom moskevském úřadě. Dostal je prostřednictvím manžela své sestry Anny, Alexeje Alexandroviče Karenina, zastávajícího jedno z nejdůležitějších míst na ministerstvu, jemuž úřad podléhal; ale kdyby je byl Karenin šva­grovi neopatřil, mohla zasáhnout spousta jiných osob, bratří, sester, bratranců, sestřenic, strýců i tet, a Stiva Oblonskij by byl dostal toto či podobné místo s šesti tisíci služného, které potřeboval, neboť byl na tom zle, přestože jeho žena měla slušný majetek.

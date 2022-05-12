@@ -1,5 +1,6 @@
 ---
 title: XXV
+contentType: prose
 ---
 
 Celkem jelo závod sedmnáct důstojníků. Závod se měl konat na velké, čtyřverstové eliptické dráze před tribunou. Na dráze bylo devět překážek. Řeka, pak dva lokty vysoká uzavřená překážka zrovna před tribunou, suchý příkop, příkop naplněný vodou, svah, irský banket (jedna z nejobtížnějších překážek) – násep se zastrkaným roštím, za kterým byl další příkop, jejž kůň neviděl předem, takže musel přeskočit obě překážky, nebo se zabít –; potom následovaly ještě dva příkopy s vodou a jeden suchý; cíl byl proti tribuně. Ale závod nezačínal na dráze, nýbrž sto sáhů za ní a na tomto prostranství byla první překážka, přehrazená řeka tři lokte široká, kterou mohli jezdci dle vlastní vůle přeskočit nebo přebrodit.

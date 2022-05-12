@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 Anna šla s hlavou sklopenou a hrála si se střapci na kápi. Tvář měla ozářenou ostrým jasem, ale nebyl to jas veselý, spíše připomínal hrozivou zář požáru za temné noci. Jakmile spatřila muže, vztyčila hlavu a usmála se jako v polosnu.

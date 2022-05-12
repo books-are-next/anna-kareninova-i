@@ -1,5 +1,6 @@
 ---
 title: XIX
+contentType: prose
 ---
 
 Když Anna vešla do pokoje, seděla Dolly v malém salóně s baculatým světlovlasým hošíkem, už nyní podobným otci, a zkoušela ho z francouzské úlohy. Chlapec odříkával úlohu a přitom kroutil knoflíkem na kabátku, který už jen taktak držel, a mermomocí jej chtěl utrhnout. Matka mu několikrát odtáhla ruku, ale baculatá ručka chytala knoflík zas a zas. Matka knoflík utrhla a schovala do kapsy.

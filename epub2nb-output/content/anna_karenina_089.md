@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 Fůra byla svázána. Ivan seskočil a vedl statného, pěkného koně za opratě. Mladice hodila hrábě na vůz a klátíc rukama svižně vykročila k ženským, které se už seřadily jako k tanci. Ivan vyjel na cestu a přidal se k ostatním vozům. Ženské s hráběmi přes rameno, hýřící pestrými barvami a brebentící veselými zvonivými hlasy, šly za vozy. Drsný, bujný ženský hlas zanotoval píseň a dozpíval ji k refrénu, a na padesát různých, drsných něžných, zdravých hlasů svorně vpadlo sborem a opakovaly píseň od začátku.

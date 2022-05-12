@@ -1,5 +1,6 @@
 ---
 title: XVIII
+contentType: prose
 ---
 
 Přestože celý vnitřní život Vronského byl nabit jeho vášní, jeho život vnější neměnně a nezadržitelně běžel ve starých, obvyklých kolejích společenských a plukovních styků a zájmů. Zájmy plukovní zaujímaly v životě Vronského významné místo, poněvadž měl pluk rád, a ještě víc proto, že u pluku měli rádi jeho. U pluku měli Vronského rádi, a nejen to, vážili si ho a byli na něho hrdi, byli hrdi, že ten nesmírně bohatý člověk s vynikajícím vzděláním a schopnostmi, mající otevřenou cestu k všemožným úspěchům, které mohou lichotit ctižádosti a marnivosti, pohrdá tím vším a ze všech životních zájmů si nejvíce hledí zájmů pluku a kolegů. Vronskij si byl vědom, jak se na něho kolegové dívají, a kromě toho, že měl ten život rád, cítil se povinen nezradit ustálený názor.

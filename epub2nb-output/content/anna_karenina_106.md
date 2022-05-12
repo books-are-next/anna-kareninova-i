@@ -1,5 +1,6 @@
 ---
 title: XXIX
+contentType: prose
 ---
 
 Uskutečnění Levinova plánu bylo spojeno s mnoha obtížemi. Ale vynaložil všechny síly, a i když nedosáhl všeho, co si přál, přece alespoň mohl věřit, aniž si něco nalhával, že jeho námaha není marná. Jedna z hlavních obtíží záležela v tom, že hospodářství už bylo zavedené, že se nedalo všecko zastavit a začínat všecko od začátku, ale bylo nutno předělávat stroj v chodu.

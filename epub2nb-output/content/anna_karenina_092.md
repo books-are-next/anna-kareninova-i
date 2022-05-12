@@ -1,5 +1,6 @@
 ---
 title: XV
+contentType: prose
 ---
 
 Anna se sice s Vronským umíněně a zlostně přela, když jí říkal, že její situace je neúnosná, a domlouval jí, aby muži všecko řekla, ale v hloubi duše považovala tento stav za lživý, nečestný a z celé duše si jej přála změnit. Když se vracela s mužem z dostihů, vypověděla mu v okamžitém rozčilení vše; ačkoli ji to bolelo, byla ráda. Po mužově odjezdu si říkala, že je ráda, že nyní bude mít jasno a nebude žít ve lži a klamu. Nepochybovala, že teď se její postavení vyjasní jednou provždy. Snad bude špatné to nové postavení, ale bude určité, nebude v něm nejasnost ani lež. Bolest, kterou způsobila sobě i muži svými slovy, bude teď odměněna tím, že bude mít jasno, myslila si Anna. Ještě ten večer se sešla s Vronským, ale neřekla mu, k čemu došlo mezi ní a mužem, ačkoli by to měla říci, aby už bylo jednou jasno.

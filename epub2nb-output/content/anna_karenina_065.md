@@ -1,5 +1,6 @@
 ---
 title: XXIV
+contentType: prose
 ---
 
 Když se Vronskij díval na balkóně u Kareninových na hodinky, byl tak znepokojen a zabrán do svých myšlenek, že sice viděl ručičky na ciferníku, ale nepochopil, kolik je vlastně hodin. Vyšel na silnici a opatrně se prodíral blátem ke své kolesce. Tolik překypoval citem k Anně, že ani nepomyslil, kolik je hodin a zda mu ještě zbývá čas na Brjanského. Jak se často stává, zůstala mu jen vnější schopnost něco si pamatovat, ukazující, co a v jakém pořadí má udělat. Šel ke kočímu, který klímal na kozlíku pod hustou lípou ve stínu, už dlouhém, se zájmem se díval na duhová mračna mušek, vířících nad statnými koňmi, až nakonec vzbudil kočího, naskočil do kolesky a dal se vézt k Brjanskému. Sotvaže ujeli nějakých sedm verst, vzpamatoval se natolik, že pohlédl na hodinky a uvědomil si, že je půl šesté a že zmeškal.

@@ -1,5 +1,6 @@
 ---
 title: XIII
+contentType: prose
 ---
 
 Nikdo kromě nejdůvěrnějších známých Alexeje Alexandroviče Karenina nevěděl, že ten člověk, na pohled svrchovaně chladný a rozvážný, má svou slabou stránku, odporující jeho celkovému založení. Nemohl lhostejně slyšet ani vidět dětský nebo ženský pláč. Při pohledu na slzy upadal ve zmatek a zcela pozbýval schopnosti úsudku. Přednosta jeho kanceláře i tajemník to věděli a upozorňovali prosebnice, aby je nenapadlo plakat, nechtějí-li si všecko pokazit. „Rozzlobí se a nebude vás poslouchat,“ říkali. A vskutku se duševní rozladění, které v Kareninovi vyvolávaly slzy, projevovalo v takových případech ukvapeným hněvem. „Nemohu, nemohu pro vás nic udělat! Račte odejít!“ křičel obvykle v těchto případech.

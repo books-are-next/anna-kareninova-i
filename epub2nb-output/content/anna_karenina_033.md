@@ -1,5 +1,6 @@
 ---
 title: XXVII
+contentType: prose
 ---
 
 Byl to veliký, starobylý dům, a třebaže Levin žil sám, dal jej vytápět a obýval jej celý. Věděl, že je to hloupost, věděl, že je to dokonce špatné a odporuje to jeho nynějším novým plánům, avšak ten dům mu byl celým světem. Byl to svět, v kterém žili a zemřeli jeho otec a matka. Žili životem, který byl Levinovi ideálem veškeré dokonalosti a který toužil vzkřísit se svou ženou, se svou rodinou.

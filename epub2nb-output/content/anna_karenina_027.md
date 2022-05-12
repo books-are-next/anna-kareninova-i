@@ -1,5 +1,6 @@
 ---
 title: XXI
+contentType: prose
 ---
 
 K svačině dospělých přišla Dolly ze svého pokoje. Stěpan Arkaďjič nepřišel. Asi odešel z manželčina pokoje zadními dveřmi.

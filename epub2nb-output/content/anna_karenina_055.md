@@ -1,5 +1,6 @@
 ---
 title: XIV
+contentType: prose
 ---
 
 Levin přijížděl v tom nejlepším rozmaru k domu, když zaslechl od hlavního vchodu rolničky.

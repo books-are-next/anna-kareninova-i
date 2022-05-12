@@ -1,5 +1,6 @@
 ---
 title: XVIII
+contentType: prose
 ---
 
 Vronskij se ubíral za průvodčím do vozu a u vchodu do kupé zůstal stát, aby vycházející dáma mohla projít. S taktem, vlastním člověku z vyšší společnosti, poznal na první pohled, že tato dáma rovněž náleží k vyšším kruhům. Omluvil se a už chtěl vstoupit dovnitř, ale nedalo mu to a pohlédl na ni ještě jednou – nikoli proto, že byla velmi hezká, ani ho nezaujal půvab a skromná grácie vyzařující z celé postavy, nikoli, avšak ve výrazu jejího spanilého obličeje, jak šla kolem něho, byla jakási lahoda a něha. Když se ohlédl, také otočila hlavu. Jiskrné šedivé oči, přecházející pod hustými řasami až do černa, utkvěly přátelsky a pozorně na jeho tváři, jako by ho poznávala, a vzápětí se přenesly na přicházející zástup, jako by někoho hledaly. I v tom letmém pohledu zachytil Vronskij tajenou živost, která jí pohrávala na tváři a těkala mezi jiskrnýma očima a sotva patrným úsměvem, který jí zvlnil rudé rty. Snad jakási přemíra citů tolik naplňovala její bytost, že se proti její vůli odrážela v zářícím pohledu a hned zase v úsměvu. Naschvál uhasila světélko v očích, ale svítilo proti její vůli v sotva patrném úsměvu.

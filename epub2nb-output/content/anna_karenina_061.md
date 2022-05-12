@@ -1,5 +1,6 @@
 ---
 title: XX
+contentType: prose
 ---
 
 Vronskij byl ubytován v prostorném a čistém čuchonském stavení, rozděleném na dvě části. Petrickij s ním bydlel i v táboře. Spal, když Vronskij a Jašvin vešli dovnitř.

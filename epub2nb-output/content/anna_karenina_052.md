@@ -1,5 +1,6 @@
 ---
 title: XI
+contentType: prose
 ---
 
 To, co bylo pro Vronského skoro celý rok jednou jedinou životní touhou, která mu nahradila všechny dřívější tužby; co bylo pro Annu nesplnitelným, děsivým a tím opojnějším snem o štěstí – tato touha byla ukojena. Bledý a s třesoucí se bradou stál nad ní a zapřísahal ji, aby se uklidnila, ač sám nevěděl proč a jak.

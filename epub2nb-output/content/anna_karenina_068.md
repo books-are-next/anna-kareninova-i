@@ -1,5 +1,6 @@
 ---
 title: XXVII
+contentType: prose
 ---
 
 Anna stála nahoře před zrcadlem a špendlila si za Anuščiny pomoci poslední stuhu na šaty, když zaslechla před domem rachot kol, drtících štěrk.

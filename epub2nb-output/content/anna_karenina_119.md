@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 Táhlo už na šestou a někteří hosté už mezitím přijeli, když přijel i sám hostitel. Vstoupil společně se Sergejem Ivanovičem Koznyšovem a Pescovem, kteří se srazili u vchodu. Byli to hlavní představitelé moskevské inteligence, jak jim říkal Oblonskij. Oba se těšili vážnosti jak pro své povahové vlastnosti, tak pro svůj intelekt. Měli se navzájem v úctě, ale téměř vždycky měli mezi sebou obrovské, beznadějné rozpory – nikoli proto, že by se byli hlásili k opačným směrům, ale právě proto, že náleželi k témuž táboru (nepřátelé je zaměňovali), jenže v tomto táboře byl každý z nich jiného typu. A jelikož se nic nedá tak těžko uvést v soulad jako různost názorů v poloabstraktech, nikdy se názorově neshodli, ale už si dávno zvykli jenom se beze zloby navzájem posmívat svým nenapravitelným omylům.

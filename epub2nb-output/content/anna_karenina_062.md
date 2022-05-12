@@ -1,5 +1,6 @@
 ---
 title: XXI
+contentType: prose
 ---
 
 Prozatímní stáj, bouda z prken, byla hned vedle jízdárny, a včera mu tam měli přivést koně. Ještě ho neviděl. V posledních dnech sám koně neprojížděl, ale svěřil ho trenérovi, takže teď vůbec nevěděl, v jakém stavu sem kůň přišel a v jakém je nyní. Sotvaže vystoupil z kolesky, jeho štolba (groom) zavolal trenéra, neboť poznal Vronského kolesku už z dálky. Hubený Angličan ve vysokých botách a krátkém kabátci, s chomáčkem vousů jen na bradě, šel Vronskému naproti houpavým, nemotorným žokejským krokem a rozháněl se lokty.
