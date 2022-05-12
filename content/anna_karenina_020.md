@@ -1,5 +1,6 @@
 ---
 title: XIV
+contentType: prose
 ---
 
 Ale zrovna v té chvíli přišla kněžna. Zhrozila se, když je přistihla o samotě a viděla, jak jsou rozrušeni. Levin se jí uklonil a nic neřekl. Kitty mlčela, oči sklopené. Chválabohu, odmítla ho! Obličej matčin se rozzářil v obvyklém úsměvu, s kterým vítala každý čtvrtek hosty. Usedla a začala se Levina vyptávat na jeho život na vsi. Opět se posadil, chtěl počkat, až přijdou hosté, aby mohl nenápadně odejít.

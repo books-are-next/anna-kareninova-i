@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 Když byl Oblonskij hotov s oblékáním, postříkal se voňavkou, narovnal si rukávy košile, navyklým pohybem si nastrkal po kapsách cigarety, náprsní tašku, sirky, hodinky s dvojitým řetízkem a přívěsky, načechral si kapesník a navzdory všem pohromám s pocitem čistoty, libé vůně, zdraví i fyzického veselí se odebral trochu kolébavým krokem do jídelny, kde už na něho čekala káva a vedle ní pošta a úřední spisy.

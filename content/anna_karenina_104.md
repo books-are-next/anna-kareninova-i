@@ -1,5 +1,6 @@
 ---
 title: XXVII
+contentType: prose
 ---
 
 „Kdyby nebylo škoda toho všeho, co jsem si pořídil… však to dalo nějakou práci… nechal bych toho, všecko bych to prodal a jel bych jako Nikolaj Ivanyč… poslechnout si _Helenu_,“ řekl statkář a moudrý starý obličej se mu rozjasnil v příjemném úsměvu.

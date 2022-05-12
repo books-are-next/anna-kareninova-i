@@ -1,5 +1,6 @@
 ---
 title: XXXII
+contentType: prose
 ---
 
 Levin to už dávno postřehl: jste-li před některými lidmi nesví pro jejich přílišnou povolnost a poníženost, pak je přímo nesnesitelné, když jsou příliš nároční a hašteřiví. Levin tušil, že tak nějak to dopadne i s bratrem. A Nikolaj opravdu se svou mírností dlouho nevydržel. Už příští ráno byl podrážděný a zuřivě útočil na bratra, kterého se dotýkal na nejcitlivějších místech.

@@ -1,5 +1,6 @@
 ---
 title: XX
+contentType: prose
 ---
 
 Anna strávila celý den doma, to jest u Oblonských, a nikoho nepřijímala, ačkoli už se někteří ze známých dověděli o jejím příjezdu a přišli za ní ještě týž den. Anna strávila celé dopoledne s Dolly a s dětmi. Jenom poslala psaníčko bratrovi, aby docela jistě přišel k obědu domů. „Přijď, doufejme v milosrdenství boží,“ psala mu.

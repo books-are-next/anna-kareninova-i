@@ -1,5 +1,6 @@
 ---
 title: XXV
+contentType: prose
 ---
 
 Do surovského okresu nevedla dráha ani tam nejezdila pošta a Levin jel vlastním povozem.

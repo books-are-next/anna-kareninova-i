@@ -1,5 +1,6 @@
 ---
 title: XXXV
+contentType: prose
 ---
 
 Kníže nakazil svou veselou náladou členy rodiny a známé, ba německého pana domácího, u kterého Ščerbackých bydlili.

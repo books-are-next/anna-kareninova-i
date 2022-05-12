@@ -1,5 +1,6 @@
 ---
 title: VIII
+contentType: prose
 ---
 
 Když profesor odešel, obrátil se Koznyšov k bratrovi.

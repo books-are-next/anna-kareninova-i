@@ -1,5 +1,6 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Za dveřmi se ozvaly kroky. Kněžna Betsy věděla, že je to Kareninová, a pohlédla na Vronského. Díval se ke dveřím a v obličeji měl zvláštní nový výraz. Radostně, upřeně a zároveň nesměle hleděl na příchozí a pomalu vstával. Do salónu vkročila Anna. Držela se jako vždy neobyčejně zpříma, zpříma hleděla před sebe, rychle, pevně a svižně, což se tolik lišilo od chůze jiných žen velkého světa, udělala několik kroků, které ji dělily od hostitelky, stiskla jí ruku, usmála se a s tím úsměvem se otočila k Vronskému. Vronskij se jí hluboce uklonil a podal jí židli.

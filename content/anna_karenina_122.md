@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 V navázané rozmluvě o právech žen se naskýtaly otázky nerovnoprávnosti v manželství, otázky v přítomnosti dam choulostivé. Pescov na ně při obědě několikrát narazil, ale Koznyšov a Oblonskij obezřetně zaváděli řeč jinam.

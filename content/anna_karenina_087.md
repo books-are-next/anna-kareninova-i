@@ -1,5 +1,6 @@
 ---
 title: X
+contentType: prose
 ---
 
 „Kitty mi píše, že po ničem tak netouží jako být sama a mít klid,“ pravila Dolly po chvíli mlčení.

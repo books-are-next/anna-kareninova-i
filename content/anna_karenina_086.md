@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 Darja Alexandrovna, v šátku, obklopena všemi vykoupanými dětmi, které ještě měly mokré vlasy, dojížděla už k domovu, když kočí řekl: „Jde sem nějaký pán, to je myslím z Pokrovského.“

@@ -1,5 +1,6 @@
 ---
 title: X
+contentType: prose
 ---
 
 Pescov měl rád, aby se všecko domluvilo do konce, a nespokojil se slovy Sergeje Ivanoviče Koznyšova tím spíš, že si uvědomil nesprávnost svého mínění.

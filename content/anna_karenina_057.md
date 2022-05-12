@@ -1,5 +1,6 @@
 ---
 title: XVI
+contentType: prose
 ---
 
 Když se vraceli domů, vyptal se Levin podrobně na Kittinu nemoc i jaké mají Ščerbackých plány, a třebaže by se k tomu styděl přiznat, přece ho těšilo, co se dověděl. Těšilo i proto, že dosud byla naděje, a ještě víc proto, že měla bolest ta, jež tak velkou bolest způsobila jemu. Ale když začal Oblonskij o příčinách Kittiny nemoci a vyslovil jméno Vronského, Levin ho přerušil: „Nemám právo znát rodinné podrobnosti a upřímně řečeno mě ani nezajímají.“

@@ -1,5 +1,6 @@
 ---
 title: II
+contentType: prose
 ---
 
 Oblonskij byl poctivý sám k sobě. Nemohl si nic nalhávat a ujišťovat se, že lituje svého činu. Nemohl litovat, že on, čtyřiatřicetiletý, hezký, vznětlivý muž, není zamilován do ženy, matky pěti živých a dvou zesnulých dětí, ženy jen o rok mladší než on. Litoval jen, že to všecko neuměl před ženou lépe utajit. Ale uvědomoval si veškerou tíži svého postavení a bylo mu líto ženy, dětí i sebe. Snad by byl dovedl lépe utajit své prohřešky před ženou, kdyby byl počítal s tím, že zpráva na ni tak zapůsobí. Nikdy se nad tím důkladně nezamyslil, ale nejasně si představoval, že manželka dávno tuší, že jí je nevěrný, a zamhuřuje oko. Myslil si dokonce, že Dolly, vyčerpaná, zestárlá, už nehezká žena, nijak pozoruhodná, prostá žena, nic než dobrá matka, musí být shovívavá už z pouhého citu pro spravedlnost. Ale dopadlo to zcela naopak.

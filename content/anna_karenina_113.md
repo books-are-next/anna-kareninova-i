@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 „Tys ho potkal?“ zeptala se, když si sedli ke stolu pod lampou. „To máš za trest, že jsi přišel pozdě.“

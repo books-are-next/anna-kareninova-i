@@ -1,5 +1,6 @@
 ---
 title: II
+contentType: prose
 ---
 
 V prvních červnových dnech se přihodila nemilá věc. Chůva a hospodyně Agafja Michajlovna nesla do sklepa skleničku čerstvě naložených hub, uklouzla, upadla a vymkla si ruku v zápěstí. Přijel mladičký, nedávno dostudovaný lékař ze samosprávy. Prohlédl ruku, řekl, že není vykloubená, přiložil na ni obklad, zůstal pak k obědu, při kterém patrně vychutnával požitek z rozpravy se slavným Sergejem Ivanovičem Koznyšovem, a aby projevil svůj osvícený názor na věci, vykládal mu všecky klepy z okresu a stěžoval si na bídný stav zemstevního samosprávního zřízení. Sergej Ivanovič pozorně poslouchal, vyptával se, podnícen novým posluchačem se rozhovořil a vyřkl několik trefných, pádných poznámek, jež mladý lékař ocenil, až se nakonec docela rozjařil. Bratr už to znal, Sergej Ivanovič vždy po duchaplné, živé rozmluvě míval takovou náladu. Po lékařově odjezdu chtěl Sergej Ivanovič jít na ryby. Rád chodil na ryby a skoro si na tom zakládal, že může mít rád takovou hloupou zábavu.

@@ -1,5 +1,6 @@
 ---
 title: XIII
+contentType: prose
 ---
 
 Kitty prožívala po obědě a než nastal večer podobný pocit jako jinoch před bitvou. Srdce jí prudce bušilo a nemohla na nic soustředit myšlenky.

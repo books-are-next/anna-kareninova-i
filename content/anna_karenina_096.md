@@ -1,5 +1,6 @@
 ---
 title: XIX
+contentType: prose
 ---
 
 Přes svůj zdánlivě lehkomyslný společenský život Vronskij nenáviděl nepořádek. Ještě v mládí, jako frekventant vojenské školy, zakusil jednou ponížení, když se zadlužil a žádal o půjčku, ale ta mu byla odepřena. Od těch dob dbal, aby se nikdy neoctl v takové situaci.

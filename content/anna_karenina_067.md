@@ -1,5 +1,6 @@
 ---
 title: XXVI
+contentType: prose
 ---
 
 Vztahy mezi Alexejem Alexandrovičem a ženou byly navenek stejné jako dříve. S tím rozdílem, že Karenin byl ještě víc zaneprázdněn než dříve. Stejně jako léta minulá odjel počátkem jara do ciziny do lázní, aby upevnil své zdraví, každoročně podlamované namáhavou zimní prací, a jako obyčejně se v červenci vrátil a se zvýšenou energií se neprodleně pustil do obvyklé práce. Jeho žena odjela jako obyčejně na letní byt, kdežto on zůstal v Petrohradě.

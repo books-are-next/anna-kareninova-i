@@ -1,5 +1,6 @@
 ---
 title: VI
+contentType: prose
 ---
 
 Kněžna Betsy nevyčkala konce posledního jednání a odešla z divadla. Jen taktak stačila zajít do budoáru, poprášit si dlouhý bledý obličej pudrem, setřít jej, upravit si účes a poručit, aby bylo ve velkém salóně prostřeno k čaji, a už se k jejímu velikánskému domu na Námořní začaly sjíždět kočáry jeden za druhým. Hosté mířili k prostornému krytému vchodu a tlustý vrátný, který vždy dopoledne četl za skleněnými dveřmi noviny a budil posvátnou úctu v kolemjdoucích, neslyšně otvíral ty obrovské dveře a vpouštěl příchozí dovnitř.

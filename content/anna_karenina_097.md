@@ -1,5 +1,6 @@
 ---
 title: XX
+contentType: prose
 ---
 
 Vronskij měl zvlášť šťastný život proto, že si vytvořil souhrn pravidel, která neomylně stanovila, co se patří a co nepatří. Sbírka těch pravidel zahrnovala nepatrný okruh okolností, ale zato byla pravidla neomylná a Vronskij z toho okruhu nikdy nevybočil a také nikdy ani na okamžik nezakolísal, měl-li vykonat, co bylo třeba. Pravidla neomylně stanovila, že musí zaplatit falešnému hráči, kdežto krejčí počká, že mužům se lhát nemá, kdežto ženám může, že nikdo nesmí být klamán, ale manžel ano, že nesmíme odpouštět urážky a smíme se jich dopouštět atd. Všechna ta pravidla byla snad nerozumná i nepěkná, ale byla neomylná, a když je Vronskij dodržoval, cítil, že je klidný a může chodit s hlavou hrdě vztyčenou. Teprve v poslední době, totiž ve svém poměru k Anně, Vronskij cítil, že souhrn jeho pravidel nepřihlíží ke všem okolnostem, a do budoucna se mu jevily obtíže a pochyby, ke kterým už nenalézal vodítko.

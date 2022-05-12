@@ -1,5 +1,6 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Příští den byla neděle. Stěpan Arkaďjič se stavil ve Velkém divadle na zkoušce baletu a odevzdal Máše Čibisovové, hezounké tanečnici, nedávno angažované na jeho přímluvu, korálky, které jí včera slíbil, a v zákulisní denní tmě se mu poštěstilo políbit ji na hezounkou rozzářenou tvářičku. Nepřišel jen s dárkem, také si s ní musel umluvit schůzku po představení. Vyložil jí, že na začátek baletu nemůže přijít, ale slíbil, že přijde na poslední jednání a pak spolu pojedou na večeři. Z divadla zajel Stěpan Arkaďjič do Ochotného rjadu, osobně vybral ryby a chřest k obědu a v poledne už byl u Dusseaua, kde měl navštívit tři lidi, šťastnou náhodou ubytované v jednom hotelu: Levina, který přijel nedávno z ciziny a ubytoval se zde, nového představeného, který právě nastoupil tento vyšší úřad a byl v Moskvě na inspekci, a švagra Karenina, jehož chtěl stůj co stůj přivést k obědu.

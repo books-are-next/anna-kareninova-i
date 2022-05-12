@@ -1,5 +1,6 @@
 ---
 title: XIX
+contentType: prose
 ---
 
 V den, kdy měly být krasnoselské dostihy, šel si Vronskij sníst biftek do společné důstojnické jídelny dříve než obvykle. Nemusel zachovávat nijak přísnou životosprávu, jelikož měl předepsanou váhu. Ale také nesměl ztloustnout, a proto se varoval moučných jídel a sladkostí. Seděl tu, kabát nad bílou vestou rozepnutý, oběma lokty opřen o stůl, čekal na objednaný biftek a díval se do francouzského románu, ležícího na talíři. Díval se jen, aby nemusel mluvit s přicházejícími a odcházejícími důstojníky, a přemýšlel.

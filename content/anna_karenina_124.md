@@ -1,5 +1,6 @@
 ---
 title: XIV
+contentType: prose
 ---
 
 Když Kitty odjela a Levin osaměl, zmocnil se ho bez ní takový neklid a taková netrpělivá touha rychle, co nejrychleji se dočkat zítřka, kdy ji opět uvidí a připoutá ji k sobě navždy, že se těch čtrnácti hodin, které měl strávit bez ní, zalekl jako smrti. Potřeboval mít někoho u sebe, s kým by mohl mluvit, aby nezůstal sám, aby obelstil čas. Stěpan Arkaďjič by mu byl společníkem nejmilejším, jenže jel, jak říkal, na večírek, ve skutečnosti na balet. Levin mu sotva stačil říci, že je šťastný a má ho rád a nikdy nezapomene, co pro něho udělal. Pohled i úsměv Stěpana Arkaďjiče přesvědčil Levina, že náležitě chápe jeho city.

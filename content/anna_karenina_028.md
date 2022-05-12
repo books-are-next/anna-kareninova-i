@@ -1,5 +1,6 @@
 ---
 title: XXII
+contentType: prose
 ---
 
 Ples zrovna začal, když Kitty s matkou vešla na velké schodiště, zaplavené světlem a plné květin a napudrovaných lokajů v červených livrejích. V sálech bylo živo, rozléhal se odtamtud plynulý hukot jako v úle, a zatímco si dámy na prostranství mezi stromečky upravovaly před zrcadlem účesy a šaty, zazněly ze sálu jemné i výrazné zvuky houslí v orchestru, který spustil první valčík. Stařeček v civilu, který si uhlazoval šedivé kotletky před druhým zrcadlem a šířil kolem sebe vůni parfému, se s dámami srazil na schodech, ale hned jim ustoupil z cesty a s patrným zalíbením se díval na Kitty, kterou neznal. Holobrádek ve vystřižené vestě, jeden z oněch mladíků z vyššího světa, kterým starý kníže Ščerbackij říkal cápkové, si v chůzi narovnával bílý nákrčník, uklonil se dámám a běžel dál, ale pak se vrátil a vyzval Kitty na čtverylku. Na první čtverylku už byla zadána s Vronským, musela mladíkovi slíbit druhou. Ve dveřích jim udělal místo jakýsi důstojník. Zapínal si rukavičku, hladil si knír a zálibně si prohlížel růžovou Kitty.

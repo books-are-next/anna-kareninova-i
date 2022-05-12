@@ -1,5 +1,6 @@
 ---
 title: XXXI
+contentType: prose
 ---
 
 Vronskij se celou tu noc ani nepokoušel usnout. Seděl na svém sedadle, chvílemi upíral zrak přímo před sebe, chvílemi si prohlížel nastupující a vystupující lidi. Jestliže už dříve ohromoval a rozčiloval neznámé lidi svým neotřesitelným klidem, zdál se dnes tím spíš hrdý a soběstačný. Díval se na lidi jako na věci. Nervózní mladý muž, úředník okresního soudu, sedící proti němu, pojal k němu nenávist, že se tak tváří. Mladý muž si od něho připaloval, navazoval rozmluvu, dokonce do něho strkal, aby mu dal na srozuměnou, že není věc, nýbrž člověk, ale Vronskij se na něho pořád díval jako na lucernu a mladý muž dělal kyselý obličej, neboť cítil, jak ztrácí rozvahu pod tíhou faktu, že není uznáván za člověka.

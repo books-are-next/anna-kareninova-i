@@ -1,5 +1,6 @@
 ---
 title: XVI
+contentType: prose
 ---
 
 Po všech pokojích ve vile chodili domovníci, zahradníci a lokajové a odnášeli zavazadla. Skříně a prádelníky byly dokořán. Dvakrát se běželo k hokynáři pro motouz. Po zemi se válel novinový papír. Dva kufry, vaky a svázané plédy byly odneseny dolů do předsíně. Kočár a dvě drožky stály před domem. Anna, jež při práci se zavazadly pozapomněla na svůj vnitřní neklid, stála u stolu v budoáru a skládala věci do cestovní kabely, když ji Anuška upozornila na rachot přijíždějícího kočáru. Anna vyhlédla oknem a spatřila kurýra Alexeje Alexandroviče. Zvonil u hlavních dveří.

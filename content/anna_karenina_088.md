@@ -1,5 +1,6 @@
 ---
 title: XI
+contentType: prose
 ---
 
 V polovině června přišel za Levinem starosta ze sestřiny vesnice, ležící dvacet verst od Pokrovského, a podal hlášení o stavu hospodářství a o senoseči. Hlavní výnos plynul na sestřině statku z luk. V dřívějších letech kupovali rolníci trávu na stojato po dvaceti rublech z děsjatiny. Když se Levin ujal správy statku, prohlédl si louky, shledal, že stojí za víc, a určil cenu pětadvacet rublů za děsjatinu. Rolníci tolik platit nechtěli, a jak Levin tušil, odradili i ostatní kupce. Levin tam pak jel osobně a nařídil, aby seno bylo sklízeno z části námezdními dělníky, z části podílníky. Rolníci ze vsi všemožně bránili té novotě, ale věc se dařila a už první rok vynesly louky skoro dvojnásobně. Předloni a loni ještě trval odpor rolníků a sklizeň probíhala stejně jako předtím. Letos si rolníci vzali všechnu trávu z třetinového podílu a starosta teď přijel ohlásit, že seno je sklizeno, že si z obavy před deštěm pozval písaře a před ním rozdělil a postavil jedenáct stohů z panského podílu. Z neurčitých odpovědí na otázku, kolik bylo sena na hlavní louce, z chvatu, s kterým starosta rozdělil seno bez dovolení, z jeho celkového tónu Levin poznal, že v tom dělení sena bude nějaký háček, a rozhodl se, že tam zajede a sám si všecko překontroluje.

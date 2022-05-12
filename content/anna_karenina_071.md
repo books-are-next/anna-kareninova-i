@@ -1,5 +1,6 @@
 ---
 title: XXX
+contentType: prose
 ---
 
 Jako všude, kde se shromažďují lidé, tak i v malých německých lázních, kam přijeli Ščerbackých, došlo k jisté obvyklé krystalizaci společnosti, která stanovila každému jejímu členu určité, neměnné místo. Jako částice vody určitě a neměnné nabývá v chladnu známé formy sněžného krystalu, tak i každé nové osobnosti, která přijela do lázní, byla ihned vykázána příslušná pozice.

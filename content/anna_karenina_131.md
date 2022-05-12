@@ -1,5 +1,6 @@
 ---
 title: XXI
+contentType: prose
 ---
 
 Betsy ještě neodešla ze sálu, když se s ní Stěpan Arkaďjič (zrovna přijel od Jelisejeva, kde dostali čerstvé ústřice) potkal ve dveřích.

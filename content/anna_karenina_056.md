@@ -1,5 +1,6 @@
 ---
 title: XV
+contentType: prose
 ---
 
 Sluky obvykle táhly opodál nad řekou v nízkém osikovém lese. Když tam dojeli, Levin vystoupil a zavedl Oblonského do cípu mechovité, bahnité paseky, z které už sešel sníh. Sám se vrátil na druhý konec k dvěma srostlým břízám, opřel pušku o vidlici suché dolní větve, svlékl si kabát a vyzkoušel si, zda může volně pohybovat rukama.

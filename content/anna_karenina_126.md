@@ -1,5 +1,6 @@
 ---
 title: XVI
+contentType: prose
 ---
 
 Kněžna seděla v křesle mlčky a usmívala se. Kníže usedl vedle ní. Kitty stála u jeho křesla a pořád ho držela za ruku. Všichni mlčeli.

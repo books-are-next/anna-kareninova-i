@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 Ještě první dobu po návratu z Moskvy, kdy se Levin při každé vzpomínce na zahanbující odmrštění chvěl a červenal, ještě v té době si říkal: Zrovna tak jsem se červenal, chvěl se a považoval všecko za ztracené, když jsem dostal pětku z fyziky a musel jsem opakovat druhý ročník. Stejně tak jsem myslil, že jsem ztracen, když jsem sestře zbabral při, kterou mi svěřila. No a? Dnes po letech na to vzpomínám a divím se, že mě to mohlo trápit. Stejné to bude i s tímhle zármutkem. Uběhne nějaký čas a budu k tomu lhostejný.

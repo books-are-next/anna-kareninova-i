@@ -1,5 +1,6 @@
 ---
 title: XXVIII
+contentType: prose
 ---
 
 Když přijel Alexej Alexandrovič na dostihy, seděla už Anna na tribuně vedle Betsy, na tribuně, kde byl shromážděn výkvět společnosti. Zahlédla muže už z dálky. Dva muži, manžel a milenec, jí byli dvojím středem života, a vyciťovala jejich blízkost i bez pomoci vnějších smyslů. Už z dálky vytušila, že se manžel blíží, a bezděky ho sledovala ve vlnění zástupu, kterým se prodíral. Viděla, jak míří k tribuně, jak blahosklonně opětuje podlízavé úklony, jindy zas přátelsky, roztržitě zdraví sobě rovné anebo usilovně vyčkává, kdy mu věnují pohled mocní tohoto světa, a smeká při tom velký klobouk, který ho tlačí do uší. Znala všechny ty způsoby a všechny jí byly odporné. Nic než ctižádost, nic než touha vyniknout, toť vše, co je v jeho duši. A vznešené úvahy, láska k osvětě, náboženství, to vše je pouhý nástroj, jak dojít úspěchu.

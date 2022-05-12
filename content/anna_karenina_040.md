@@ -1,5 +1,6 @@
 ---
 title: XXXIV
+contentType: prose
 ---
 
 Při odjezdu z Petrohradu nechal Vronskij svůj velký byt na Námořní příteli a nejmilejšímu kamarádovi Petrickému.

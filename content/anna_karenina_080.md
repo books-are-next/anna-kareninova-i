@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 „Víš, přemýšlel jsem o tobě,“ pravil Sergej Ivanovič. „To je nemožné, co se děje u vás v okrese, jak mi vykládal ten doktor. A já jsem ti říkal a říkám ti znova: chyba, že nejezdíš do schůzí a vůbec ses vzdálil činnosti v samosprávě. Když se jí budou pořádní lidé vyhýbat, samosebou půjde všecko od desíti k pěti. My platíme, peníze se vydávají na gáže, a nakonec nemáme ani školy, ani felčary, porodní báby ani lékárny, prostě nic.“

@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Karenin se vracel do svého opuštěného hotelového pokoje a mimoděk si v duchu probíral dojmy z rozhovorů, vedených při obědě i po něm. Slova Darji Alexandrovny, že by měl odpustit, v něm vzbudila jen nevoli. Zda se má, či nemá řídit v daném případě křesťanskými zásadami, byla otázka příliš obtížná, o které se nedalo jen tak zběžně mluvit, přičemž si na ni už dávno nalezl odpověď zápornou. Ze všech výroků mu nejvíc utkvěla v paměti slova dobrého, hloupého Turovcyna: _pašák; vyzval soka na souboj a zabil ho_. Všichni s tím nejspíš souhlasili, třeba to ze zdvořilosti neřekli nahlas.

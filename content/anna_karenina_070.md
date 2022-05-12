@@ -1,5 +1,6 @@
 ---
 title: XXIX
+contentType: prose
 ---
 
 Všichni dávali hlasitě najevo svou nelibost, všichni opakovali čísi výrok „ještě nám chybí cirkus se lvy“ a všichni byli naplněni hrůzou, takže když Vronskij spadl a Anna hlasitě vykřikla, nebylo na tom nic zvláštního. Ale hned nato se v Annině tváři odehrála změna, která byla rozhodně nepřístojná. Anna byla nadobro zmatena. Zmítala se jako polapený pták, chtěla vstát a odejít, a zas se obracela k Betsy.

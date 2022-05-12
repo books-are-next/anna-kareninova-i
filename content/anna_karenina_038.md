@@ -1,5 +1,6 @@
 ---
 title: XXXII
+contentType: prose
 ---
 
 První, kdo Annu doma přivítal, byl syn. Hnal se k ní po schodech, nedbaje volání vychovatelky, a s bláznivým nadšením křičel: „Mami, mami!“ Přiběhl k ní a pověsil se jí kolem krku.

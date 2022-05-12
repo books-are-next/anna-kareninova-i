@@ -1,5 +1,6 @@
 ---
 title: I
+contentType: prose
 ---
 
 Všechny šťastné rodiny jsou si podobné, každá nešťastná rodina je nešťastná po svém.

@@ -1,5 +1,6 @@
 ---
 title: XXX
+contentType: prose
 ---
 
 Koncem září bylo svezeno dříví na stavbu kravína na družstevním pozemku, bylo prodáno máslo a rozdělen zisk. V praxi to šlo v hospodářství znamenitě, či alespoň se tak Levinovi zdálo. Aby problém objasnil teoreticky a dokončil svůj spis, který měl podle jeho tužeb způsobit převrat v politické ekonomii, ba vůbec potřít tuto nauku a založit nauku novou, nauku o vztazích lidu k půdě, k tomu už zbývalo jen odcestovat do ciziny, prostudovat přímo na místě vše, co tam bylo v daném směru učiněno, a najít přesvědčivé důkazy, že to všecko není to pravé. Levin čekal jenom, až prodá pšenici a dostane peníze, aby pak mohl jet do ciziny. Ale nastaly deště, takže zbývající obilí ani brambory nemohly být sklizeny, byly zastaveny všecky práce i odvoz pšenice. Všude na cestách bezedné bláto, zátopa strhla dva mlýny a počasí bylo čím dál horší.

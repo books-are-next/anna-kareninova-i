@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Oblonskij, kapsu napěchovanou bankovkami, které mu dal obchodník za tři měsíce napřed, přišel nahoru. Záležitost s lesem byla skončena, peníze v kapse, lov se zdařil, sám byl v růžové náladě, a proto zvlášť toužil rozptýlit Levinovy chmury. Byl by rád ukončil den u večeře stejně příjemně, jak jej začal.

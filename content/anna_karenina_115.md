@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 V čekárně věhlasného petrohradského advokáta bylo plno, když tam Karenin vstoupil. Tři dámy – stará paní, mladá paní a obchodnická panička – a tři páni, německý bankéř s nádherným prstenem, vousatý obchodník a nazlobený úředník v uniformovaném fraku a s řádovým křížem na krku, čekali patrně už dlouho. Dva koncipienti psali u stolu, až pera skřípala. Psací náčiní, na které si Alexej Alexandrovič tolik potrpěl, bylo velice pěkné, to mu neušlo. Jeden z koncipientů, aniž se namáhal vstát, přimhouřil oči a zlostně se k němu obrátil.

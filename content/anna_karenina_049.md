@@ -1,5 +1,6 @@
 ---
 title: VIII
+contentType: prose
 ---
 
 Karenin neshledal nic zvláštního ani nevhodného na tom, že jeho žena seděla s Vronským u jiného stolu a živě se s ním bavila. Ale všiml si, že ostatním přítomným se to jevilo jako něco zvláštního a nevhodného, a proto se to najednou zdálo nevhodné i jemu. Usoudil, že to musí ženě říci.

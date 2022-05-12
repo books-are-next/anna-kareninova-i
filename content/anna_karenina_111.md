@@ -1,5 +1,6 @@
 ---
 title: I
+contentType: prose
 ---
 
 Manželé Kareninovi nadále obývali společnou domácnost, setkávali se každý den, ale byli si naprosto cizí. Alexej Alexandrovič si učinil pravidlem denně se s ženou setkat, aby služebnictvo nemohlo mít různé domněnky, ale varoval se obědů doma. Vronskij do domu Alexeje Alexandroviče nikdy nepřišel, ale Anna se s ním stýkala mimo domov a muž o tom věděl.

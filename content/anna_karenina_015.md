@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 Byly čtyři hodiny, když Levin s bušícím srdcem vystoupil u zoologické zahrady z drožky a dal se pěšinkou k sáňkovací dráze a ke kluzišti. Věděl najisto, že ji tam nalezne, protože viděl u brány kočár Ščerbackých.

@@ -1,5 +1,6 @@
 ---
 title: XXIII
+contentType: prose
 ---
 
 Rána Vronského byla nebezpečná, třebaže nezasáhla srdce. Několik dní byl mezi životem a smrtí. Když mohl poprvé promluvit, seděla u něho v pokoji jen bratrova žena Varja.

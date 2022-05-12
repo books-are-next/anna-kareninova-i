@@ -1,5 +1,6 @@
 ---
 title: I
+contentType: prose
 ---
 
 Koncem zimy bylo u Ščerbackých svoláno konzilium, které mělo rozhodnout, jaký je Kittin zdravotní stav a co podniknout, aby se jí navrátily ochabující síly. Byla nemocná a s blížícím se jarem se její zdraví horšilo. Domácí lékař jí předpisoval rybí tuk, potom železo, pak lápis, ale nic z toho nepomáhalo, lékař radil, aby s ní na jaře jeli do ciziny, a tak byl přizván slavný doktor. Slavný doktor, ještě dost mladý, velice hezký muž, žádal, aby směl pacientku prohlédnout. Zdálo se, že s obzvláštním požitkem dokazuje, že dívčí stydlivost je pouhý pozůstatek primitivismu a že není nic přirozenějšího, než aby poměrně mladý muž ohmatával obnažené mladé děvče. Považoval to za přirozené, neboť tak činil denně a nic při tom necítil ani nemyslil – tak se domníval – na nic špatného, a pokládal tudíž dívčí ostych nejen za pozůstatek primitivismu, ale přímo za osobní urážku.

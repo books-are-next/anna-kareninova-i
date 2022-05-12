@@ -1,5 +1,6 @@
 ---
 title: XXVIII
+contentType: prose
 ---
 
 Levin se toho večera s dámami nemožně nudil. Ještě nikdy ho tak nerozčilovala myšlenka, že jeho nynější nespokojenost s hospodářstvím není výlučně jeho stav, ale že je to stejné v celém Rusku, že úprava vztahu k dělníkům, kteří by pracovali jako u toho sedláka v půli cesty sem, není pouhé blouznění, nýbrž úkol, který musí být vyřešen. A zdálo se mu, že ten úkol lze vyřešit a že se o to musí pokusit.

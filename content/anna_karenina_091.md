@@ -1,5 +1,6 @@
 ---
 title: XIV
+contentType: prose
 ---
 
 Když Alexej Alexandrovič přijížděl k Petrohradu, už se pevně rozhodl pro toto řešení a také si v duchu sestavil dopis, který napíše ženě. Ve vrátnici se podíval na dopisy a listiny z ministerstva a dal si je odnést do pracovny.

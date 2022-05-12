@@ -1,5 +1,6 @@
 ---
 title: II
+contentType: prose
 ---
 
 Doma Vronskij našel psaníčko od Anny. Psala: „Stůňu a jsem nešťastná. Nemohu z domu, ale také už nemohu vydržet bez Vás. Přijďte večer. Alexej Alexandrovič jede v sedm hodin na schůzi a bude pryč až do desíti.“ Vronskij se maličko zamyslil, jak je divné, že ho zve přímo k sobě přes manželův zákaz, ale nakonec se rozhodl, že pojede.

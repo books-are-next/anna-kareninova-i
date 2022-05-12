@@ -1,5 +1,6 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Levin přijel do Moskvy ranním vlakem a ubytoval se u staršího nevlastního bratra. Jakmile se převlékl, šel za ním do pánského pokoje. Chtěl mu svěřit, proč přijel, a požádat ho o radu. Ale bratr nebyl sám. Seděl u něho známý profesor filozofie, jenž přijel z Charkova jen proto, aby vysvětlil nedorozumění, ke kterému mezi nimi došlo v závažné filozofické otázce. Profesor vášnivě polemizoval s materialisty, Sergej Koznyšov polemiku se zájmem sledoval, a když si přečetl poslední profesorův článek, sdělil mu v dopise své námitky. Vytýkal profesorovi přílišné ústupky materialistům. A profesor ihned přijel, aby se mohli domluvit. Šlo o módní problém, zda existuje hranice mezi psychickými a fyziologickými jevy v činnosti člověka a kde je.

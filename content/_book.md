@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Anna Kareninová I
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   languageCode: cs
 readingOrder:
-  - anna_karenina_002.html
+  - promo.html
   - anna_karenina_006.html
   - anna_karenina_007.html
   - anna_karenina_008.html

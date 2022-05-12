@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 „Je to trošku neslušné, ale tak roztomilé, že mám sto chutí to vyprávět,“ řekl Vronskij s rozesmátýma očima. „Nebudu nikoho jmenovat.“

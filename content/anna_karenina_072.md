@@ -1,5 +1,6 @@
 ---
 title: XXXI
+contentType: prose
 ---
 
 Byl deštivý den, pršelo celé dopoledne a pacienti s deštníky se shlukli v ochozu.

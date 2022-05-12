@@ -1,5 +1,6 @@
 ---
 title: XXI
+contentType: prose
 ---
 
 „Jdu pro tebe. Dnes ti to prádlo trvalo nějak dlouho,“ řekl Petrickij. „Tak co, hotovo?“

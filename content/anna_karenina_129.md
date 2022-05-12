@@ -1,5 +1,6 @@
 ---
 title: XIX
+contentType: prose
 ---
 
 Chyba, jíž se Alexej Alexandrovič dopustil tím, když před setkáním s ženou nepomyslil na možnost, že její lítost bude upřímná, on jí odpustí, ale ona nezemře – tato chyba se mu za dva měsíce po návratu z Moskvy projevila v celé své síle. Ale chybu, které se dopustil, nezavinilo jen to, že nepomyslil na takovou možnost, nýbrž i skutečnost, že až do chvíle, kdy se setkal s umírající ženou, neznal sebe sama. U lůžka nemocné ženy poprvé v životě podlehl onomu zjihlému soucitu, který v něm budilo utrpení jiných lidí a za který se dřív stydíval jako za nebezpečnou slabost. A útrpnost s ní, výčitky svědomí, že si přál její smrt, a především blažící vědomí, že odpustil, to všecko způsobilo, že náhle pocítil úlevu ve vlastním utrpení, a nejen to, nabyl i duševního klidu, který dosud nepoznal. Náhle cítil, že to, co bylo zdrojem jeho utrpení, stalo se mu zdrojem duchovní radosti, co se zdálo neřešitelné, pokud odsuzoval, vyčítal a nenáviděl, bylo najednou prosté a jasné, když odpouštěl a miloval.

@@ -1,5 +1,6 @@
 ---
 title: XI
+contentType: prose
 ---
 
 Společného rozhovoru se účastnili všichni kromě Kitty a Levina. Zpočátku, když se mluvilo o vlivu jednoho národa na druhý, přicházelo Levinovi bezděčně na mysl všecko, co mohl k té otázce poznamenat. Ale myšlenky, kdysi pro něho důležité, mu vířily v hlavě jako ve snu a už pro něho neměly nejmenší význam. Bylo mu až divné, proč všichni tak horlivě mluví o věcech, na kterých nikomu nezáleží. I Kitty by snad mělo zajímat, co říkali o právech a vzdělání žen. Kolikrát o tom přemýšlela, když vzpomínala na svou přítelkyni z ciziny Váreňku, na její tíživou závislost, kolikrát přemýšlela o sobě, co bude s ní, jestliže se nevdá, a kolikrát se o to hádala se sestrou! Ale teď ji to ani dost málo nezajímalo. Rozmlouvala s Levinem a nebyla to ani rozmluva, ale jakési tajemné dorozumění, které je každým okamžikem stále víc sbližovalo a budilo v nich radostnou bázeň před neznámem, do kterého vstupovali.
