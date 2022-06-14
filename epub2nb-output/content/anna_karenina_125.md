@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 V ulicích ještě bylo prázdno. Levin zamířil k paláci Ščerbackých. Hlavní vrata byla zamčena a všechno spalo. Šel nazpět, vrátil se do hotelového pokoje a objednal si kávu. Sklepník mající denní službu, už ne Jegor, mu ji donesl. Levin se s ním chtěl dát do řeči, ale někdo zazvonil a sklepník odešel. Levin se pokusil upít kávy a vložil si do úst kus housky, ale jeho ústa vůbec nevěděla, co s houskou mají dělat. Vyplivl ji, vzal si kabát a šel zase ven. Táhlo na desátou, když přišel podruhé k domu Ščerbackých.
 
 V domě teprve vstávali a kuchař šel na nákup. Levin musel nějak přečkat ještě alespoň dvě hodiny.
@@ -54,3 +56,5 @@ Vedla ho za ruku do salónu. Jakmile je kněžna spatřila, začala prudce oddyc
 Objal Kitty, políbil ji na tvář, na ruku, zase na tvář a udělal jí křížek.
 
 A Levina zaplavil nový cit lásky k tomu člověku, kdysi cizímu, ke starému knížeti, když se díval, jak mu Kitty dlouho a něžně líbá kyprou ruku.
+
+</section>

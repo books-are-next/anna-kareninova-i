@@ -3,6 +3,8 @@ title: XXI
 contentType: prose
 ---
 
+<section>
+
 Betsy ještě neodešla ze sálu, když se s ní Stěpan Arkaďjič (zrovna přijel od Jelisejeva, kde dostali čerstvé ústřice) potkal ve dveřích.
 
 „Ale! Kněžna! To je milé shledání!“ zahlaholil. „Právě jsem byl u vás.“
@@ -76,3 +78,5 @@ Neodpovídala a odmítavě zavrtěla ostříhanou hlavou. Ale její tvář náh
 „Je mi vás strašně líto! A byl bych tak šťastný, kdybych to nějak dobře zařídil!“ pravil Stěpan Arkaďjič, tentokrát s úsměvem smělejším. „Ne, ne, nic neříkej! Kéž by dal bůh, abych to dovedl říci tak, jak cítím. Půjdu k němu.“
 
 Anna na něho pohlédla zádumčivýma blýskavýma očima a neřekla nic.
+
+</section>

@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Darja Alexandrovna měla na sobě jen jupičku, copy kdysi hustých a krásných, ale teď už řídkých vlasů si upevnila v týle, v obličeji byla přepadlá a hubená a vyděšené oči se v něm nápadně odrážely. Stála mezi věcmi rozházenými po pokoji, před otevřeným prádelníkem, z kterého cosi vybírala. Jakmile zaslechla mužovy kroky, zarazila se při pohledu na dveře a marně se snažila nasadit přísný, pohrdavý výraz. Cítila, že se ho bojí a že se bojí nadcházejícího setkání. Právě se snažila provést, oč usilovala za ty tři dny už posté: sebrat věci dětí, které odveze k matce – a zas se k tomu nemohla odhodlat. Ale i teď si stejně jako předtím říkala, že takhle to nemůže zůstat, že musí něco podniknout, potrestat, zostudit ho, pomstít se mu aspoň malým dílem bolesti, kterou jí způsobil. Pořád si ještě namlouvala, že od něho odejde, ale cítila, že to není možné. Nebylo to možné proto, že si nemohla odvyknout vidět v něm svého muže a milovat ho. Kromě toho tušila, jestliže i zde ve vlastním domě stěží opatrovala svých pět dětí, že tam, kam s nimi všemi odejde, to s nimi bude ještě horší. Beztak se v těch třech dnech nejmladší rozstonal, protože dostal zkažený bujón, zatímco ostatní zůstaly včera málem bez oběda. Cítila, že odejít nemůže. Ale klamala sama sebe, skládala věci a tvářila se, že odejde.
 
 Sotva spatřila muže, sáhla do zásuvky, jako by něco hledala, a otočila se k němu teprve, když přistoupil až k ní. Ale v obličeji, kterému chtěla dodat přísného a odhodlaného vzhledu, se jí zračil zmatek a utrpení.
@@ -90,3 +92,5 @@ Darja Alexandrovna mezitím utišila dítě, a když uslyšela hrčet kočár a
 „Dobře, hned přijdu a zařídím to. A byl už někdo pro čerstvé mléko?“
 
 Darja Alexandrovna se oddala všedním starostem a na čas v nich utopila svůj bol.
+
+</section>

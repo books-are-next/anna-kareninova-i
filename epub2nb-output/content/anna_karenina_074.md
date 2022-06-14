@@ -3,6 +3,8 @@ title: XXXIII
 contentType: prose
 ---
 
+<section>
+
 Kitty se seznámila i s paní Stahlovou a ta známost zároveň s přátelským vztahem k Váreňce na ni měla mocný vliv, a nejen to, utěšovala ji v jejím zármutku. Nalezla útěchu v tom, že nová známost jí odhalila zcela nový svět, který neměl nic společného s její minulostí, svět ušlechtilý a krásný, z jehož výše mohla na celou minulost shlížet klidně. Poznala, že kromě života pudového, jemuž se dosud poddávala, existuje život duchovní. Ten život se zjevoval v náboženství, avšak to náboženství nemělo nic společného s tím, které znala Kitty od dětství a které se projevovalo hrubou mší a nešporami v útulku pro vdovy, kde jste se mohli setkat se známými, a memorováním církevně slovanských textů za dozoru důstojného pána. Toto bylo náboženství ušlechtilé a tajemné, související s množstvím krásných myšlenek a citů, náboženství, ve které můžeme nejen věřit, poněvadž je nám uloženo, ale které můžeme milovat.
 
 Kitty to vše nepoznala ze slov. Madame Stahlová s ní hovořila jako s rozmilým dítětem, v kterém láskyplně spatřujeme vzpomínku na vlastní mladost, a jen jedinkrát se zmínila, že útěchu v každém lidském žalu skýtá jen láska a víra a že pro Kristův soucit s námi není žalů nicotných, a pak hned začala o něčem jiném. Ale Kitty v každém jejím hnutí, v každém slově, v každém jejím – jak říkala – nebeském pohledu a především v celém jejím životním příběhu, který znala od Váreňky, ve všem poznávala, „co je důležité“ a co až dosud neznala.
@@ -49,6 +51,10 @@ A možná jí bylo také nemilé, když mu Kitty podala pléd. Je to všecko ta
 
 Ty pochybnosti jí kalily radost z nového života.
 
-  
+</section>
+
+<section>
 
 [^34]: Nikdy se nemá přehánět. _(franc.)_
+
+</section>

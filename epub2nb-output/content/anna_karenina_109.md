@@ -3,6 +3,8 @@ title: XXXII
 contentType: prose
 ---
 
+<section>
+
 Levin to už dávno postřehl: jste-li před některými lidmi nesví pro jejich přílišnou povolnost a poníženost, pak je přímo nesnesitelné, když jsou příliš nároční a hašteřiví. Levin tušil, že tak nějak to dopadne i s bratrem. A Nikolaj opravdu se svou mírností dlouho nevydržel. Už příští ráno byl podrážděný a zuřivě útočil na bratra, kterého se dotýkal na nejcitlivějších místech.
 
 Levin si připadal provinile a nemohl to napravit. Cítil, kdyby se oba nepřetvařovali, ale mluvili, jak se říká, od srdce, totiž to, co si oba myslí a jak cítí, že by se jenom podívali jeden druhému do očí a Konstantin by říkal jenom „umřeš, umřeš, umřeš“, zatímco Nikolaj by odpovídal pouze „vím, že umřu, ale bojím se, bojím“. A nic jiného by neříkali, kdyby mluvili od srdce. Ale takto se nedalo žít, a proto se Konstantin pokoušel o věc, o kterou se pokoušel celý život, ale která se mu nedařila, zatímco mnoha lidem (jak pozoroval) se dařila znamenitě, o věc, bez které se nedá žít: pokoušel se mluvit něco jiného, než co si myslil, a ustavičně cítil, že to zní falešně, že bratr ho při tom přistihuje a zlobí se proto.
@@ -67,6 +69,10 @@ Třetí den po bratrově odjezdu i Levin odjížděl do ciziny. Ve vlaku se set
 
 „Také jsem si to donedávna myslil, ale teď vím, že brzo umřu.“ Levin říkal, co si v poslední době opravdu myslil. Ve všem spatřoval jen smrt anebo její blízkost. Ale dílo, do kterého se pustil, ho upoutávalo tím víc. Vždyť musel nějak dožívat život, dokud smrt nepřišla. Vše bylo zahaleno v tmách, ale v těch tmách cítil, že jedinou vedoucí nití je jeho práce, a proto se jí chopil posledními silami a držel se jí.
 
-  
+</section>
+
+<section>
 
 [^43]: Čistá, nepopsaná deska. _(lat.)_
+
+</section>

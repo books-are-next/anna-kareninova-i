@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 To, co bylo pro Vronského skoro celý rok jednou jedinou životní touhou, která mu nahradila všechny dřívější tužby; co bylo pro Annu nesplnitelným, děsivým a tím opojnějším snem o štěstí – tato touha byla ukojena. Bledý a s třesoucí se bradou stál nad ní a zapřísahal ji, aby se uklidnila, ač sám nevěděl proč a jak.
 
 „Anno! Anno!“ opakoval třesoucím se hlasem. „Anno, proboha!“
@@ -30,3 +32,5 @@ Rychle vstala a uhnula před ním.
 Později, až později, říkala si, až budu klidnější.
 
 Zato ve spánku, kdy své myšlenky nemohla ovládat, vyvstávala před ní její situace v celé své ohyzdné nahotě. Jeden sen ji navštěvoval takřka noc co noc. Zdálo se jí, že jsou oba zároveň jejími muži, že oba ji zahrnují laskáním. Alexej Alexandrovič jí s pláčem líbal ruce a říkal: „Teď je nám tak hezky!“ I Alexej Vronskij byl zde, i on byl jejím mužem. A ona se divila, že dřív se jí to zdálo nemožné, a se smíchem jim vykládala, že je to mnohem jednodušší a že teď jsou oba spokojení a šťastní. Ale ten sen ji tlačil jako můra a probouzela se s hrůzou.
+
+</section>

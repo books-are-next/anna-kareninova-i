@@ -3,6 +3,8 @@ title: XXVI
 contentType: prose
 ---
 
+<section>
+
 Vztahy mezi Alexejem Alexandrovičem a ženou byly navenek stejné jako dříve. S tím rozdílem, že Karenin byl ještě víc zaneprázdněn než dříve. Stejně jako léta minulá odjel počátkem jara do ciziny do lázní, aby upevnil své zdraví, každoročně podlamované namáhavou zimní prací, a jako obyčejně se v červenci vrátil a se zvýšenou energií se neprodleně pustil do obvyklé práce. Jeho žena odjela jako obyčejně na letní byt, kdežto on zůstal v Petrohradě.
 
 Od oné rozmluvy po večírku u kněžny Tverské nikdy s Annou nemluvil o svém podezření ani žárlivosti a jeho obvyklý tón, kterým jako by někoho posměšně napodoboval, se při jeho nynějším vztahu k ženě dokonale hodil. Byl k ženě o něco chladnější. Jako by s ní byl jen poněkud nespokojen, protože se vyhnula onomu prvnímu večernímu rozhovoru. V jeho vztahu k ní byl nádech rozmrzelosti, ale nic více. „Nechtěla sis se mnou vážně promluvit,“ tak asi ji v duchu oslovoval, „tím hůř pro tebe. Teď už mě budeš prosit, ale _já_ s tebou nebudu chtít mluvit,“ říkal si v duchu jako člověk, který by se marně snažil uhasit oheň, rozzlobil by se na své marné úsilí a řekl by: „Dobře ti tak! Za to uhoříš!“
@@ -40,3 +42,5 @@ Po lékaři, který zabral tolik času, přišel slavný cestovatel a Alexej Al
 Zároveň s cestovatelem byl ohlášen gubernský maršálek šlechty, který přijel do Petrohradu a s kterým si Alexej Alexandrovič potřeboval promluvit. Po jeho odjezdu chtěl dodělat každodenní práci se správcem a ještě měl jet ve vážné, důležité věci k jisté vlivné osobnosti. Alexej Alexandrovič se vrátil až k páté hodině, to jest k obědu, poobědval se správcem a vyzval ho, aby s ním jel na letní sídlo a na dostihy.
 
 Aniž si to uvědomoval, vyhledával teď Alexej Alexandrovič stále příležitost, aby měl při každém setkání s ženou třetí osobu jako svědka.
+
+</section>

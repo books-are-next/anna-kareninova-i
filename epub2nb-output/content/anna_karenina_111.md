@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Manželé Kareninovi nadále obývali společnou domácnost, setkávali se každý den, ale byli si naprosto cizí. Alexej Alexandrovič si učinil pravidlem denně se s ženou setkat, aby služebnictvo nemohlo mít různé domněnky, ale varoval se obědů doma. Vronskij do domu Alexeje Alexandroviče nikdy nepřišel, ale Anna se s ním stýkala mimo domov a muž o tom věděl.
 
 Byla to trýzeň pro všechny tři a žádný z nich by to nebyl vydržel ani den, kdyby nebyl doufal, že se všecko změní a že je to jen dočasná strastiplná nesnáz, která pomine. Alexej Alexandrovič doufal, že pomine ta vášeň, jako pomíjí vše, že se na všecko zapomene a jeho jméno zůstane bez poskvrny. Anna, na které celá situace závisela a pro kterou byla nejmučivější, ji snášela jen proto, že doufala, dokonce byla pevně přesvědčena, že se co nejdřív všecko rozuzlí a vyjasní. Naprosto nevěděla, co tu situaci rozuzlí, ale byla pevně přesvědčena, že to něco přijde co nejdřív. Vronskij jí mimoděk podléhal a také očekával něco, co nezávisle na něm mělo vyřešit všechny nesnáze.
@@ -16,3 +18,5 @@ Ze všech ruských zábav se princi vlastně nejvíc líbily francouzské hereč
 „Hloupé hovádko! Jsem snad taky takový?“ myslil si.
 
 Tak či onak, když se s ním sedmého dne rozloučil před jeho odjezdem do Moskvy a přijal projevy díků, byl šťasten, že už se dostal z trapné situace a zbavil se nepříjemného zrcadla. Rozloučil se s ním na nádraží po návratu z lovu na medvědy, kde mu celou noc předváděli ukázky ruského udatenství.
+
+</section>

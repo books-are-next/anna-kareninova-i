@@ -3,6 +3,8 @@ title: XXI
 contentType: prose
 ---
 
+<section>
+
 K svačině dospělých přišla Dolly ze svého pokoje. Stěpan Arkaďjič nepřišel. Asi odešel z manželčina pokoje zadními dveřmi.
 
 „Bojím se, aby ti nahoře nebylo zima,“ prohodila Dolly k Anně. „Raději bych tě přestěhovala dolů, aspoň k sobě budeme mít blíž.“
@@ -56,3 +58,5 @@ Kitty se zarděla. Myslila si, že jen ona pochopila, proč přišel a proč ne
 Všichni se na sebe podívali, ale neřekli nic a prohlíželi si Annino album.
 
 Na tom, že se člověk přišel o půl desáté večer vyptat přítele podrobněji na chystaný oběd a nešel dál, nebylo nic nezvyklého ani divného; ale všem se to divné zdálo. Nejvíc se to zdálo divné a nepěkné Anně.
+
+</section>

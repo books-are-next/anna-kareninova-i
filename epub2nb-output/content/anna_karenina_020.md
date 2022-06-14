@@ -3,6 +3,8 @@ title: XIV
 contentType: prose
 ---
 
+<section>
+
 Ale zrovna v té chvíli přišla kněžna. Zhrozila se, když je přistihla o samotě a viděla, jak jsou rozrušeni. Levin se jí uklonil a nic neřekl. Kitty mlčela, oči sklopené. Chválabohu, odmítla ho! Obličej matčin se rozzářil v obvyklém úsměvu, s kterým vítala každý čtvrtek hosty. Usedla a začala se Levina vyptávat na jeho život na vsi. Opět se posadil, chtěl počkat, až přijdou hosté, aby mohl nenápadně odejít.
 
 Po pěti minutách vstoupila Kittina přítelkyně, hraběnka Nordstonová, která se loni v zimě vdala.
@@ -144,3 +146,5 @@ Vronskij s údivem spočinul na knížeti svým pevným pohledem, jemně se usm
 „Doufám, že přijdete také?“ obrátil se ke Kitty.
 
 Jakmile se starý kníže otočil jinam, Levin nenápadně odešel a jeho posledním dojmem z celého večera byl usměvavý, blažený Kittin výraz, když odpovídala Vronskému na otázku, týkající se plesu.
+
+</section>

@@ -3,6 +3,8 @@ title: XXVI
 contentType: prose
 ---
 
+<section>
+
 Svijažskij byl maršálkem šlechty ve svém okrese. Byl o pět let starší než Levin a byl dávno ženat. V domácnosti žila jeho mladá švagrová, dívka Levinovi velmi sympatická. Levin věděl, že Svijažskij a jeho žena by tu dívku velice rádi za něho provdali. Věděl to docela jistě, jako to vždy vědí mladí muži, takzvaní ženichové, přestože by se to neodvážil nikomu říci. Věděl také, že by se sice rád oženil, že by z té velmi půvabné dívky podle všeho byla znamenitá manželka, ale že by se s ní přesto nemohl oženit (i kdyby nebyl zamilován do Kitty Ščerbacké), zrovna jako by nemohl odletět do nebe. A to vědomí mu kazilo požitek, který si od návštěvy u Svijažských sliboval.
 
 Když Levin dostal od Svijažského pozvání na lov, hned ho to napadlo, ale přece si nakonec řekl, že tyto úmysly Svijažského jsou pouhou nepodloženou domněnkou a že přece pojede. Kromě toho si v hloubi duše přál podrobit se zkoušce znova se podívat na to děvče. Svijažských domácí život byl nanejvýš příjemný a sám Svijažskij, nejlepší typ činitele v samosprávě, jaký Levin znal, Levina vždy zajímal.
@@ -38,3 +40,5 @@ Seděl u stolu vedle paní domu a měl se bavit s ní a se švagrovou, sedí
 „Ne, děkuji, už nechci čaj,“ pravil Levin. Tušil, že se dopouští nezdvořilosti, ale už nebyl s to pokračovat v rozmluvě, a proto s uzarděním vstal. „Tady slyším velice zajímavý rozhovor,“ dodal a šel na druhý konec stolu, kde seděl pán domu s dvěma statkáři. Svijažskij seděl pootočen u stolu, v opřené ruce otáčel šálkem, druhou svíral do hrsti vous, dával si jej k nosu a zas jej pouštěl z ruky, jako by k němu čichal. Díval se jiskrnýma černýma očima přímo na rozhorleného statkáře s šedivým knírem, zřejmě pobaven jeho řečmi. Statkář si stěžoval na rolníky. Levinovi bylo jasné, že Svijažskij zná na statkářovy nářky odpověď, která by rázem zmařila veškerý smysl jeho řeči, ale že si takovou odpověď nesmí jako hostitel dovolit, a poslouchá tedy ne bez požitku statkářův komický proslov.
 
 Statkář s šedivým knírem byl patrně zavilý stoupenec nevolnictví a venkovský starousedlík, náruživě oddaný zemědělství. Známky toho viděl Levin v jeho oděvu, totiž ošumělém staromódním kabátě, na nějž statkář zřejmě nebyl zvyklý, i v jeho chytrých podmračených očích, v plynulé ruštině, ve velitelském tónu, patrně nabytém dlouhodobou zkušeností, i v rázných pohybech velkých osmahlých pěkných rukou se starým snubním prstenem na prsteníku.
+
+</section>

@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Posekali Mášin vršek, dodělali poslední pokosy, oblékli si kabáty a s veselou se vydali k domovu. Levin vsedl na koně, jen nerad se rozloučil s rolníky a jel domů. Na kopci se ohlédl. Protože zdola stoupala mlha, nebylo vidět. Slyšel jen veselé drsné hlasy, smích a zvonění kos, narážejících o sebe.
 
 Sergej Ivanovič už byl dávno po obědě, pil ve svém pokoji citronádu s ledem a prohlížel si noviny a časopisy, právě došlé poštou, když Levin s vlasy rozcuchanými, zpocenými a přilepenými na čelo, záda a prsa mokrá a opálená, zvesela k němu vtrhl do pokoje.
@@ -79,8 +81,12 @@ I Sergej Ivanovič se usmál.
 
 „Ale přece za ní skočím. Než si vezmeš klobouk, jsem zpátky.“ A už se rozběhl po schodech dolů, až mu podpatky klapaly jako hrkačka.
 
-  
+</section>
+
+<section>
 
 [^37]: Léčba prací. _(něm.)_
 
 [^38]: Impulzivní. _(franc.)_
+
+</section>

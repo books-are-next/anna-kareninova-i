@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Po svačině se Levin octl jinde, mezi starým čtverákem, který mu nabídl sousedství, a mladým chlapíkem, který byl teprve od podzimu ženatý a letos šel sekat poprvé.
 
 Starý se držel zpříma, šel vpředu, rytmicky a zeširoka našlapoval křivýma nohama a přesným rytmickým pohybem, který mu patrně nedal víc námahy než komíhání rukama při chůzi, hravě pořádal pravidelný vysoký pokos. Jako by nikoli on, ale ostrá kosa sama svištěla ve šťavnaté trávě.
@@ -62,3 +64,5 @@ Tráva, vydávající kořennou vůni, šťavnatě svištěla při pádu a vrš
 Levin byl zase mezi mladým chlapíkem a starcem. Starý si oblékl kabátek z ovčí kůže. Byl pořád samý žert a smích a lehce ovládal své pohyby. A v lese co chvíli narazili na kozáky, rozbujelé ve šťavnaté trávě, a přesekávali je kosou. Ale starý se pokaždé, když našel kozáka, shýbal, zvedal houbu a schovával ji za košili. „Zase dáreček pro starou,“ opakoval.
 
 Třebaže se mokrá a slabá tráva kosila snadno, těžko se sestupovalo a stoupalo po příkrých svazích. Ale staříkovi to nevadilo. Pořád stejně mával kosou, když drobným, pevným krokem svých nohou ve velkých lýčených střevících pomalu vylézal na sráz, a třebaže se třásl po celém těle, až mu kalhoty pod košilí plandaly, přece nevynechal cestou ani stéblo, ani jedinou houbu a stejně žertoval s chlapy a s Levinem. Levin šel za ním a kolikrát si myslil, že užuž upadne, když tak stoupal s kosou do strmého kopce, kam i bez kosy člověk těžko vyleze. Ale vždycky se dostal nahoru a dělal svou práci. Cítil, že ho pohání jakási vnější síla.
+
+</section>

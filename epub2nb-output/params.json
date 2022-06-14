@@ -8,7 +8,8 @@
       "modified": "2021-12-09T07:58:45.782Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "isbn": "978-80-274-2485-6"
     },
     "elements": {
       "title": "MLP-uroven1-cast\nMLP-uroven2-kapitola",
@@ -2402,6 +2403,6 @@
       "user": "books-are-next",
       "repo": "anna-kareninova-i"
     },
-    "generatedAt": 1652351393513
+    "generatedAt": 1655186388312
   }
 }

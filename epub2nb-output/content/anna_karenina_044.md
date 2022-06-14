@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Při vstupu do Kittina salónku, hezkého růžového pokojíčku s figurkami z míšeňského porcelánu, růžového a veselého, jako byla sama Kitty ještě před dvěma měsíci, vzpomněla si Dolly, jak spolu ten pokojíček loni zařizovaly, jak radostně a láskyplně. Srdce jí usedalo, když teď spatřila Kitty, sedící na židličce u dveří a strnule zírající na cíp koberce. Kitty pohlédla na sestru a chladný, poněkud tvrdý výraz jejího obličeje se nezměnil.
 
 „Teď půjdu a budu zahrabaná doma a ty ke mně nebudeš smět,“ řekla Darja Alexandrovna a sedla k ní. „Ráda bych s tebou mluvila.“
@@ -68,3 +70,5 @@ Kitty přišla do rozpaků. Chtěla ještě říci, že od té doby, co se s n�
 „Škoda že teď ke mně nemůžeš.“
 
 „Ne, já přijedu. Už jsem spálu měla, přemluvím mamá.“ Kitty prosadila své, přestěhovala se k sestře, a když se skutečně dostavila spála, celou tu dobu děti ošetřovala. Obě sestry šťastně vyléčily všech šest dětí, ale Kittino zdraví se nelepšilo a o velkém půstu odjeli Ščerbackých do ciziny.
+
+</section>

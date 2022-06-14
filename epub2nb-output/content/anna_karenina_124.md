@@ -3,6 +3,8 @@ title: XIV
 contentType: prose
 ---
 
+<section>
+
 Když Kitty odjela a Levin osaměl, zmocnil se ho bez ní takový neklid a taková netrpělivá touha rychle, co nejrychleji se dočkat zítřka, kdy ji opět uvidí a připoutá ji k sobě navždy, že se těch čtrnácti hodin, které měl strávit bez ní, zalekl jako smrti. Potřeboval mít někoho u sebe, s kým by mohl mluvit, aby nezůstal sám, aby obelstil čas. Stěpan Arkaďjič by mu byl společníkem nejmilejším, jenže jel, jak říkal, na večírek, ve skutečnosti na balet. Levin mu sotva stačil říci, že je šťastný a má ho rád a nikdy nezapomene, co pro něho udělal. Pohled i úsměv Stěpana Arkaďjiče přesvědčil Levina, že náležitě chápe jeho city.
 
 „Tak už nechceš umřít?“ řekl Stěpan Arkaďjič a dojatě stiskl Levinovi ruku.
@@ -72,3 +74,5 @@ A Levin viděl, že i Jegor je u vytržení a chystá se mu otevřít své s
 „Já mám taky ohromný život. Od malička jsem…,“ začal se zářícíma očima, zjevně nakažen Levinovým nadšením, jako se můžeme nakazit zíváním.
 
 Ale vtom se ozval zvonek. Jegor odešel a Levin zůstal sám. Při obědě skoro nejedl, u Svijažských odmítl čaj i večeři, ale neměl na jídlo ani pomyšlení. Minulou noc nespal, ale neměl ani pomyšlení na spánek. V pokoji bylo chladno, ale Levin se zalykal horkem. Otevřel obě okenní křídla a sedl si ke stolu proti nim. Za zavátou střechou se rýsoval ozdobný kříž s řetězy a nad ním se vznášel trojúhelník souhvězdí Vozky s jasnou žlutavou Capellou. Levin se díval na kříž, díval se na hvězdu, vdechoval svěží mrazivý vzduch, stejnoměrně proudící do pokoje, a jako ve snu sledoval představy a vzpomínky, které se mu vynořovaly v mysli. Kolem čtvrté hodiny zaslechl na chodbě kroky a vyhlédl ze dveří. Známý hráč Mjaskin se vracel z klubu. Šel zamračen a zlostně si odkašlával. Chudák nešťastný, pomyslil si Levin a slzy mu vhrkly do očí, z lásky a lítosti k tomu člověku. Chtěl si s ním pohovořit a potěšit ho; ale když si uvědomil, že je jen v košili, rozmyslil si to a znovu si sedl k oknu, koupal se v chladném vzduchu a díval se na ten krásně tvarovaný, němý, ale pro něho výmluvný kříž i na vznosnou žlutojasnou hvězdu. Po šesté hodině už kolem hlučeli leštiči podlah, zvonili na mši a Levin cítil, že mu začíná být zima. Zavřel okno, umyl se, oblékl a vyšel z domu.
+
+</section>

@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 Společného rozhovoru se účastnili všichni kromě Kitty a Levina. Zpočátku, když se mluvilo o vlivu jednoho národa na druhý, přicházelo Levinovi bezděčně na mysl všecko, co mohl k té otázce poznamenat. Ale myšlenky, kdysi pro něho důležité, mu vířily v hlavě jako ve snu a už pro něho neměly nejmenší význam. Bylo mu až divné, proč všichni tak horlivě mluví o věcech, na kterých nikomu nezáleží. I Kitty by snad mělo zajímat, co říkali o právech a vzdělání žen. Kolikrát o tom přemýšlela, když vzpomínala na svou přítelkyni z ciziny Váreňku, na její tíživou závislost, kolikrát přemýšlela o sobě, co bude s ní, jestliže se nevdá, a kolikrát se o to hádala se sestrou! Ale teď ji to ani dost málo nezajímalo. Rozmlouvala s Levinem a nebyla to ani rozmluva, ale jakési tajemné dorozumění, které je každým okamžikem stále víc sbližovalo a budilo v nich radostnou bázeň před neznámem, do kterého vstupovali.
 
 Nejprve Levin na Kittinu otázku, jak ji loni mohl zahlédnout v kočáře, vyprávěl, jak šel z luk po silnici a potkal ji.
@@ -34,3 +36,5 @@ Snad jsem nebyla rozcuchaná, napadlo ji. Ale když viděla úsměv nadšení, v
 „Ano, byl úžasný, báječný!“ řekla Dolly. Podívala se na Turovcyna, který tušil, že se mluví o něm, a jemně se na něho usmívala. I Levin na něho ještě jednou pohlédl a divil se, že dřív nechápal, jak okouzlující je to člověk.
 
 „Moc a moc se omlouvám a už nikdy nebudu o nikom špatně smýšlet!“ řekl vesele, a tím upřímně vyjádřil, co nyní cítil.
+
+</section>

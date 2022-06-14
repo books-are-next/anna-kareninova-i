@@ -3,6 +3,8 @@ title: XX
 contentType: prose
 ---
 
+<section>
+
 Alexej Alexandrovič se rozloučil s Betsy v sále a ubíral se k ženě. Ležela, ale jakmile zaslechla jeho kroky, honem si sedla do původní polohy a ulekaně se na něho dívala. Viděl, že plakala.
 
 „Jsem ti velice vděčen za důvěru,“ mírně opakoval rusky větu, kterou prve vyslovil před Betsy francouzsky, a sedl si vedle ní. Kdykoli mluvil rusky a tykal jí, Annu to tykání nesnesitelně dráždilo. „A jsem ti velice vděčen za tvé rozhodnutí. Také se domnívám, když už hrabě Vronskij odjíždí, že nemá význam, aby k nám chodil. Ačkoli…“
@@ -36,3 +38,5 @@ Alexej Alexandrovič vzdychl a odmlčel se. Nervózně si hrála se střapci u�
 Ne, tak to nemůže zůstat, řekl si Alexej Alexandrovič rozhodně, když opustil manželčin pokoj.
 
 Viděl, jak je společensky znemožněn, jak ho žena nenávidí, jak mocná je ona tajemná hrubá síla, která v rozporu s jeho duševním rozpoložením řídí jeho život a vyžaduje splnění své vůle a změnu jeho vztahu k ženě – to vše dnes bylo zřejmé, jako dosud nikdy. Viděl jasně, že celá společnost i žena od něho cosi vyžaduje, ale co vlastně, to pochopit nemohl. Cítil, že proto se v jeho nitru rodí zloba, mařící jeho klid i všecku záslužnost jeho obětavých skutků. Soudil, že pro Annu by bylo lepší přerušit styky s Vronským, ale když všichni shledávali, že to není možné, byl dokonce ochoten znova ty styky trpět, jen aby neuvalil hanbu na děti, aby je neztratil ani neměnil své postavení. Bylo to sice ohavné, ale přece jen lepší než úplný rozchod, kterým by se Anna octla v beznadějně potupné situaci, zatímco on sám by ztratil všechno, co miloval. Ale připadal si bezmocný. Věděl předem, že všichni jsou proti němu a nedovolí mu udělat, co se mu nyní jevilo tak přirozené a dobré, ale donutí ho k tomu, co je ohavné, ale co oni pokládají za žádoucí.
+
+</section>

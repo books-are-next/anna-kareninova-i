@@ -3,6 +3,8 @@ title: XXVII
 contentType: prose
 ---
 
+<section>
+
 Byl to veliký, starobylý dům, a třebaže Levin žil sám, dal jej vytápět a obýval jej celý. Věděl, že je to hloupost, věděl, že je to dokonce špatné a odporuje to jeho nynějším novým plánům, avšak ten dům mu byl celým světem. Byl to svět, v kterém žili a zemřeli jeho otec a matka. Žili životem, který byl Levinovi ideálem veškeré dokonalosti a který toužil vzkřísit se svou ženou, se svou rodinou.
 
 Levin se na matku skoro nepamatoval. Představa o ní mu byla posvátnou vzpomínkou a jeho budoucí žena měla být podle jeho snů opakováním úchvatného, svatého ideálu ženy, jakým pro něho byla matka.
@@ -26,3 +28,5 @@ Levin na ni upřeně pohlédl, překvapen, jak uhádla jeho myšlenky.
 „Nemám ještě donést čaj?“ pravila, vzala šálek a odešla. Laska mu pořád strkala hlavu pod ruku. Pohladil ji a tu se mu stočila u nohou do klubíčka a dala si hlavu na vystrčenou zadní tlapu. A na znamení, že teď už je všecko v pořádku, pootevřela tlamu, mlaskla, pěkně si složila slintavé pysky kolem starých zubů a ztichla v blaženém klidu. Levin pozorně sledoval její poslední pohyb.
 
 Se mnou je to stejné, řekl si. Stejné! Nic se neděje… Všecko je v pořádku.
+
+</section>

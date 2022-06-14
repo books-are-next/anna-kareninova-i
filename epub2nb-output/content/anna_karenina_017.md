@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 Levin dopil sklenku a oba se odmlčeli.
 
 „Ještě ti musím něco říct. Znáš Vronského?“ otázal se po chvilce Stěpan Arkaďjič.
@@ -96,6 +98,10 @@ A vtom oba cítili, že jsou sice přátelé, že sice spolu obědvali a popí
 
 Když sklepník přišel s účtem na pětadvacet rublů a nějaké drobné včetně přirážky na spropitné, Levin, který by se byl jindy ve svém venkovanství zhrozil částky čtrnácti rublů na něho připadající, tentokrát ani nevnímal, zaplatil svůj podíl a vydal se domů, aby se převlékl a mohl jet ke Ščerbackým, kde se mělo rozhodnout o jeho osudu.
 
-  
+</section>
+
+<section>
 
 [^8]: Je božské, když jsem přemohl svou pozemskou žádost; ale i když se to nepodařilo, prožil jsem pravou rozkoš! _(něm.)_
+
+</section>

@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 Kitty prožívala po obědě a než nastal večer podobný pocit jako jinoch před bitvou. Srdce jí prudce bušilo a nemohla na nic soustředit myšlenky.
 
 Tušila, že dnešní večer, kdy se ti dva poprvé setkají, musí rozhodnout o jejím osudu. A neustále si je představovala, každého zvlášť i oba pospolu. Když přemýšlela o minulosti, radostně, s něhou prodlévala u vzpomínek na svůj vztah k Levinovi. Vzpomínky z dětství a vzpomínky na Levinovo přátelství s jejím nebožtíkem bratrem dodávaly tomu vztahu zvláštní poetické kouzlo. Jeho láska, kterou si byla jista, jí lichotila a těšila ji.
@@ -46,3 +48,5 @@ Nedívala se na něho a jen těžce oddychovala. Byla u vytržení. Srdce jí 
 Jak blízká mu byla ještě před chvílí, co znamenala v jeho životě! A jak mu teď byla cizí a vzdálená!
 
 „Jinak to nemohlo dopadnout,“ řekl, ani se na ni nepodíval. Uklonil se a chtěl odejít.
+
+</section>

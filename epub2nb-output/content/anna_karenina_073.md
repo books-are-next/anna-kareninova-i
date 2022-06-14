@@ -3,6 +3,8 @@ title: XXXII
 contentType: prose
 ---
 
+<section>
+
 Slyšme podrobnosti, jež kněžna zvěděla o Váreňčině minulosti, o jejím vztahu k madame Stahlové i o madame Stahlové samé.
 
 Madame Stahlová, o které jedni lidé říkali, že utrápila svého muže, kdežto jiní tvrdili, že on utrápil ji svým nemravným chováním, tato madame Stahlová vždycky byla neduživá a exaltovaná žena. Když porodila už po rozvodu s mužem první dítě, hned po narození zemřelo. Příbuzní madame Stahlové znali její přecitlivělost a v obavě, aby ji smutná zpráva neusmrtila, jí dítě vyměnili. Dali jí za ně dcerku dvorního kuchaře, která se narodila téže noci a v témž domě v Petrohradě. Byla to Váreňka. Madame Stahlová se později dověděla, že Váreňka není její dcera, ale vychovávala ji dál, tím spíš, že Váreňka brzo potom ztratila všecky příbuzné.
@@ -112,3 +114,5 @@ Kitty ji držela za ruku a plná vášnivé zvídavosti, úpěnlivě se jí tá
 Kitty viděla, jak se Váreňka stěží brání úsměvu nad tím, že by potřebovala doprovod.
 
 „Ne, vždycky chodím sama a nikdy se mi nic nestalo,“ řekla a už si brala klobouk. Ještě jednou políbila Kitty, a aniž jí sdělila, co je v životě důležité, čile vykročila s notami pod paží a zmizela v polotmě letní noci, odnášejíc s sebou své tajemství o tom, co je důležité a co jí dodává tak záviděníhodného klidu a důstojnosti.
+
+</section>

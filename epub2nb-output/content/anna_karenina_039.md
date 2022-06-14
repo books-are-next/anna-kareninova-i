@@ -3,6 +3,8 @@ title: XXXIII
 contentType: prose
 ---
 
+<section>
+
 Karenin se vrátil z ministerstva ve čtyři hodiny, ale jak se stávalo často, nedostal se k tomu, aby se u ní zastavil. Šel do pracovny přijmout čekající žadatele a podepsat některé listiny, které mu předložil správce. K obědu (u Kareninů vždy obědvaly zhruba tři osoby) přišli: stará sestřenice Alexeje Alexandroviče, ředitel departementu s chotí a mladý muž, doporučený Alexeji Alexandroviči v úřadě. Anna šla do salónu věnovat se hostům. Přesně v pět, když bronzové hodiny à la Petr I. odbíjely pátý úder, přišel Alexej Alexandrovič ve fraku s dvěma hvězdičkami a s bílým nákrčníkem, jelikož měl odjet hned po obědě. Každá minuta v životě Alexeje Alexandroviče byla nějak vyplněna a rozvržena. A aby každý den zastal vše, co měl vykonat, zachovával co nejúzkostlivější přesnost. „Nespěchat a nelenošit,“ bylo jeho heslem. Vešel do sálu, se všemi se pozdravil a kvapně usedl, usmívaje se na ženu.
 
 „Ano, je konec mému osamění. Nevěřila bys, jak trapné (zdůraznil slovo _trapné_) je obědvat sám.“
@@ -55,6 +57,10 @@ Přesně ve dvanáct, když Anna ještě seděla u psacího stolu a končila d
 
 Svlékla se a šla do ložnice, ale už neměla ve tváři tu živost, která jí za pobytu v Moskvě jenjen sršela z očí i úsměvu. Naopak, světélko teď bylo zhaslé nebo kdesi hluboko ukryté.
 
-  
+</section>
+
+<section>
 
 [^18]: Vévoda z Lille, Poezie pekel. _(franc.)_
+
+</section>

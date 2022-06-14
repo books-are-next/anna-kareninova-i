@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Stěpan Arkaďjič se ve škole dobře učil, neboť byl velmi nadaný, ale přitom byl lenoch a nezbeda, takže se octl mezi posledními. Ale přes svůj věčně hýřivý život, nižší hodnosti a poměrně mladá léta měl významné, dobře placené místo přednosty v jednom moskevském úřadě. Dostal je prostřednictvím manžela své sestry Anny, Alexeje Alexandroviče Karenina, zastávajícího jedno z nejdůležitějších míst na ministerstvu, jemuž úřad podléhal; ale kdyby je byl Karenin šva­grovi neopatřil, mohla zasáhnout spousta jiných osob, bratří, sester, bratranců, sestřenic, strýců i tet, a Stiva Oblonskij by byl dostal toto či podobné místo s šesti tisíci služného, které potřeboval, neboť byl na tom zle, přestože jeho žena měla slušný majetek.
 
 Polovinu Moskvy tvořili příbuzní a přátelé Stěpana Arkaďjiče. Narodil se mezi lidmi, kteří byli nebo se stali mocnými tohoto světa. Třetina nejvyšších státních úředníků, starých pánů, byla přáteli jeho otce a pamatovali Stivu ještě v kolébce. Druhá třetina si s ním tykala a třetí byli jeho dobří známí. Dárci pozemských rozkoší v podobě míst, důchodů, koncesí aj. byli tudíž sami jeho přátelé a nemohli vlastního člověka přehlédnout. A Oblonskij se nemusel příliš namáhat, aby získal výnosné místo. Stačilo nebýt odmítavý, nezávidět, nehádat se, nebýt urážlivý, což při své vrozené dobrotě ani nikdy nedělal. Bylo by mu k smíchu, kdyby mu někdo řekl, že nedostane místo s takovým služným, jaké potřebuje, tím spíš, že ani nežádal nic kromobyčejného. Chtěl jen to, co měli jeho vrstevníci, a vykonávat takový úřad mohl stejně dobře jako každý jiný.
@@ -149,7 +151,9 @@ Teprve když vycházel z pracovny, uvědomil si Levin mezi dveřmi, že se zapo
 
 „Ale, je to mizérie,“ řekl Oblonskij s těžkým povzdechem.
 
-  
+</section>
+
+<section>
 
 [^2]: Mladík šlechtického původu v pozici komořího. Pozn. red.
 
@@ -158,3 +162,5 @@ Teprve když vycházel z pracovny, uvědomil si Levin mezi dveřmi, že se zapo
 [^4]: Uzavřená skupina navzájem se podporujících jednotlivců sledující sobecké zájmy (získání společenských výhod, služebního postupu), klika. Pozn. red.
 
 [^5]: Ruská pozemková míra o rozloze asi 1,09 ha. Pozn. red.
+
+</section>

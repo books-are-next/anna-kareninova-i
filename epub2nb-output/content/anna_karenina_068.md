@@ -3,6 +3,8 @@ title: XXVII
 contentType: prose
 ---
 
+<section>
+
 Anna stála nahoře před zrcadlem a špendlila si za Anuščiny pomoci poslední stuhu na šaty, když zaslechla před domem rachot kol, drtících štěrk.
 
 Na Betsy to bylo brzo. Oknem spatřila kočár, z kterého se nahýbal černý klobouk a uši Alexeje Alexandroviče, které tak dobře znala. To je nadělení. Snad tu nezůstane přes noc? Všechno, co z toho mohlo vzejít, jí připadalo tak hrozné a děsné, že bez nejmenšího rozmýšlení jim šla s veselou, zářící tváří naproti, a v zakletí onoho známého ducha lži a klamu rázem se mu poddala a rozhovořila se, aniž sama věděla, co řekne.
@@ -56,3 +58,5 @@ Kněžna Tverská nevystoupila, jen lokaj v kamaších, pelerínce a černém 
 Karenin jí políbil ruku.
 
 „Tak na shledanou. Přijdeš na čaj, výborně!“ řekla a odešla zářící a veselá. Ale když už ho neviděla, ucítila místo na ruce, kterého se dotkly jeho rty, a zachvěla se odporem.
+
+</section>

@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 V čekárně věhlasného petrohradského advokáta bylo plno, když tam Karenin vstoupil. Tři dámy – stará paní, mladá paní a obchodnická panička – a tři páni, německý bankéř s nádherným prstenem, vousatý obchodník a nazlobený úředník v uniformovaném fraku a s řádovým křížem na krku, čekali patrně už dlouho. Dva koncipienti psali u stolu, až pera skřípala. Psací náčiní, na které si Alexej Alexandrovič tolik potrpěl, bylo velice pěkné, to mu neušlo. Jeden z koncipientů, aniž se namáhal vstát, přimhouřil oči a zlostně se k němu obrátil.
 
 „Co je libo?“
@@ -99,6 +101,10 @@ Když se vracel na místo, nenápadně chytil dalšího mola. Můj ryps[^45] bud
 
 Advokát se uctivě poklonil, propustil klienta, a jakmile osaměl, oddal se svému radostnému pocitu. Bylo mu najednou tak veselo, že proti svým zásadám slevil smlouvající paničce a přestal chytat moly, neboť definitivně usoudil, že na příští zimu si musí pořídit na nábytek nové aksamitové potahy, jako to má Sigonin.
 
-  
+</section>
+
+<section>
 
 [^45]: Bavlněná tkanina s podélnými nebo příčnými vroubky. Pozn. red.
+
+</section>

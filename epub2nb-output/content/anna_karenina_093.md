@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 Po všech pokojích ve vile chodili domovníci, zahradníci a lokajové a odnášeli zavazadla. Skříně a prádelníky byly dokořán. Dvakrát se běželo k hokynáři pro motouz. Po zemi se válel novinový papír. Dva kufry, vaky a svázané plédy byly odneseny dolů do předsíně. Kočár a dvě drožky stály před domem. Anna, jež při práci se zavazadly pozapomněla na svůj vnitřní neklid, stála u stolu v budoáru a skládala věci do cestovní kabely, když ji Anuška upozornila na rachot přijíždějícího kočáru. Anna vyhlédla oknem a spatřila kurýra Alexeje Alexandroviče. Zvonil u hlavních dveří.
 
 „Jdi se zeptat, co je,“ řekla a klidně, připravena na všecko, usedla s rukama v klíně do křesla. Lokaj přinesl objemnou obálku, nadepsanou rukou Alexeje Alexandroviče.
@@ -40,3 +42,5 @@ Zaslechla lokajovy kroky. Rychle se vzchopila a schovávajíc obličej předst�
 „Ne, nechte věci do zítřka sbalené, a kočár ať počká. Pojedu k paní kněžně.“
 
 „A jaké šaty mám připravit?“
+
+</section>

@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Koncem zimy bylo u Ščerbackých svoláno konzilium, které mělo rozhodnout, jaký je Kittin zdravotní stav a co podniknout, aby se jí navrátily ochabující síly. Byla nemocná a s blížícím se jarem se její zdraví horšilo. Domácí lékař jí předpisoval rybí tuk, potom železo, pak lápis, ale nic z toho nepomáhalo, lékař radil, aby s ní na jaře jeli do ciziny, a tak byl přizván slavný doktor. Slavný doktor, ještě dost mladý, velice hezký muž, žádal, aby směl pacientku prohlédnout. Zdálo se, že s obzvláštním požitkem dokazuje, že dívčí stydlivost je pouhý pozůstatek primitivismu a že není nic přirozenějšího, než aby poměrně mladý muž ohmatával obnažené mladé děvče. Považoval to za přirozené, neboť tak činil denně a nic při tom necítil ani nemyslil – tak se domníval – na nic špatného, a pokládal tudíž dívčí ostych nejen za pozůstatek primitivismu, ale přímo za osobní urážku.
 
 Nezbylo než se podrobit, neboť všichni lékaři sice studovali na jedné škole, ze stejných knih, sice ovládali stejnou vědu, sice někteří lidé říkali, že ten slavný doktor je špatný doktor, ale přesto v domě paní kněžny a v jejím okolí se jaksi uznávalo, že tento slavný doktor jediný zná cosi zvláštního a že jen on může Kitty zachránit. Slavný doktor důkladně prohlédl a proklepal pacientku, zmatenou a oněmělou studem, pečlivě si umyl ruce a potom stál v salóně a rozmlouval s knížetem. Kníže se jenom mračil a pokašlával, když doktora poslouchal. Jako zkušený, nijak hloupý a zdravý člověk nevěřil v medicínu a v duchu měl zlost na celou tu komedii tím spíš, že snad on jediný plně chápal příčinu Kittiny nemoci. Ty toho nažvaníš, myslil si, jak tak poslouchal doktorovy tlachy o příznacích dceřiny choroby. Doktor se přitom stěží přemáhal, aby starému velmoži nedal najevo své opovržení, a stěží se snižoval k úrovni jeho chápavosti. Chápal, že se starým je škoda ztrácet slova, že hlavou domácnosti je matka. A před ní hodlal rozhodit své perly. V té chvíli vstoupila kněžna do salónu s domácím lékařem. Kníže poodešel a jen se snažil neprozradit, jak je mu celá ta komedie k smíchu. Kněžna byla zmatena a nevěděla, kudy kam. Cítila se před Kitty vinna.
@@ -70,3 +72,5 @@ A doktor podal kněžně, jakožto vzácně moudré ženě, vědecký rozklad o
 Po doktorově odchodu to vypadalo, jako by se událo něco veselého. Matka byla veselejší, i Kitty se tvářila, že má lepší náladu. Musela se teď často, skoro pořád přetvařovat.
 
 „Mně opravdu nic není, mamá. Ale když chcete jet, pojedeme!“ řekla, a aby ukázala, že se o nadcházející cestu zajímá, rozhovořila se o přípravách k odjezdu.
+
+</section>

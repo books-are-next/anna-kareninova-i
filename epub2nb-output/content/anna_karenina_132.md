@@ -3,6 +3,8 @@ title: XXII
 contentType: prose
 ---
 
+<section>
+
 Oblonskij vešel do pracovny Alexeje Alexandroviče. Ve tváři měl poněkud slavnostní výraz, s jakým obvykle usedal na předsednické místo ve svém úřadě. Karenin chodil s rukama za zády po pokoji a přemýšlel o téže věci, o které mluvil Stěpan Arkaďjič s jeho ženou.
 
 „Nevyrušuji?“ Stěpan Arkaďjič najednou pociťoval před švagrem nezvyklé rozpaky. Aby je zakryl, vytáhl čerstvě koupené pouzdro s moderním uzávěrem, přičichl si ke kůži a vyndal si cigaretu.
@@ -78,3 +80,5 @@ Alexej Alexandrovič chtěl cosi odpovědět, ale pro slzy nemohl.
 „Je to osudové neštěstí a musíme se s ním smířit. Chápu toto neštěstí jako hotový fakt a snažím se pomoci jí i tobě,“ řekl Stěpan Arkaďjič.
 
 Když opustil švagrův pokoj, byl pohnut, ale to mu nebránilo, aby byl spokojen, že se tak zdařile zhostil své úlohy, neboť byl přesvědčen, že Alexej Alexandrovič svá slova neodvolá. K té spokojenosti se družil i nápad, že až bude po všem, bude ženě a blízkým známým dávat hádanku: „Jaký je rozdíl mezi mnou a panovníkem? Panovník dělá odvody a já dělám rozvody. U odvodu jsou lidé nešťastní, a u rozvodu… Nebo: v čem jsme si podobní, já a panovník? Když… Ačkoli, vymyslím si ještě něco lepšího,“ řekl si Stěpan Arkaďjič s úsměvem.
+
+</section>

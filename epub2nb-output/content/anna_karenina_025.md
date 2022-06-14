@@ -3,6 +3,8 @@ title: XIX
 contentType: prose
 ---
 
+<section>
+
 Když Anna vešla do pokoje, seděla Dolly v malém salóně s baculatým světlovlasým hošíkem, už nyní podobným otci, a zkoušela ho z francouzské úlohy. Chlapec odříkával úlohu a přitom kroutil knoflíkem na kabátku, který už jen taktak držel, a mermomocí jej chtěl utrhnout. Matka mu několikrát odtáhla ruku, ale baculatá ručka chytala knoflík zas a zas. Matka knoflík utrhla a schovala do kapsy.
 
 „Drž ty ruce klidně, Gríšo,“ pravila a znova se chopila pokrývky, své dávné práce, ke které se uchylovala vždy v trudných chvílích. Nervózně háčkovala, nahazovala a počítala oka. Ačkoli včera muži vzkázala, že jí není nic po tom, zda jeho sestra přijede, či nikoli, připravila vše k jejímu příjezdu a rozechvěle švagrovou očekávala.
@@ -108,3 +110,5 @@ Anna si nevěděla rady, ale každé slovo švagrové, každé hnutí v obliče
 „Nevím, těžko říct… Ne, není to tak těžké,“ pravila Anna po chvilce přemýšlení. V duchu si představila celou situaci, a když ji zvážila na jemných vážkách, dodala: „Ne, není to těžko posoudit. Ano, já bych odpustila. Nebyla bych už, jako jsem bývala, jistě, ale odpustila bych. A odpustila bych tak, jako by se nic, vůbec nic nebylo stalo.“
 
 „Inu ovšem,“ horlivěji vpadla Dolly do řeči, protože Anna jí mluvila z duše, „jinak by to nebylo odpuštění. Když odpustit, tedy všecko, úplně. Tak půjdeme, dovedu tě do tvého pokoje.“ Vstala, a jak šly, objala Annu. „Milá moje, jsem tak ráda, že jsi přijela. Ulevilo se mi, nesmírně se mi ulevilo.“
+
+</section>

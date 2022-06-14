@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 Sluky obvykle táhly opodál nad řekou v nízkém osikovém lese. Když tam dojeli, Levin vystoupil a zavedl Oblonského do cípu mechovité, bahnité paseky, z které už sešel sníh. Sám se vrátil na druhý konec k dvěma srostlým břízám, opřel pušku o vidlici suché dolní větve, svlékl si kabát a vyzkoušel si, zda může volně pohybovat rukama.
 
 Šedivá stará Laska, která jim byla v patách, si ostražitě sedla proti němu a našpicovala slechy. Slunce klesalo za vysoký les a břízky, roztroušené mezi osikami, se v záři večerních červánků ostře rýsovaly svými převislými větvemi a nalitými pupenci, které se měly užuž rozpuknout.
@@ -37,7 +39,9 @@ Levin se podíval doprava, doleva a už se před ním na špinavě modré obloz
 
 Vskutku se ozvalo pronikavé pískání, rychle jedno za druhým. Dvě hravé sluky, které se honily a nekvokaly, jenom pískaly, přiletěly rovnou nad hlavy našich lovců. Ozvaly se čtyři výstřely, sluky se prudce obrátily jako vlaštovky a zmizely z dohledu.
 
-  
+</section>
+
+<section>
 
 Lov byl znamenitý. Oblonskij sestřelil ještě dva kusy a Levin dva, z nichž jeden nenašel. Už se stmívalo. Jasná stříbřitá Venuše nízko na západě už svítila a něžně se třpytila za břízkami, a vysoko na východě už blikal svými rudými světly ponurý Arcturus. Levin lovil zrakem hvězdy Velkého vozu, který měl nad hlavou, a zase je ztrácel. Sluky už nelétaly. Avšak Levin si řekl, že ještě počkají, až Venuše, viditelná pod březovou větví, vystoupí nad ni a až bude všude jasně vidět hvězdy Velkého vozu. Venuše už vystoupila nad větev, celý Velký vůz s ojem už bylo vidět na temně modré obloze, ale Levin pořád ještě čekal.
 
@@ -66,3 +70,5 @@ Ale v tom okamžení najednou oba zaslechli pronikavý hvizd, který je zrovna 
 „Výborně! Ta bude společná!“ zvolal Levin a běžel s Laskou do houští hledat sluku. Ach ano, copak to bylo za nepříjemnou věc? Už ví, Kitty stůně… Jakáž pomoc, je mu jí líto…
 
 „Á našla jsi! Hodná,“ řekl, vzal Lasce z huby teplou sluku a uložil ji do brašny, skoro plné. „Mám, Stivo!“ zavolal.
+
+</section>

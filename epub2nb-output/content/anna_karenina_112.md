@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 Doma Vronskij našel psaníčko od Anny. Psala: „Stůňu a jsem nešťastná. Nemohu z domu, ale také už nemohu vydržet bez Vás. Přijďte večer. Alexej Alexandrovič jede v sedm hodin na schůzi a bude pryč až do desíti.“ Vronskij se maličko zamyslil, jak je divné, že ho zve přímo k sobě přes manželův zákaz, ale nakonec se rozhodl, že pojede.
 
 Vronskij byl letos v zimě povýšen na plukovníka, vystoupil z pluku a bydlil sám. Hned po snídani si lehl na pohovku a vzpomínky na nechutné výjevy, které viděl v posledních dnech, se mu v pěti minutách smíchaly a spojily se s představou Anny a nadháněče, který hrál významnou úlohu při lovu na medvědy. Vronskij usnul. Když se vzbudil, byla už tma, třásl se strachem a honem rozsvítil svíci. Co jen to bylo? Co se mu to hrozného zdálo? Ano, ten nadháněč, malý, špinavý a s rozježeným vousem, skloněn cosi dělal a najednou vychrlil francouzsky nějaká divná slova. Ano, nic jiného v tom snu nebylo, řekl si Vronskij. Ale proč to bylo tak děsivé? Živě si vybavil nadháněče i nepochopitelná francouzská slova, která ten muž pronášel, a po zádech mu přeběhl mráz.
@@ -24,3 +26,5 @@ Už v předsíni zaslechl její kroky, jak se vzdalují. Pochopil, že na něho
 „Co? Čekám, trápím se, hodinu, dvě hodiny… Ne, nebudu! Nemohu se s tebou hádat. Jistě jsi nemohl přijít. Ne, už nebudu!“
 
 Položila mu obě ruce na ramena a dlouho se na něho dívala hlubokým, nadšeným a zároveň zpytavým pohledem. Zkoumala, zda se jeho tvář změnila za tu dobu, co ho neviděla. Jako při každém shledání si slučovala svou vysněnou představu o něm (daleko lepší, ve skutečnosti nemožnou) s tím, jaký byl doopravdy.
+
+</section>

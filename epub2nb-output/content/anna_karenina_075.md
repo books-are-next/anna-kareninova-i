@@ -3,6 +3,8 @@ title: XXXIV
 contentType: prose
 ---
 
+<section>
+
 Kníže Ščerbackij nedokončil léčebnou kúru, jel z Karlových Varů do Badenu a Kissingenu za známými Rusy, aby se – jak říkal – nalokal ruského ovzduší, a pak už se vrátil k rodině.
 
 Manželé měli na život v cizině názory zcela protichůdné. Kněžna považovala všecko za skvělé a přes své význačné postavení v ruské společnosti dělala ze sebe v cizině evropskou dámu, kterou nebyla, neboť byla ruská paní každým coulem, a tak hrála, což jí bylo trošku trapné. Kníže naopak považoval v cizině všecko za špatné, evropský způsob života nesl nelibě, přidržoval se svých ruských zvyků a schválně se hleděl projevovat v cizině jako Evropan ještě méně, než jím byl ve skutečnosti.
@@ -135,6 +137,10 @@ Kníže pokročil blíž. A Kitty rázem zahlédla v jeho očích posměšné 
 
 Kitty se odmlčela, ale nebylo to proto, že by neměla co říci; nechtěla však ani otci vyjevit své tajné myšlenky. Ale podivná věc, přestože byla tak odhodlána nepodrobit se otcovu názoru, nepovolit mu přístup do své svatyně, cítila náhle, že božská podoba madame Stahlové, kterou celý měsíc nosila v srdci, nenávratně zmizela, jako mizí figura, složená z pohozených šatů, sotvaže pochopíme, jak ty šaty leží. Zbyla jen žena s krátkýma nohama, která leží, protože má nemožnou postavu, a šikanuje trpělivou Váreňku za to, že ji špatně přikrývá plédem. A žádné úsilí fantazie už nemohlo vzkřísit dřívější madame Stahlovou.
 
-  
+</section>
+
+<section>
 
 [^35]: Zajisté. _(franc.)_
+
+</section>

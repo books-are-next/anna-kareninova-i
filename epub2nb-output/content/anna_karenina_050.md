@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 Anna šla s hlavou sklopenou a hrála si se střapci na kápi. Tvář měla ozářenou ostrým jasem, ale nebyl to jas veselý, spíše připomínal hrozivou zář požáru za temné noci. Jakmile spatřila muže, vztyčila hlavu a usmála se jako v polosnu.
 
 „Ty ještě neležíš? Světe, div se!“ řekla. Shodila kápi, ale ani se nezastavila a šla dál do budoáru. „Už je pozdě, Alexeji Alexandroviči,“ ozvala se za dveřmi.
@@ -66,3 +68,5 @@ Alexej Alexandrovič vzdychl, neřekl už ani slovo a odebral se do ložnice.
 Když vešla do ložnice, už ležel. Měl pevně sevřené rty a nedíval se na ni. Anna ulehla na své lůžko a každou chvíli čekala, že se s ní dá ještě jednou do řeči. Bála se toho a zároveň si to přála. Ale muž mlčel. Dlouho čekala bez hnutí, až na něho vůbec zapomněla. Myslila na jiného, viděla ho před sebou a cítila, jak jí srdce při té myšlence překypuje vzrušením a hříšnou radostí. Vtom uslyšela pravidelné, klidné hvízdání nosem. Alexej Alexandrovič se v první chvíli asi polekal toho hvízdotu a zarazil se. Ale po dvojím vydechnutí se hvízdání ozvalo znova, klidně a pravidelně.
 
 „Pozdě, už je pozdě,“ zašeptala s úsměvem. Dlouho ležela nehybně, s otevřenýma očima, a zdálo se jí, že sama vidí ve tmě jejich lesk.
+
+</section>

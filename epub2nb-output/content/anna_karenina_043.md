@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 Hned po doktorovi přišla Dolly. Věděla, že toho dne má být konzilium, a třebaže nedávno vstala po porodu (koncem zimy porodila děvčátko), třebaže měla dost svého trápení a starostí, nechala doma nemluvně a onemocnělou holčičku a jela se poptat, jak se rozhodl Kittin osud.
 
 „Tak co?“ zeptala se vstupujíc do salónu, ani neodložila klobouk. „Máte všichni dobrou náladu. Tak to asi bude dobré?“
@@ -71,6 +73,10 @@ Kněžnu příliš děsilo pomyšlení, do jaké míry je před dcerou vinna, a�
 
 „Jen jdi. Copak ti bráním?“ řekla kněžna.
 
-  
+</section>
+
+<section>
 
 [^19]: Drdol. Pozn. red.
+
+</section>

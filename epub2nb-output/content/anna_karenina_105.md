@@ -3,6 +3,8 @@ title: XXVIII
 contentType: prose
 ---
 
+<section>
+
 Levin se toho večera s dámami nemožně nudil. Ještě nikdy ho tak nerozčilovala myšlenka, že jeho nynější nespokojenost s hospodářstvím není výlučně jeho stav, ale že je to stejné v celém Rusku, že úprava vztahu k dělníkům, kteří by pracovali jako u toho sedláka v půli cesty sem, není pouhé blouznění, nýbrž úkol, který musí být vyřešen. A zdálo se mu, že ten úkol lze vyřešit a že se o to musí pokusit.
 
 Levin se dámám odporoučel a přislíbil, že zítra ještě zůstane celý den a vyjede si s nimi na koni do státního lesa, kde se podívají na zajímavou proláklinu. Před spaním si ještě šel do pracovny pána domu vypůjčit knihy o dělnické otázce, které mu Svijažskij nabízel. Pracovna Svijažského byl obrovský pokoj, jehož zařízení tvořila knihovna kolem zdí a dva stoly – masivní psací stůl uprostřed pokoje a kulatý stolek s posledními čísly zahraničních novin a časopisů, hvězdicovitě rozložených kolem lampy. U psacího stolu stála steláž se zásuvkami pro rozličné spisy a zásuvky byly označeny zlacenými štítky.
@@ -66,3 +68,5 @@ Levin osaměl ve vykázaném pokoji. Ležel na pérové žíněnce, na které se
 Ano, měl mu říci: „Tvrdíte, že naše hospodářství neprospívá proto, že sedlák nenávidí jakákoli zlepšení, a že je máme zavádět mocí. Ale kdyby se bez těchto zlepšení vůbec nedalo hospodařit, měl byste pravdu. Jenže to jde, a to jen tam, kde dělník pracuje ve shodě se svými zvyky, jako u toho pantáty, co bydlí při cestě sem. Vaše i naše všeobecná nespokojenost svědčí o tom, že za to můžeme my anebo dělníci. Už dávno si fachčíme podle svého, po evropsku, aniž se ptáme po vlastnostech pracovní síly. Zkusme vidět v pracovní síle nikoli ideální pracovní _sílu, ale ruského rolníka_ s jeho pudy, a zařiďme si hospodářství podle toho. Představte si,“ měl mu Levin říci, „že hospodaříte jako ten starý sedlák, že jste našel způsob, jak zainteresovat dělníky na pracovním úspěchu, a našel jste i střední cestu v pokročilých metodách, kterou uznávají – a pak půdu nevymrskáte, ale přitom sklidíte dvakrát třikrát tolik co dřív. Rozdělte půdu napolovic a polovičku dejte pracovní síle. Rozdíl, který vám zbyde, bude větší, a také na pracovní sílu připadne víc. A aby se to mohlo udělat, musíme snížit úroveň hospodářství a zainteresovat dělníky na jeho úspěchu. Jak to provést, to už jsou detaily, ale je to nepochybně možné.“
 
 Tato myšlenka Levina mocně vzrušila. Až do půlnoci nespal, dopodrobna promýšlel, jak myšlenku uskutečnit. Nehodlal původně odjet už druhý den, ale teď se rozhodl, že časně ráno pojede domů. Kromě toho v něm ta švagrová s výstřihem budila pocit blízký lítosti a studu, jako by byl spáchal špatný čin. Ale především musel bez meškání odjet. Musel zavčas předložit rolníkům nový návrh, než budou zasety ozimy, aby se pak silo už na nových základech. Umínil se, že předělá celé dosavadní hospodářství.
+
+</section>

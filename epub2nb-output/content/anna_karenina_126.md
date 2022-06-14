@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 Kněžna seděla v křesle mlčky a usmívala se. Kníže usedl vedle ní. Kitty stála u jeho křesla a pořád ho držela za ruku. Všichni mlčeli.
 
 Kněžna první označila všecko pravým jménem a převedla všechny myšlenky a city na otázky praktické. A všem se to v první chvíli zdálo stejně divné, skoro bolestné.
@@ -76,3 +78,5 @@ Sklopil hlavu a mlčel. Nevěděl, co říci.
 „Ne, odpustila jsem, ale je to hrozné!“
 
 Avšak jeho štěstí bylo tak velké, že přiznání je nezkalilo, jen mu dodalo nového odstínu. Odpustila mu; ale od té doby se tím spíš domníval, že jí není hoden, skláněl se před ní mravně ještě hlouběji a ještě více si vážil svého nezaslouženého štěstí.
+
+</section>

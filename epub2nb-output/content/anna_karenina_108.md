@@ -3,6 +3,8 @@ title: XXXI
 contentType: prose
 ---
 
+<section>
+
 Levin seběhl do půli schodiště, když uslyšel z předsíně známé pokašlávání. Ale slyšel je při zvuku vlastních kroků jen nejasně a doufal, že se zmýlil. Potom spatřil i celou vytáhlou, vyzáblou známou postavu a to už si snad neměl nic nalhávat, ale pořád ještě doufal, že se mýlí a že ten dlouhán, který si svléká zimník a odkašlává si, není jeho bratr Nikolaj.
 
 Levin měl bratra rád, ale být s ním pohromadě bylo vždy utrpení. A dnes, kdy Levin při své náhlé myšlence i po Agafjině narážce propadl duševnímu zmatku, jevilo se mu shledání zvlášť tíživým. Místo hosta veselého, zdravého, místo cizího člověka, který by ho (jak doufal) v jeho duševním zmatku rozptýlil, se má setkat s bratrem, který mu vidí do duše, který v něm vyvolá nejdůvěrnější myšlenky a přiměje ho k úplné zpovědi. A to si Levin nepřál.
@@ -58,3 +60,5 @@ Ale přece dosud žije! Co teď? Co teď, říkal si zoufale. Zapálil svíci, o
 Levin sáhl na košili, odešel za přepážku, zhasl svíci, ale ještě dlouho nespal. Sotva si trochu ujasnil otázku, jak má žít, a už před ním vyvstala nová neřešitelná otázka – smrt.
 
 Vždyť bratr umírá, vždyť do jara umře, jak mu pomoci? Co by mu mohl říci? Co o tom ví? Vždyť zapomněl, že něco takového vůbec existuje.
+
+</section>

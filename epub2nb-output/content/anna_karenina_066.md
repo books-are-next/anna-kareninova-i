@@ -3,6 +3,8 @@ title: XXV
 contentType: prose
 ---
 
+<section>
+
 Celkem jelo závod sedmnáct důstojníků. Závod se měl konat na velké, čtyřverstové eliptické dráze před tribunou. Na dráze bylo devět překážek. Řeka, pak dva lokty vysoká uzavřená překážka zrovna před tribunou, suchý příkop, příkop naplněný vodou, svah, irský banket (jedna z nejobtížnějších překážek) – násep se zastrkaným roštím, za kterým byl další příkop, jejž kůň neviděl předem, takže musel přeskočit obě překážky, nebo se zabít –; potom následovaly ještě dva příkopy s vodou a jeden suchý; cíl byl proti tribuně. Ale závod nezačínal na dráze, nýbrž sto sáhů za ní a na tomto prostranství byla první překážka, přehrazená řeka tři lokte široká, kterou mohli jezdci dle vlastní vůle přeskočit nebo přebrodit.
 
 Jezdci se asi třikrát vyřizovali, ale pokaždé vyběhl některý kůň z řady, takže se museli řadit znova. Znalec startu plukovník Sestrin se už začínal zlobit, až konečně počtvrté zvolal „Teď!“ a jezdci vyrazili.
@@ -42,3 +44,5 @@ Vronskij jel v čele, jak měl v úmyslu a jak mu radil Curd, a teď už si 
 Už k němu všecko běželo, lékař a pomocník, i důstojníci od pluku. K svému neštěstí Vronskij cítil, že vyvázl bez pohromy. Kůň si zlomil páteř a bylo rozhodnuto, aby byl zastřelen. Vronskij nebyl s to odpovídat na otázky, nemohl s nikým mluvit. Otočil se, ani si nezvedl čepici, která mu sletěla z hlavy, a šel pryč ze závodiště, kam ho oči vedly. Byl nešťasten. Poprvé v životě poznal největší neštěstí, neštěstí nenapravitelné a způsobené vlastní vinou…
 
 Jašvin ho dohonil, přinesl mu čepici, doprovodil ho domů a za půl hodiny se Vronskij vzpamatoval. Ale vzpomínka na dostihy pro něho nadlouho zůstala nejtíživější a nejbolestnější vzpomínkou v životě.
+
+</section>

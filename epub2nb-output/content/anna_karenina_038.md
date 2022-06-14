@@ -3,6 +3,8 @@ title: XXXII
 contentType: prose
 ---
 
+<section>
+
 První, kdo Annu doma přivítal, byl syn. Hnal se k ní po schodech, nedbaje volání vychovatelky, a s bláznivým nadšením křičel: „Mami, mami!“ Přiběhl k ní a pověsil se jí kolem krku.
 
 „Já jsem říkal, že je to maminka!“ volal na vychovatelku. „Já jsem to věděl!“
@@ -40,3 +42,5 @@ Po hraběnce Lydii Ivanovně se dostavila přítelkyně, choť ředitele, a vyp
 Pocit bezdůvodného studu, který zakoušela cestou, i rozčilení zcela zmizelo. V obvyklých životních podmínkách se opět cítila pevná a bezúhonná.
 
 S údivem si vzpomněla, v jaké byla včera náladě. Co se vlastně stalo? Nic. Vronskij řekl hloupost, které lze snadno učinit přítrž, a ona mu odpověděla jak náleží. Říkat o tom muži nemůže ani nesmí. Mluvit o tom by znamenalo přikládat význam něčemu, co význam nemá. Vzpomněla si, jak se mu jednou svěřila, že mladý podřízený jejího muže v Petrohradě jí bezmála učinil vyznání, a jak Alexej Alexandrovič odpověděl, že každá žena pohybující se ve společnosti je tomu vystavena, že však pevně důvěřuje v její takt a nikdy by si nedovolil snížit ji ani sebe k žárlivosti. Proč tedy by mu něco říkala? A bohudík by ani neměla o čem mluvit.
+
+</section>

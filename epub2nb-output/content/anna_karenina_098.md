@@ -3,6 +3,8 @@ title: XXI
 contentType: prose
 ---
 
+<section>
+
 „Jdu pro tebe. Dnes ti to prádlo trvalo nějak dlouho,“ řekl Petrickij. „Tak co, hotovo?“
 
 „Ano, hotovo,“ odpověděl Vronskij, usmívaje se jen očima, a kroutil si konečky kníru tak opatrně, jako by byl uvedl své záležitosti do takového pořádku, že by jej každý smělejší a rychlejší pohyb mohl zničit.
@@ -139,6 +141,10 @@ Vronskij otevřel dopis a zrudl.
 
 „Pak si pohovoříme, vyhledám tě v Petrohradě.“
 
-  
+</section>
+
+<section>
 
 [^42]: Břímě. _(franc.)_
+
+</section>

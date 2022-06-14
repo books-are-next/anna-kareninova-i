@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 V navázané rozmluvě o právech žen se naskýtaly otázky nerovnoprávnosti v manželství, otázky v přítomnosti dam choulostivé. Pescov na ně při obědě několikrát narazil, ale Koznyšov a Oblonskij obezřetně zaváděli řeč jinam.
 
 Když potom vstali od stolu a dámy odešly, Pescov je nenásledoval, ale obrátil se ke Kareninovi a začal vykládat o hlavní příčině nerovnosti. Podle jeho názoru záležela nerovnost v tom, že nevěra ženina a nevěra mužova jsou nestejně trestány jak podle zákona, tak ve veřejném mínění.
@@ -96,3 +98,5 @@ Alexej Alexandrovič poslouchal, avšak její slova už neúčinkovala. Opět vz
 Alexej Alexandrovič se pohrdavě ušklíbl. To znal už dávno, ale nedalo se to uplatnit v jeho případě.
 
 „Milujte, kdož vás nenávidí, ale milovat toho, koho nenávidíme, není možné. Odpusťte, že jsem vám zkazil náladu. Každý má svého dost!“ A už se Alexej Alexandrovič dokonale ovládl, klidně se rozloučil a odjel.
+
+</section>

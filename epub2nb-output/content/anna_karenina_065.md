@@ -3,6 +3,8 @@ title: XXIV
 contentType: prose
 ---
 
+<section>
+
 Když se Vronskij díval na balkóně u Kareninových na hodinky, byl tak znepokojen a zabrán do svých myšlenek, že sice viděl ručičky na ciferníku, ale nepochopil, kolik je vlastně hodin. Vyšel na silnici a opatrně se prodíral blátem ke své kolesce. Tolik překypoval citem k Anně, že ani nepomyslil, kolik je hodin a zda mu ještě zbývá čas na Brjanského. Jak se často stává, zůstala mu jen vnější schopnost něco si pamatovat, ukazující, co a v jakém pořadí má udělat. Šel ke kočímu, který klímal na kozlíku pod hustou lípou ve stínu, už dlouhém, se zájmem se díval na duhová mračna mušek, vířících nad statnými koňmi, až nakonec vzbudil kočího, naskočil do kolesky a dal se vézt k Brjanskému. Sotvaže ujeli nějakých sedm verst, vzpamatoval se natolik, že pohlédl na hodinky a uvědomil si, že je půl šesté a že zmeškal.
 
 Toho dne bylo několik závodů: dostihy tělesné stráže, pak důstojnický závod na dvě versty, na čtyři versty a závod, který měl jet Vronskij. Svůj závod ještě mohl stihnout, ale kdyby jel k Brjanskému, přijede v poslední chvíli, když už bude přítomen celý dvůr. To bylo zlé. Avšak slíbil Brjanskému, že k němu přijede, a proto se rozhodl jet dál. Kočímu nařídil, aby koně nešetřil.
@@ -83,8 +85,12 @@ Než se kůň vůbec hnul, stoupl si Vronskij mrštným, prudkým pohybem do zou
 
 Už se blížili k hrázi a mířili ke startu. Mnoho závodníků bylo napřed, mnoho vzadu, když vtom Vronskij uslyšel, jak za ním někdo cválá blátem, a už ho předjel Machotin na svém ušatém Gladiátorovi s bílýma nohama. Machotin vycenil v úsměvu bílé zuby, ale Vronskij po něm zlostně loupl očima. Nikdy ho neměl příliš rád, ale teď ho považoval za nejnebezpečnějšího soupeře a mrzelo ho, že Machotin ho předjel a zbytečně mu rozohnil koně. Frou-Frou vymrštila levou nohu ke cvalu, udělala dva skoky a podrážděna napjatými otěžemi přešla do trhaného klusu, až se jezdec natřásal v sedle. I Curd se zamračil a takřka poskokem běžel za Vronským.
 
-  
+</section>
+
+<section>
 
 [^27]: Mnoho štěstí. _(franc.)_
 
 [^28]: Zadek koně. Pozn. red.
+
+</section>

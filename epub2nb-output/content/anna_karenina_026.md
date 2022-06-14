@@ -3,6 +3,8 @@ title: XX
 contentType: prose
 ---
 
+<section>
+
 Anna strávila celý den doma, to jest u Oblonských, a nikoho nepřijímala, ačkoli už se někteří ze známých dověděli o jejím příjezdu a přišli za ní ještě týž den. Anna strávila celé dopoledne s Dolly a s dětmi. Jenom poslala psaníčko bratrovi, aby docela jistě přišel k obědu domů. „Přijď, doufejme v milosrdenství boží,“ psala mu.
 
 Oblonskij obědval doma. Všichni hovořili a žena mu tykala, což předtím nebylo. Mezi manželi zůstala stejná cizota, ale o rozchodu už nepadlo ani slovo, takže Stěpan Arkaďjič viděl, že by se mohli domluvit a smířit se.
@@ -78,3 +80,5 @@ Ale o těch dvou stech se nezmínila. Ta vzpomínka jí byla nějak nepříjemn
 „Ne, nejdřív já! Ne, já!“ volaly děti. Běžely po svačině zase k tetě Anně.
 
 „Všichni najednou!“ řekla Anna, se smíchem jim běžela naproti a objala a povalila na zem celou hromádku dětí, které tu rejdily a vřískaly nadšením.
+
+</section>

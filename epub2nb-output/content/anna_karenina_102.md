@@ -3,6 +3,8 @@ title: XXV
 contentType: prose
 ---
 
+<section>
+
 Do surovského okresu nevedla dráha ani tam nejezdila pošta a Levin jel vlastním povozem.
 
 V půli cesty se zastavil u bohatého sedláka, kde chtěl opatřit koně. Svěží lysý staroch s širokým ryšavým vousem, na tvářích šedivým, otevřel vrata a přitiskl se k veřeji, aby trojspřeží mohlo projet. Vykázal kočímu místo pod kolnou na velkém, čistém, umeteném dvoře se začouzenými trámy a Levina pozval do parádní světnice. Čistě oblečená mladice v galoších naboso vytírala podlahu v nové síňce. Polekala se psa, který vběhl za Levinem, že až vykřikla, ale hned se zasmála svému leknutí, jakmile se dověděla, že pes jí nic neudělá. Rukou ve vykasaném rukávě ukázala Levinovi na dveře do světnice, znova se shýbla, takže schovala hezký obličej, a dál drhla podlahu.
@@ -50,3 +52,5 @@ Při čaji se Levin dověděl celou historii staříkova hospodářství. Starý
 Když šel Levin do kuchyně pro kočího, uviděl tam všecky mužské členy rodiny u stolu. Ženské je obsluhovaly vstoje. Mladý, statný hospodářův syn s ústy plnými kaše vyprávěl něco k smíchu a všichni se hlasitě smáli a zvlášť vesele hospodyňka v galoších, která mu přilévala polévku.
 
 Dost možná, že příjemná tvář hospodyňky v galoších značně posílila dojem spořádanosti, kterým na Levina statek zapůsobil, ale byl to dojem tak silný, že se ho nemohl zbavit. A celou cestu od starého sedláka až k Svijažskému co chvíli vzpomínal na to hospodářství, jako by v tom dojmu bylo něco, co zasluhovalo zvláštní pozornosti.
+
+</section>

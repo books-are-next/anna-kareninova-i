@@ -3,6 +3,8 @@ title: XXIII
 contentType: prose
 ---
 
+<section>
+
 Rána Vronského byla nebezpečná, třebaže nezasáhla srdce. Několik dní byl mezi životem a smrtí. Když mohl poprvé promluvit, seděla u něho v pokoji jen bratrova žena Varja.
 
 „Varjo!“ řekl a přísně se na ni podíval. „Postřelil jsem se náhodou. A prosím tě, nikdy o tom nemluv a takhle to všem řekni. Nebo by to vypadalo příliš hloupě!“
@@ -72,3 +74,5 @@ Vronskij nechápal, jak může v této chvíli shledání myslit a vzpomínat 
 Vzdát se lichotivého i nebezpečného poslání v Taškentu podle dřívějších představ Vronského bylo hanebné a nemožné. Ale teď bez rozmýšlení odmítl, a když zpozoroval, že nadřízení jeho čin neschvalují, ihned odešel do výslužby.
 
 Za měsíc zůstal Karenin v bytě sám se synem, kdežto Anna odjela s Vronským do ciziny, aniž vyčkala rozvodu, naopak jej rozhodně odmítla.
+
+</section>

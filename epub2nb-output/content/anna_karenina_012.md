@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Když se Oblonskij Levina zeptal, proč vlastně přijel, Levin se začervenal a měl za to na sebe zlost, protože mu nemohl odpovědět „chci učinit tvé švagrové nabídku k sňatku“, ač přijel jen a jen proto.
 
 Rodina Levinova a Ščerbackých byly starobylé moskevské šlechtické rodiny a vždy je pojily blízké přátelské vztahy. Tento svazek se ještě utužil za Levinových studentských let. Levin se společně připravoval a společně vstoupil na univerzitu s mladým knížetem Ščerbackým, bratrem Dolliným a Kittiným. V té době často navštěvoval Ščerbacké a zamiloval se do jejich domácnosti. Snad se to zdá podivné, ale Konstantin Levin byl zamilován do domácnosti Ščerbackých, ano, do domácnosti, do rodiny, zejména do její ženské polovičky. Levin nepamatoval matku a jeho jediná sestra byla starší než on, takže u Ščerbackých poprvé poznal ovzduší staré šlechtické, vzdělané, dobré rodiny, ovzduší, o které byl ošizen otcovým a matčiným úmrtím. Obestíral si všechny členy té rodiny, zejména její ženskou polovičku, jakousi tajemnou poetickou rouškou, neviděl na nich nejmenší chybičku, ba tušil pod tím poetickým hávem nejušlechtilejší city a všemožné přednosti. Proč ty tři slečny musely mluvit obden francouzsky a zase anglicky; proč se v určitou hodinu střídaly ve hře na piano, jehož zvuky bylo slyšet k bratrovi nahoru, kde se učili studenti; proč sem chodili všichni ti učitelé francouzské literatury, hudby, kreslení, tance; proč všechny tři slečny v doprovodu m-lle Linon přijížděly v určitou hodinu kočárem k Tverskému bulváru, všechny v atlasových kabátcích, Dolly v dlouhém, Natali v polodlouhém a Kitty v docela krátkém, takže jí bylo úplně vidět pěkně rostlé nožky v napnutých červených punčoškách; proč musely v doprovodu lokaje se zlatou kokardou na klobouku chodit po Tverském bulváru – tomu všemu i mnohému jinému, co se dělo v jejich tajemném světě, nerozuměl, ale věděl, že vše, co se tam děje, je skvělé, a byl zamilován právě do tajemnosti celého dění.
@@ -20,3 +22,5 @@ Tajemná sličná Kitty nemohla mít ráda tak nehezkého člověka, za jakého 
 Slýchával, že ženy často mívají rády nehezké, obyčejné muže, ale nevěřil, poněvadž soudil podle sebe, neboť mohl mít rád jen krásné, tajemné a výjimečné ženy.
 
 Avšak po dvouměsíčním samotářském pobytu na venkově nabyl jistoty, že to není chvilkové okouzlení, jaké leckdy prožíval v raném mládí; že mu ten cit nedá pokoje; že nemůže žít, dokud si nerozřeší otázku, zda bude, či nebude jeho ženou; a že jeho zoufalství je pouhým výplodem fantazie, protože nikde není psáno, že bude odmítnut. Přijel nyní do Moskvy s pevným úmyslem nabídnout Kitty ruku a oženit se, bude-li jeho nabídka přijata. Jinak… nechtěl ani domyslit, co s ním bude, jestliže bude odmrštěn.
+
+</section>

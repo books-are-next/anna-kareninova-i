@@ -3,6 +3,8 @@ title: XXIX
 contentType: prose
 ---
 
+<section>
+
 Tak už je po všem, chválabohu! To byla první myšlenka Anny Arkaďjevny, jakmile se naposled rozloučila s bratrem, který až do třetího zvonění stál na chodbičce lidem v cestě. Posadila se vedle Anušky a rozhlédla se v pološeru lůžkového vozu. Chválabohu, zítra uvidí Serjožu a Alexeje Alexandroviče a hezký život, na který si už zvykla, poběží jako dřív.
 
 Pořád v tom nepokojném duševním stavu, v kterém byla celý den, přichystala se Anna s požitkem a důkladně na cestu; hbitýma malýma rukama odemkla a zamkla červenou kabelku, vyndala si polštářek, dala si jej na klín, pečlivě si zabalila nohy a klidně se usadila. Nemocná dáma se už chystala ke spánku. Dvě jiné dámy se s ní chtěly dát do řeči a tlustá stará paní si balila nohy a dělala poznámky o topení. Anna prohodila s dámami několik slov, avšak nic si od rozhovoru neslibovala, proto požádala Anušku, aby vyndala lampičku. Připevnila ji k opěradlu a vzala si z kabelky nůž na papír a anglický román. První chvíli nemohla číst. Nejdřív jí vadil ruch a pobíhající lidé; potom se vlak rozjel a tu bezděčně naslouchala, jak duní; potom sníh, bijící do levého okna a lepící se na tabulku, pohled na přecházejícího průvodčího, navlečeného a z jedné strany obaleného sněhem, i řeči o tom, jaká teď venku zuří vánice, to vše ji rozptylovalo. Dál už to bylo stále jedno a totéž: otřesy a nárazy kol, sníh za oknem, náhlé přechody z horka do zimy a zase do horka, míhání stále stejných tváří v pološeru a stále stejné hlasy, až se Anna dala do čtení a už vnímala, co čte. Anuška už klímala. Na klíně držela červenou kabelku širokýma rukama v rukavičkách, z nichž jednu měla roztrženou. Anna četla a vnímala, co čte, ale nebavilo ji číst, to jest sledovat odraz života jiných lidí. Sama příliš toužila po životě. Když četla, jak hrdinka románu ošetřovala nemocného, toužila chodit neslyšnými kroky po jeho pokoji; když četla, jak člen parlamentu proslovil řeč, toužila proslovit tu řeč sama; když četla, jak lady Mary jela na koni za smečkou a dráždila švagrovou a budila všeobecný obdiv svou odvahou, toužila, aby to všecko mohla dělat také. Ale dělat neměla co, a tak si tu hrála s nožíkem v malých rukou a nutila se do čtení.
@@ -15,6 +17,10 @@ Hrdina románu už se pomalu dočkal svého anglického štěstí, totiž barons
 
 A otevřela dveře. Vánice a vítr vyskočily proti ní a zápolily s ní o dveře. Až ji to rozjařilo. Otevřela dveře a vyšla ven. Vítr už na ni čekal, radostně hvízdl a chtěl ji uchopit a odnést, ale chytila se studené tyče, přidržela si šaty, vyšla na nástupiště a ustoupila za vagón. Na plošině to foukalo, ale tady byla za větrem. Stála u vozu, s rozkoší, z plných plic vdechovala sněživý, mrazivý vzduch a rozhlížela se po nástupišti a osvětleném nádraží.
 
-  
+</section>
+
+<section>
 
 [^17]: Hustá bavlněná látka v plátnové vazbě, s bílou osnovou a s barevným útkem. Pozn. red.
+
+</section>

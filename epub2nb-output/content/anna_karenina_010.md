@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Když byl Oblonskij hotov s oblékáním, postříkal se voňavkou, narovnal si rukávy košile, navyklým pohybem si nastrkal po kapsách cigarety, náprsní tašku, sirky, hodinky s dvojitým řetízkem a přívěsky, načechral si kapesník a navzdory všem pohromám s pocitem čistoty, libé vůně, zdraví i fyzického veselí se odebral trochu kolébavým krokem do jídelny, kde už na něho čekala káva a vedle ní pošta a úřední spisy.
 
 Přečetl si dopisy. Jeden byl velice nepříjemný – od obchodníka, který kupoval les z ženina statku. Les nutně museli prodat; ale teď, dokud se s ženou neudobřil, nemohlo o tom být ani řeči. Nejhorší na tom bylo, že se takto připojoval k jeho nadcházejícímu smíru s ženou zájem finanční. A pomyšlení, že by mohl být veden tímto zájmem, že kvůli prodeji lesa bude usilovat o smír s ženou – to pomyšlení ho uráželo.
@@ -62,3 +64,5 @@ Návštěvnice, štábní kapitánová Kalininová, se domáhala nějakých nemo
 Ach ano! Svěsil hlavu a v hezkém obličeji se mu objevil výraz smutku. Má jít za ní, či ne? A vnitřní hlas mu pravil, aby za ní raději nechodil, že z toho nebude nic než faleš, že se jejich vztah napravit, spravit nedá, protože ji nelze učinit opět přitažlivou, aby vzbuzovala lásku, ani jeho nelze učinit starcem, neschopným milovat. Nic než faleš a lež by teď z toho nevzešlo; a faleš a lež se příčila jeho povaze.
 
 Ale stejně to jednou musí udělat. Takhle to přece nemůže zůstat, hleděl si dodat odvahy. Vypjal prsa, vyndal si cigaretu, zapálil si, dvakrát zabafal, odhodil cigaretu do perleťového popelníku z lastury, rychle prošel ponurým salónem a otevřel další dveře, vedoucí do ženiny ložnice.
+
+</section>

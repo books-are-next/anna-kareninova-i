@@ -3,6 +3,8 @@ title: XXX
 contentType: prose
 ---
 
+<section>
+
 Jako všude, kde se shromažďují lidé, tak i v malých německých lázních, kam přijeli Ščerbackých, došlo k jisté obvyklé krystalizaci společnosti, která stanovila každému jejímu členu určité, neměnné místo. Jako částice vody určitě a neměnné nabývá v chladnu známé formy sněžného krystalu, tak i každé nové osobnosti, která přijela do lázní, byla ihned vykázána příslušná pozice.
 
 Fürst Ščerbackij samt Gemahlin und Tochter[^30] jak podle bytu, kde se usídlili, tak pro své jméno i díky známým, které tu nalezli, ihned vykrystalovali na určité, náležité pozici.
@@ -23,8 +25,12 @@ Záhy po příjezdu Ščerbackých se na ranní promenádě objevily ještě dv�
 
 Zdálo se jí, že se mu ve velkých strašlivých očích, které ji vytrvale sledovaly, zračí nenávist a posměch, a vyhýbala se mu na sto honů.
 
-  
+</section>
+
+<section>
 
 [^30]: Kníže Ščerbackij s chotí a dcerou. _(něm.)_
 
 [^31]: Seznam lázeňských hostí. _(něm.)_
+
+</section>

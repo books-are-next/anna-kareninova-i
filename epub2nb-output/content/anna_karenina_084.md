@@ -3,6 +3,8 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 Zatímco Oblonskij jel do Petrohradu, aby tam dostál zcela přirozené, nanejvýš nutné povinnosti, tak dobře známé všem úředníkům, byť nepochopitelné neúředníkům, povinnosti, bez níž nelze sloužit v úřadě – měl se totiž objevit na ministerstvu, aby se o něm pořád vědělo –, zatímco si k výkonu této povinnosti vzal z domova skoro všecky peníze a vesele a příjemně trávil čas na dostizích a na letních sídlech, přestěhovala se Dolly s dětmi na venkov, aby měli vydání co nejmenší. Odjela do své věnné vsi Jergušova, v které na jaře prodali les a která ležela padesát verst od Levinova Pokrovského.
 
 Stará hlavní budova v Jergušově byla dávno zbořena, a ještě kníže dal upravit a rozšířit poboční stavení. Před nějakými dvaceti lety, kdy byla Dolly malé děcko, byl domek prostorný a pohodlný, třebaže stál jako všechny takové domky stranou hlavní aleje a nebyl obrácen na jih. Ale dnes už byl starý a zpuchřelý. Když byl Oblonskij na jaře prodávat les, žádala ho Dolly, aby se na dům podíval a dal provést nutné opravy. Stěpan Arkaďjič se jako všichni provinilí manželé velmi staral o ženino pohodlí, a tudíž si dům sám pro­hlédl a zařídil vše, co bylo podle jeho názoru nutné. Dle jeho názoru bylo nutné potáhnout nábytek novým kretonem, pověsit záclony, upravit zahradu, postavit můstek u rybníka a vysázet květiny. Ale přitom zapomněl na spoustu jiných nezbytných věcí, bez kterých se pak Darja Alexandrovna hodně natrápila.
@@ -24,3 +26,5 @@ Hned zpočátku se srozuměla s šafářkou a už první den popíjela s ní 
 Dokonce byla z došků vystavěna láznička. Lili se chodila koupat a Darje Alexandrovně se alespoň zčásti splnilo její očekávání, byl to sice nepříliš klidný, avšak pohodlný venkovský život. Mít klid Darja Alexandrovna při šesti dětech nemohla. Jedno se rozstonalo, druhé se mohlo rozstonat, třetí něco chtělo, čtvrté si postavilo hlavu atd. atd. Jen zřídka, velmi zřídka nastávalo kratinké údobí klidu. Avšak ty starosti i obavy byly pro Darju Alexandrovnu jediným možným štěstím. Bez nich by byla zůstávala sama se svými myšlenkami na muže, který ji nemiloval. A ještě něco. Jakkoli matku skličoval strach z nemocí i nemoci samy, jakkoli ji bolelo, když se u dětí projevovaly známky špatných sklonů – samy děti ji už teď odměňovaly drobnými radostmi za všecky hořkosti. Radosti byly malé jako zrníčka zlata v písku, a tu viděla v těžkých chvílích jen hořkosti, jen písek. Ale mívala i hezké chvíle, kdy viděla jen radosti, jen zlato.
 
 Nyní si na venkovské samotě uvědomovala tyto radosti stále a stále častěji. Často se při pohledu na děti usilovně snažila přesvědčit samu sebe, že se mýlí, že jako matka vidí na svých dětech jen to nejlepší, a přece si nakonec musela říci, že má roztomilé děti, všech šest, každé jiné, ale takové, jaké se hned tak nenajdou – a měla z nich radost a byla na ně pyšná.
+
+</section>

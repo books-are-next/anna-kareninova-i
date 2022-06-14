@@ -3,6 +3,8 @@ title: XXXI
 contentType: prose
 ---
 
+<section>
+
 Vronskij se celou tu noc ani nepokoušel usnout. Seděl na svém sedadle, chvílemi upíral zrak přímo před sebe, chvílemi si prohlížel nastupující a vystupující lidi. Jestliže už dříve ohromoval a rozčiloval neznámé lidi svým neotřesitelným klidem, zdál se dnes tím spíš hrdý a soběstačný. Díval se na lidi jako na věci. Nervózní mladý muž, úředník okresního soudu, sedící proti němu, pojal k němu nenávist, že se tak tváří. Mladý muž si od něho připaloval, navazoval rozmluvu, dokonce do něho strkal, aby mu dal na srozuměnou, že není věc, nýbrž člověk, ale Vronskij se na něho pořád díval jako na lucernu a mladý muž dělal kyselý obličej, neboť cítil, jak ztrácí rozvahu pod tíhou faktu, že není uznáván za člověka.
 
 Vronskij nikoho a nic neviděl. Připadal si jako král, nikoli proto, že by věřil, že na Annu udělal dojem, tomu ještě nevěřil –, ale proto, že dojem, kterým na něho zapůsobila ona, ho naplňoval štěstím a pýchou.
@@ -44,3 +46,5 @@ Hraběnka Lydie Ivanovna byla přítelkyní Annina muže a v petrohradských k
 „Když ona chce všecko vědět podrobně. Jestli nejsi unavena, navštiv ji, má drahá. Kočár ti obstará Kondratij a já jedu do výboru. Tak už zas nebudu obědvat sám,“ pokračoval Alexej Alexandrovič už vážně. „Ani bys nevěřila, jak jsem na tebe zvyklý…“
 
 Dlouho jí tiskl ruku a se zvláštním úsměvem jí pomohl do kočáru.
+
+</section>

@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 Když se vraceli domů, vyptal se Levin podrobně na Kittinu nemoc i jaké mají Ščerbackých plány, a třebaže by se k tomu styděl přiznat, přece ho těšilo, co se dověděl. Těšilo i proto, že dosud byla naděje, a ještě víc proto, že měla bolest ta, jež tak velkou bolest způsobila jemu. Ale když začal Oblonskij o příčinách Kittiny nemoci a vyslovil jméno Vronského, Levin ho přerušil: „Nemám právo znát rodinné podrobnosti a upřímně řečeno mě ani nezajímají.“
 
 Stěpan Arkaďjič se sotva znatelně usmál, když zpozoroval okamžitou, tak dobře známou proměnu v Levinově obličeji, který byl najednou o to chmurnější, oč veselejší byl před chvílí.
@@ -83,6 +85,10 @@ Za hodinu už si obchodník pečlivě zapnul plášť i háčky na kabátě, a�
 
 „Inu, tak všelijak…“
 
-  
+</section>
+
+<section>
 
 [^25]: Citát z básně M. V. Lomonosova, přel. Petr Křička.
+
+</section>
