@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 Byly čtyři hodiny, když Levin s bušícím srdcem vystoupil u zoologické zahrady z drožky a dal se pěšinkou k sáňkovací dráze a ke kluzišti. Věděl najisto, že ji tam nalezne, protože viděl u brány kočár Ščerbackých.
 
 Byl jasný mrazivý den. U brány stály kočáry, sáně, fiakry a četníci. Lepší lidé, oslňující v jasném slunci svými klobouky, se hemžili u vchodu i na upravených pěšinkách mezi ruskými chaloupkami s vyřezávanými hřebeny. Staré kadeřavé lípy v parku se oděly do nového slavnostního hávu a jejich větve se pod sněhem až prohýbaly.
@@ -125,6 +127,10 @@ Stěpan Arkaďjič si cestou sestavoval menu oběda.
 
 „Cože?“ tázal se Levin. „Platejse? Ano, platejse já _hrozně_ rád.“
 
-  
+</section>
+
+<section>
 
 [^6]: Medvídek. _(angl.)_
+
+</section>

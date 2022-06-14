@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 Když profesor odešel, obrátil se Koznyšov k bratrovi.
 
 „To jsem rád, žes přijel. Zdržíš se dlouho? Co hospodářství?“
@@ -64,3 +66,5 @@ Zápasil sám se sebou. Byl by teď rád na nešťastného bratra zapomněl a p
 „Ach to je hrozné, hrozné!“ opakoval Levin.
 
 Chtěl se vypravit k bratrovi hned, jakmile dostal od Koznyšovova lokaje adresu, ale pak se rozmyslil a řekl si, že odloží návštěvu na večer. Aby byl duševně klidný, musel nejprve vyřídit věc, pro kterou do Moskvy přijel. Jel od bratra do úřadu k Oblonskému, poptal se na Ščerbacké a rozjel se tam, kde podle slov Stěpana Arkaďjiče mohl najít Kitty.
+
+</section>

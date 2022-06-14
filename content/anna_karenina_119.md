@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 Táhlo už na šestou a někteří hosté už mezitím přijeli, když přijel i sám hostitel. Vstoupil společně se Sergejem Ivanovičem Koznyšovem a Pescovem, kteří se srazili u vchodu. Byli to hlavní představitelé moskevské inteligence, jak jim říkal Oblonskij. Oba se těšili vážnosti jak pro své povahové vlastnosti, tak pro svůj intelekt. Měli se navzájem v úctě, ale téměř vždycky měli mezi sebou obrovské, beznadějné rozpory – nikoli proto, že by se byli hlásili k opačným směrům, ale právě proto, že náleželi k témuž táboru (nepřátelé je zaměňovali), jenže v tomto táboře byl každý z nich jiného typu. A jelikož se nic nedá tak těžko uvést v soulad jako různost názorů v poloabstraktech, nikdy se názorově neshodli, ale už si dávno zvykli jenom se beze zloby navzájem posmívat svým nenapravitelným omylům.
 
 Vcházeli do dveří a bavili se o počasí, když je Oblonskij dohonil. V salóně už seděl kníže Alexandr Dmitrijevič, tchán Oblonského, mladý Ščerbackij, Turovcyn, Kitty a Karenin.
@@ -103,6 +105,10 @@ Oběd byl stejně úžasný jako nádobí, na které si Oblonskij tolik potrpěl
 
 Po materiální stránce se oběd vydařil; neméně se vydařil i po stránce nemateriální. Hovor, hned společný, hned ve skupinkách, neutichal a ke konci oběda byl tak živý, že pánové vstali od stolu a pokračovali v debatě, dokonce Alexej Alexandrovič ožil.
 
-  
+</section>
+
+<section>
 
 [^46]: Uhlazený, vytříbený. Pozn. red.
+
+</section>

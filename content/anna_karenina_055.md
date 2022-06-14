@@ -3,6 +3,8 @@ title: XIV
 contentType: prose
 ---
 
+<section>
+
 Levin přijížděl v tom nejlepším rozmaru k domu, když zaslechl od hlavního vchodu rolničky.
 
 Ano, někdo jede z nádraží, zrovna přijel moskevský vlak… Ale kdo by to mohl být? Co když je to bratr Nikolaj? Řekl přece: možná pojedu do lázní a možná přijedu k tobě. V první chvíli se Levin zalekl, bylo mu nemilé, že bratrova přítomnost naruší šťastnou jarní náladu. Ale zastyděl se za ten pocit, v duchu už rozevřel náruč a už se s pohnutím těšil a přál si nyní z duše, aby to byl bratr. Pobídl koně, a když minul akáty v aleji, viděl přijíždět trojspřežní povoznické saně ze stanice a v nich pána v kožichu. Kéž by to byl nějaký milý člověk, s kterým by se dalo pohovořit!
@@ -90,3 +92,5 @@ Stěpanovi Arkaďjiči vesele zasvítily oči.
 „I ne. Nějaký matematik řekl, že rozkoš není v objevení pravdy, ale v hledání.“
 
 Levin poslouchal mlčky a přes všechnu snahu se nedokázal vžít do přítelovy duše a pochopit jeho city a půvab studia takových žen.
+
+</section>

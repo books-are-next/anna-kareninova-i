@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 „Tys ho potkal?“ zeptala se, když si sedli ke stolu pod lampou. „To máš za trest, že jsi přišel pozdě.“
 
 „Ale jak to? Měl přece být v radě?“
@@ -125,6 +127,10 @@ Ukázala, jak se přehraboval v pytli. V obličeji se jí zračila hrůza. A 
 
 Ale vtom se zarazila. Její tvář se v mžiku proměnila. Hrůza a rozčilení ustoupilo výrazu tiché, vážné, blažené pozornosti. Nedovedl pochopit, co ta proměna znamená. Cítila v sobě hnutí nového života.
 
-  
+</section>
+
+<section>
 
 [^44]: Musíme železo kout, roztírat je, hníst. _(franc.)_
+
+</section>

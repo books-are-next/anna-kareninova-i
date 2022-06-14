@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Kněžna Betsy nevyčkala konce posledního jednání a odešla z divadla. Jen taktak stačila zajít do budoáru, poprášit si dlouhý bledý obličej pudrem, setřít jej, upravit si účes a poručit, aby bylo ve velkém salóně prostřeno k čaji, a už se k jejímu velikánskému domu na Námořní začaly sjíždět kočáry jeden za druhým. Hosté mířili k prostornému krytému vchodu a tlustý vrátný, který vždy dopoledne četl za skleněnými dveřmi noviny a budil posvátnou úctu v kolemjdoucích, neslyšně otvíral ty obrovské dveře a vpouštěl příchozí dovnitř.
 
 Téměř zároveň vstoupila paní domu s upraveným účesem a upraveným obličejem jedněmi dveřmi a hosté dveřmi druhými do velkého salónu s tmavými stěnami, kyprými koberci a jasně ozářeným stolem, který se skvěl pod plamínky svěc bělostí ubrusu, stříbrem samovaru a průsvitným porcelánem čajového servisu.
@@ -113,6 +115,10 @@ Jmenoval francouzskou herečku a chtěl o ní cosi vyprávět. Ale vyslancova 
 
 „A všichni by se tam rozběhli, kdyby to byl stejný bonton jako chodit do opery,“ přisadila si kněžna Mjagká.
 
-  
+</section>
+
+<section>
 
 [^22]: Ohnivě, výstředně růžový. _(franc.)_
+
+</section>

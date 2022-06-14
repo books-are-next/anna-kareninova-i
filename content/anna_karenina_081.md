@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Osobní věc, kterou se Levin v duchu obíral za rozhovoru s bratrem, byla: jednou loni přijel na sena, nějak se rozčilil na správce a pak použil svého uklidňujícího prostředku – půjčil si od sekáče kosu a začal sekat.
 
 Ta práce se mu tak zalíbila, že pak kosil ještě několikrát. Pokosil celou louku před domem a letos si už zjara umiňoval, že bude sekat společně s rolníky celé dny. Když přijel bratr, byl na váhách, zda má chodit na sena, či ne. Styděl se nechávat bratra celé dny samotného a bál se, aby se mu nesmál. Ale když se teď prošel po louce, vzpomněl si na zážitky ze senoseče a už se téměř rozhodl, že na sena půjde. A po rozčilující rozmluvě s bratrem si opět vzpomněl na své předsevzetí.
@@ -102,3 +104,5 @@ Levin svěřil kosu Titovi a společně s rolníky, kteří si šli ke kabát�
 Levin odvázal koně a jel domů na svačinu.
 
 Sergej Ivanovič teprve vstával. Levin se napil kávy, a než se bratr ustrojil a přišel do jídelny, zase odjel na louku.
+
+</section>

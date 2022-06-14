@@ -3,6 +3,8 @@ title: XXIX
 contentType: prose
 ---
 
+<section>
+
 Uskutečnění Levinova plánu bylo spojeno s mnoha obtížemi. Ale vynaložil všechny síly, a i když nedosáhl všeho, co si přál, přece alespoň mohl věřit, aniž si něco nalhával, že jeho námaha není marná. Jedna z hlavních obtíží záležela v tom, že hospodářství už bylo zavedené, že se nedalo všecko zastavit a začínat všecko od začátku, ale bylo nutno předělávat stroj v chodu.
 
 Když toho večera přijel domů a řekl správci o svých plánech, správce s patrným potěšením souhlasil s tou částí Levinovy řeči, která dokazovala, že všecko, co se dělalo až dosud, bylo hloupé a nevyplácelo se. Správce prohlásil, že to říkal už dávno, ale prý ho nikdo neposlouchal. Na Levinův návrh – aby se účastnil spolu s dělníky veškerého hospodářského podnikání jako podílník – projevil však značnou malomyslnost a žádný určitý názor a hned začal o tom, že zítra se nutně musí svézt zbývající žito a zaorat pole, takže Levin poznal, že teď jsou jiné starosti.
@@ -32,3 +34,5 @@ Když už se podjal toho úkolu, svědomitě četl vše, co se týkalo daného p
 Viděl teď jasně, že Kaufmann a Michaelis mu nemají co říci. Věděl, co chce. Viděl, že Rusko má znamenité pozemky, znamenité dělníky a že v jistých případech, jako u sedláka bydlícího při cestě ke Svijažskému, dělníci i půda produkují mnoho, zatímco ve většině případů, kdy se podle evropského způsobu investuje kapitál, produkují málo, a že je to způsobeno jen tím, že dělníci chtějí pracovat a pracují dobře jen svým vlastním způsobem, že jejich odpor není jev náhodný, nýbrž stálý, plynoucí z povahy lidu.
 
 Soudil, že ruský lid, předurčený osidlovat a obdělávat nesmírné neobydlené prostory, drží se vědomě, dokud nejsou všecky pozemky obsazeny, všech metod k tomu potřebných a že ty metody zdaleka nejsou tak špatné, jak se obvykle soudívá. A chtěl to teoreticky dokázat ve své knize a v praxi na svém hospodářství.
+
+</section>

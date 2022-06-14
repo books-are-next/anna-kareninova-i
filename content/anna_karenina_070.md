@@ -3,6 +3,8 @@ title: XXIX
 contentType: prose
 ---
 
+<section>
+
 Všichni dávali hlasitě najevo svou nelibost, všichni opakovali čísi výrok „ještě nám chybí cirkus se lvy“ a všichni byli naplněni hrůzou, takže když Vronskij spadl a Anna hlasitě vykřikla, nebylo na tom nic zvláštního. Ale hned nato se v Annině tváři odehrála změna, která byla rozhodně nepřístojná. Anna byla nadobro zmatena. Zmítala se jako polapený pták, chtěla vstát a odejít, a zas se obracela k Betsy.
 
 „Pojedem, pojedem,“ opakovala.
@@ -92,3 +94,5 @@ Brzo po něm přišel lokaj od kněžny Betsy a přinesl Anně psaníčko:
 On tedy přijde! Jak dobře udělala, že mu všecko řekla. Podívala se na hodiny. Zbývaly ještě tři hodiny a vzpomínky na podrobnosti z minulého shledání v ní zažehly krev.
 
 Bože, to světlo! Je to strašné, ale tak ráda se dívá na jeho obličej a má ráda to fantastické světlo… Muž! Ach ano… Chválabohu, že už je konec.
+
+</section>

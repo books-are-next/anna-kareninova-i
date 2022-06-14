@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 Koncem května, když se všecko dalo více méně do pořádku, dostala mužovu odpověď na své stesky, jaké má na vsi svízele. V dopise ji prosil za odpuštění, že všecko dost neuvážil, a sliboval, že přijede, jakmile se mu naskytne příležitost. Příležitost se nenaskytla a Darja Alexandrovna žila na vsi až do začátku června sama.
 
 V neděli o petrském půstu vzala Darja Alexandrovna děti do kostela k přijímání. V důvěrných filozofických rozmluvách s matkou, sestrou či přáteli Darja Alexandrovna často překvapovala svými svobodomyslnými názory na náboženství. Měla vlastní podivné náboženství metempsychózy, v kterou pevně věřila, a pramálo dbala o církevní dogmata. Avšak v rodině – a nejen proto, aby byla příkladem, nýbrž z celého srdce – přísně dodržovala všechny církevní předpisy a to, že děti nebyly už téměř rok u přijímání, jí dělalo velké starosti, takže se za plné podpory a souhlasu Matrjony rozhodla, že to napraví nyní v létě.
@@ -65,6 +67,10 @@ Teď to byla pro Darju Alexandrovnu nejzajímavější rozmluva. Jaký měla por
 
 Darje Alexandrovně se od vesničanek ani nechtělo, tak ji upoutal rozhovor s nimi, tak docela stejné měly zájmy. Ale hlavně Darju Alexandrovnu těšilo, že jasně viděla, jak se všecky ty ženy obdivují nejvíc tomu, kolik má dětí a jak jsou pěkné. Ženské také rozesmály Darju Alexandrovnu a urazily Angličanku, protože jim zavdala podnět k smíchu, který nechápala. Jedna z ženiček pozorovala Angličanku, oblékající se až naposled, a když si milá Angličanka natáhla třetí sukni, neodpustila si poznámku: „Hele ji, co toho na sebe navlíkala, a pořád je jak šindel!“ A všecky propukly v smích.
 
-  
+</section>
+
+<section>
 
 [^39]: Prosím, ještě trošku. _(angl.)_
+
+</section>

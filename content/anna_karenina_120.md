@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 Pescov měl rád, aby se všecko domluvilo do konce, a nespokojil se slovy Sergeje Ivanoviče Koznyšova tím spíš, že si uvědomil nesprávnost svého mínění.
 
 „Nikdy jsem neměl na mysli,“ obrátil se při polévce k Alexejovi Alexandroviči, „pouhou hustotu obyvatelstva, nýbrž ve spojení se základy, nikoli s principy.“
@@ -82,3 +84,5 @@ I Karenin se usmál.
 „Ale my hájíme zásadu, ideál!“ zvučným basem odporoval Pescov. „Žena chce mít právo na nezávislost, na vzdělání. Vědomí, že je to nemožné, ji tíží a skličuje.“
 
 „A mne zas tíží a skličuje, že mě nepřijmou za kojnou do nalezince,“ opět řekl kníže k velkému potěšení Turovcyna, který smíchy upustil chřest tlustým koncem do omáčky.
+
+</section>

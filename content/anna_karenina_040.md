@@ -3,6 +3,8 @@ title: XXXIV
 contentType: prose
 ---
 
+<section>
+
 Při odjezdu z Petrohradu nechal Vronskij svůj velký byt na Námořní příteli a nejmilejšímu kamarádovi Petrickému.
 
 Petrickij byl mladý poručík, nijak zvlášť urozený ani bohatý, naopak po uši zadlužený; vždy k večeru byl opilý, pro různé komické i nepěkné historky se často ocital na strážnici, ale kolegové i velitelé ho měli rádi. Když Vronskij přijížděl kolem dvanácté hodiny z nádraží k svému bytu, spatřil u vchodu známý drožkářský kočár. Zazvonil a uslyšel za dveřmi mužský smích, ženské žvatlání a volání Petrického: „Jestli je to nějaký lotras, nepouštěj ho!“ Vronskij se nedal ohlásit a potichoučku vešel do prvního pokoje. Baronka Chilletonová, přítelkyně Petrického, tu oslňovala fialovým atlasem šatů i růžovou tvářičkou a plavými vlasy a naplňovala celý pokoj svým pařížským švitořením jako kanárek. Seděla u kulatého stolu a vařila kávu. Petrickij v plášti a kapitán jízdy Kamerovskij v uniformě (asi přišli rovnou ze služby) seděli vedle ní.
@@ -56,3 +58,5 @@ Kamerovskij se také zvedal a Vronskij ani nečekal na jeho odchod, podal mu ru
 Vronskij se válel smíchy. A ještě dlouho potom, když už mluvili o něčem jiném, propukal ve svůj zdravý smích a cenil silné husté zuby, kdykoli si vzpomněl na přilbu.
 
 Když Vronskij vyslechl všecky noviny, s pomocí lokaje si oblékl uniformu a šel se hlásit. Ohlásil se a hodlal jít k bratrovi, k Betsy a vykonat několik návštěv, neboť chtěl začít chodit do společnosti, v které by se mohl setkávat s Kareninovou. Jako vždy v Petrohradě odjel z domova s úmyslem, že se nevrátí do pozdní noci.
+
+</section>

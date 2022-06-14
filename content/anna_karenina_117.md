@@ -3,6 +3,8 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 Příští den byla neděle. Stěpan Arkaďjič se stavil ve Velkém divadle na zkoušce baletu a odevzdal Máše Čibisovové, hezounké tanečnici, nedávno angažované na jeho přímluvu, korálky, které jí včera slíbil, a v zákulisní denní tmě se mu poštěstilo políbit ji na hezounkou rozzářenou tvářičku. Nepřišel jen s dárkem, také si s ní musel umluvit schůzku po představení. Vyložil jí, že na začátek baletu nemůže přijít, ale slíbil, že přijde na poslední jednání a pak spolu pojedou na večeři. Z divadla zajel Stěpan Arkaďjič do Ochotného rjadu, osobně vybral ryby a chřest k obědu a v poledne už byl u Dusseaua, kde měl navštívit tři lidi, šťastnou náhodou ubytované v jednom hotelu: Levina, který přijel nedávno z ciziny a ubytoval se zde, nového představeného, který právě nastoupil tento vyšší úřad a byl v Moskvě na inspekci, a švagra Karenina, jehož chtěl stůj co stůj přivést k obědu.
 
 Oblonskij rád dobře poobědval, ale ještě raději obědy pořádal, obědy nijak okázalé, leč vybrané co do jídel a pití i co do výběru hostí. Program dnešního oběda se mu velice zamlouval. Budou mít pečené okouny, chřest a jako zlatý hřeb – znamenitý, ale jednoduchý rostbíf a vhodná vína, to pokud jde o jídlo a pití. Mezi hosty bude Levin a Kitty, a aby to nebylo nápadné, přijde také sestřenice a Ščerbackij mladší a jakožto zlatý hřeb Sergej Koznyšov a Alexej Alexandrovič. Sergej Ivanovič je Moskvan a filozof, Alexej Alexandrovič – Petrohraďan a praktik. Pak ještě pozve známého nadšence a blázínka Pescova, liberála, mluvku, hudebníka, historika a přeroztomilého padesátiletého mladíka, který bude omáčkou nebo příkrmem ke Koznyšovovi a Kareninovi. Bude je provokovat a popichovat.
@@ -70,3 +72,5 @@ Stěpan Arkaďjič se jemně a laskavě usmíval, když Levina poslouchal.
 „Tak v pět, v tmavém.“
 
 Oblonskij vstal a šel dolů k novému představenému. Tušení ho nezklamalo. Z hrozného nového představeného se vyklubal velice přívětivý muž, a Stěpan Arkaďjič s ním posvačil a zapovídal se tak, že se dostal ke Kareninovi až po třetí hodině.
+
+</section>

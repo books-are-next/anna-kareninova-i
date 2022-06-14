@@ -3,6 +3,8 @@ title: XXI
 contentType: prose
 ---
 
+<section>
+
 Prozatímní stáj, bouda z prken, byla hned vedle jízdárny, a včera mu tam měli přivést koně. Ještě ho neviděl. V posledních dnech sám koně neprojížděl, ale svěřil ho trenérovi, takže teď vůbec nevěděl, v jakém stavu sem kůň přišel a v jakém je nyní. Sotvaže vystoupil z kolesky, jeho štolba (groom) zavolal trenéra, neboť poznal Vronského kolesku už z dálky. Hubený Angličan ve vysokých botách a krátkém kabátci, s chomáčkem vousů jen na bradě, šel Vronskému naproti houpavým, nemotorným žokejským krokem a rozháněl se lokty.
 
 „Co dělá Frou-Frou?“ otázal se Vronskij anglicky.
@@ -78,3 +80,5 @@ Zlobil se na všechny dotěravce právě proto, že v hloubi duše cítil, že 
 Ano, dříve byla nešťastná, ale přitom hrdá a klidná. Ale teď nemůže být klidná ani nemůže mít vědomí vlastní důstojnosti, i když to nedává najevo. Ano, to musí skončit, rozhodl Vronskij.
 
 A poprvé mu svitla v hlavě jasná myšlenka, že lži musí být učiněna přítrž, čím dříve, tím lépe. Oba všecko opustí a někde se ukryjí sami se svou láskou.
+
+</section>

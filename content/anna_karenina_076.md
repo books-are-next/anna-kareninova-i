@@ -3,6 +3,8 @@ title: XXXV
 contentType: prose
 ---
 
+<section>
+
 Kníže nakazil svou veselou náladou členy rodiny a známé, ba německého pana domácího, u kterého Ščerbackých bydlili.
 
 Když se s Kitty vrátil z promenády, pozval na kávu plukovníka, Marii Jevgenijevnu i Váreňku, pak dal vynést stůl a křesla do zahrady pod kaštan a prostřít tam k svačině. Pan domácí i sluhové oživli jeho veselím. Znali jeho štědrost a za malou půlhodinku se churavý hamburský lékař, bydlící nahoře, závistivě díval na tu veselou ruskou společnost zdravých lidí, shromážděnou pod kaštanem. V zeleném loubí, házejícím chvějivé kruhovité stíny, u stolu pokrytého bílým ubrusem a plného konvic, chleba, másla, sýrů a studené zvěřiny, seděla paní kněžna v čepečku s fialovými stuhami a rozdávala šálky a chlebíčky. Na druhém konci seděl kníže, důkladně si popřával a hlasitě a vesele vykládal. Rozložil vedle sebe nákupy, vyřezávané truhličky, hračky a všelijaké nožíky na papír, kterých nakoupil celou haldu ve všech lázních, a rozdával je všem i služce Lieschen a panu domácímu, s kterým žertoval svou komickou chatrnou němčinou a ujišťoval ho, že Kitty neuzdravily léčivé prameny, nýbrž jeho znamenitá strava, zejména polévka ze sušených švestek. Kněžna si muže dobírala pro jeho ruské zvyky, ale byla tak rozjařená a veselá, jako nebyla za celý lázeňský pobyt. Plukovník se jako vždy usmíval vtipům, které dělal kníže, ale v názoru na Evropu, kterou podle vlastního domnění pilně studoval, byl při kněžně. Dobrácká Marie Jevgenijevna se prohýbala smíchy, kdykoli kníže řekl něco komického, a Váreňka, což Kitty ještě nikdy nezažila, přímo umdlévala tichým, ale nakažlivým smíchem.
@@ -135,6 +137,10 @@ Ale její láska k Váreňce neochabla. Při loučení ji Kitty snažně prosil
 
 Lékařova předpověď se splnila. Kitty se vrátila domů do Ruska uzdravena. Nebyla už tak bezstarostná a veselá jako dříve, ale byla klidná. Moskevské trápení se stalo vzpomínkou.
 
-  
+</section>
+
+<section>
 
 [^36]: Jasnosti, Excelence, Osvícenosti. _(něm.)_
+
+</section>

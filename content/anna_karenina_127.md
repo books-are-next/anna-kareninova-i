@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Karenin se vracel do svého opuštěného hotelového pokoje a mimoděk si v duchu probíral dojmy z rozhovorů, vedených při obědě i po něm. Slova Darji Alexandrovny, že by měl odpustit, v něm vzbudila jen nevoli. Zda se má, či nemá řídit v daném případě křesťanskými zásadami, byla otázka příliš obtížná, o které se nedalo jen tak zběžně mluvit, přičemž si na ni už dávno nalezl odpověď zápornou. Ze všech výroků mu nejvíc utkvěla v paměti slova dobrého, hloupého Turovcyna: _pašák; vyzval soka na souboj a zabil ho_. Všichni s tím nejspíš souhlasili, třeba to ze zdvořilosti neřekli nahlas.
 
 Věc už je koneckonců odbyta, nač se tím zabývat, řekl si Alexej Alexandrovič. Myslil už jen na blízký odjezd a na revizi, když vstoupil do svého pokoje a zeptal se vrátného, který ho doprovázel, kde je jeho sluha; vrátný mu sdělil, že sluha před chvílí odešel. Alexej Alexandrovič si objednal čaj, posadil se ke stolu a začal studovat jízdní řád.
@@ -113,6 +115,10 @@ Chtěl vstát. Avšak Alexej Alexandrovič ho vzal za ruku a řekl: „Prosím,
 
 Vstal a pro pláč už nemohl domluvit. Vronskij se také zvedl, ale nenapřímil se a schýlen se na něho úkosem díval. Nerozuměl citům Alexeje Alexandroviče. Tušil však, že je to cosi vznešeného, co ani není při svém životním názoru s to pochopit.
 
-  
+</section>
+
+<section>
 
 [^47]: Ty, jež _(bůh)_ chce zničit, zbavuje rozumu. _(lat.)_
+
+</section>

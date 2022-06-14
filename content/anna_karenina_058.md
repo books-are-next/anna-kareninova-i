@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Oblonskij, kapsu napěchovanou bankovkami, které mu dal obchodník za tři měsíce napřed, přišel nahoru. Záležitost s lesem byla skončena, peníze v kapse, lov se zdařil, sám byl v růžové náladě, a proto zvlášť toužil rozptýlit Levinovy chmury. Byl by rád ukončil den u večeře stejně příjemně, jak jej začal.
 
 Levin měl vskutku špatnou náladu, a přestože chtěl být k milému hostu vlídný a laskavý, nedokázal se přemoci. Zpráva, že Kitty se nevdala, na něho pomalu začínala opojně působit.
@@ -76,3 +78,5 @@ Levin se zaškaredil. Urážka, které se mu dostalo, když byl odmrštěn, ho p
 „Ale kdepak, vůbec ne, ani nemám proč. Jsem rád, že jsme se domluvili. Ale víš, ranní lov bývá dobrý. Neměli bychom jít? Nespal bych a rovnou z lovu bych jel na nádraží.“
 
 „Výborně.“
+
+</section>

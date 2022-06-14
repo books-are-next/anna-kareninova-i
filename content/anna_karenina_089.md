@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 Fůra byla svázána. Ivan seskočil a vedl statného, pěkného koně za opratě. Mladice hodila hrábě na vůz a klátíc rukama svižně vykročila k ženským, které se už seřadily jako k tanci. Ivan vyjel na cestu a přidal se k ostatním vozům. Ženské s hráběmi přes rameno, hýřící pestrými barvami a brebentící veselými zvonivými hlasy, šly za vozy. Drsný, bujný ženský hlas zanotoval píseň a dozpíval ji k refrénu, a na padesát různých, drsných něžných, zdravých hlasů svorně vpadlo sborem a opakovaly píseň od začátku.
 
 Ženy se blížily s písní k Levinovi a jemu se náhle zdálo, že se na něho žene mrak a bouře veselí. Mrak se přihnal, uchvátil ho a kupka, na které ležel, i ostatní kupky a vozy i celá louka se vzdáleným polem – všecko se natřásalo a vlnilo do taktu bujné veselé písně, provázené výskotem, hvízdáním a halekáním. Levina se zmocnila závist nad tím zdravým veselím, také by se chtěl účastnit toho projevu radosti ze života. Ale nemohl nic dělat a musel ležet, dívat se a poslouchat. Když lidé zmizeli za zpěvu z dohledu i z doslechu, padla na Levina tíseň a smutek, že je tak sám, že zahálí, že nevraží na tento svět.
@@ -36,3 +38,5 @@ Už nevyhlédla. Zvuk kočárových per už nebylo slyšet, sotva slyšitelně z
 Vzhlédl k obloze, doufal, že tam najde lasturu, které se obdivoval a která mu ztělesňovala celý sled myšlenek a pocitů dnešní noci. Na obloze už nebylo po lastuře ani památky. Tam v nedozírné výši se mezitím udála tajuplná proměna. Lastura zmizela a zbyl tu rovný, přes celou půli oblohy rozprostřený koberec z beránků, čím dál menších a menších. Obloha zmodrala a rozzářila se a stejně něžně, ale zároveň stejně nedosažitelně odpovídala na jeho tázavý pohled.
 
 Ne, i když byl pěkný ten prostý a dělný život, nemohl se k němu vrátit. Miloval _ji._
+
+</section>

@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 „Kitty mi píše, že po ničem tak netouží jako být sama a mít klid,“ pravila Dolly po chvíli mlčení.
 
 „A už se trochu zotavila?“ s rozechvěním se otázal Levin.
@@ -101,7 +103,9 @@ Proč vlastně mluví s dětmi francouzsky? Vypadá to tak nepřirozené a fal
 
 Levin zůstal na čaj, ale jeho veselost už vyprchala a necítil se ve své kůži.
 
-  
+</section>
+
+<section>
 
 Po čaji vyšel do předsíně, aby dal zapřáhnout, a když se vrátil, nalezl Darju Alexandrovnu rozčilenou, se zkormouceným obličejem a celou uplakanou. Zatímco byl pryč, došlo k příhodě, která naráz rozbila celé dnešní štěstí Darji Alexandrovny i její hrdost, jaké má děti. Gríša a Táňa se poprali kvůli míčku. Darja Alexandrovna uslyšela z dětského pokoje křik, běžela tam a spatřila něco hrozného. Táňa držela Gríšu za vlasy a Gríša s obličejem znetvořeným vzteky ji tloukl pěstmi hlava nehlava. V Darje Alexandrovně se cosi zlomilo, jakmile to uviděla. Její život se náhle obestřel temnotou. Uvědomila si, že děti, na které byla tak pyšná, jsou docela obyčejné děti, že jsou to dokonce ošklivé, špatně vychované děti s hrubými, zvířeckými sklony, že jsou to zlé děti.
 
@@ -110,3 +114,5 @@ Nemohla už o ničem jiném mluvit a na nic jiného myslit. Nedalo jí to a p
 Levin viděl, že je nešťastná, a snažil se ji uklidnit, říkal, že to nic špatného neznamená, že všecky děti se perou. Ale jak to říkal, myslil si vskrytu: Ne, já nebudu hrát komedii a mluvit se svými dětmi francouzsky, ale moje děti budou úplně jiné. Jen nesmíme děti kazit a mrzačit, a budou znamenité. Ano, já budu mít jinačí děti.
 
 Rozloučil se a odjel a Darja Alexandrovna už ho nezdržovala.
+
+</section>

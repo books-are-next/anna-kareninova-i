@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Společnost na partii kroketu, do které kněžna Tverská zvala Annu, měly tvořit dvě dámy se svými ctiteli. Ty dvě dámy byly hlavními představitelkami nového vybraného petrohradského kroužku jménem les sept merveilles du monde[^40], kterýžto název byl imitací jiné imitace. Dámy náležely ke kroužku sice vznešenému, ale zcela nepřátelskému tomu, který navštěvovala Anna. Nadto byl starý Stremov, jedna z vlivných osobností v Petrohradě, ctitel Lízy Merkalovové, v úřadě soupeřem Alexeje Alexandroviče. Ze všech těch důvodů tam Anna nechtěla jít a na tento její odmítavý postoj narážela kněžna Tverská ve svém psaníčku. Ale teď Anna doufala, že se sejde s Vronským, a proto si přála jet.
 
 Přijela ke kněžně Tverské dřív než ostatní hosté.
@@ -73,8 +75,12 @@ Betsy se znenadání vesele a nezadržitelně rozesmála, což se jí stávalo 
 
 „Nezvedené dítě, nezvedené dítě,“ opakovala Betsy. „Ale už jsou tady.“
 
-  
+</section>
+
+<section>
 
 [^40]: Sedm divů světa. _(franc.)_
 
 [^41]: Hezky si popovídáme. _(angl.)_
+
+</section>

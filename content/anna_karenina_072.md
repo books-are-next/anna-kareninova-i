@@ -3,6 +3,8 @@ title: XXXI
 contentType: prose
 ---
 
+<section>
+
 Byl deštivý den, pršelo celé dopoledne a pacienti s deštníky se shlukli v ochozu.
 
 Kitty se procházela s matkou a s moskevským plukovníkem, který dělal parádu ve svém kabátci podle evropské módy, zakoupeném v konfekci ve Frankfurtu. Chodili po jedné straně ochozu, aby se vyhnuli Levinovi, který chodil po straně druhé. Váreňka ve svých tmavých šatech a v černém klobouku s ohnutou střechou promenovala se slepou Francouzskou po celé délce ochozu a kdykoli se s Kitty setkaly, vyměnily si přátelský pohled.
@@ -79,8 +81,12 @@ Kitty zčervenala radostí a dlouho mlčky tiskla své nové přítelkyni ruku,
 
 A Váreňka šla za nimi.
 
-  
+</section>
+
+<section>
 
 [^32]: Záliby. _(franc.)_
 
 [^33]: Jeho společnice. _(franc.)_
+
+</section>

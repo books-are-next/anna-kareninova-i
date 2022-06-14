@@ -3,6 +3,8 @@ title: XX
 contentType: prose
 ---
 
+<section>
+
 Vronskij byl ubytován v prostorném a čistém čuchonském stavení, rozděleném na dvě části. Petrickij s ním bydlel i v táboře. Spal, když Vronskij a Jašvin vešli dovnitř.
 
 „Vstávej, dost už toho spaní,“ řekl Jašvin, šel za přepážku a lomcoval rozcuchaným Petrickým, který spal s nosem zabořeným do polštáře.
@@ -89,6 +91,10 @@ Vronskij vskutku začínal předčasně plešatět. Vesele se zasmál, až mu za
 
 „Do stájí!“ řekl a už si chtěl vyndat dopisy a přečíst si je, ale pak se rozmyslil, nechtěl se rozptylovat, dokud si neprohlédne koně. Až potom!
 
-  
+</section>
+
+<section>
 
 [^26]: Starší ruská délková míra (cca 1 km). Pozn. red.
+
+</section>

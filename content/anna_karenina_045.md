@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Petrohradská vyšší společnost je vlastně jen jedna. Všichni se mezi sebou znají, dokonce se vzájemně navštěvují. Ale v té velké společnosti jsou menší skupiny. Anna Arkaďjevna Kareninová měla přátele a úzké styky ve třech rozličných kroužcích. První byl úřední, oficiální okruh jejího muže, složený z jeho kolegů a podřízených, zcela různě a roztodivně sjednocených a rozdělených společenskými podmínkami. Anna si teď stěží dovedla vybavit pocit takřka zbožné úcty, kterou v první době chovala k těmto osobám. Teď už je všecky znala, jako se znají lidé v okresním městě; věděla, jaké má kdo zvyky a slabé stránky, kde koho tlačí bota; znala jejich vzájemné vztahy i poměr k hlavnímu centru; věděla, kdo se koho drží, jak a proč, s kým a v čem se kdo shoduje nebo neshoduje; avšak ten okruh vládních, mužských zájmů přes domluvy hraběnky Lydie Ivanovny nemohl Annu upoutat a vyhýbala se mu.
 
 Další okruh, k němuž Anna měla blízko, byl ten, jehož prostřednictvím udělal Alexej Alexandrovič kariéru. Středem kroužku byla hraběnka Lydie Ivanovna. Byla to skupinka starých, nehezkých, ctnostných a zbožných žen a moudrých, učených, ctižádostivých mužů. Jeden z moudrých lidí, náležejících k tomu kroužku, jej nazýval „svědomím petrohradské společnosti“. Alexej Alexandrovič si na tom kroužku velice zakládal, a poněvadž Anna uměla tak dobře vyjít s každým, našla si v prvním období svého života přátele i tady. Ale teď, co se vrátila z Moskvy, nemohla ten kroužek vystát. Napadlo ji, že se tam přetvařuje, a právě tak i všichni ostatní, a začala se v té společnosti nudit a být tak nesvá, že pak chodila k hraběnce Lydii Ivanovně co nejméně.
@@ -51,6 +53,10 @@ Vronskij na ni tázavě pohlédl. Sklonila hlavu. S úsměvem jí poděkoval a�
 
 A opět usedla.
 
-  
+</section>
+
+<section>
 
 [^20]: Abychom si rozuměli. _(franc.)_
+
+</section>

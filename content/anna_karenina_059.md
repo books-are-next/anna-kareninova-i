@@ -3,6 +3,8 @@ title: XVIII
 contentType: prose
 ---
 
+<section>
+
 Přestože celý vnitřní život Vronského byl nabit jeho vášní, jeho život vnější neměnně a nezadržitelně běžel ve starých, obvyklých kolejích společenských a plukovních styků a zájmů. Zájmy plukovní zaujímaly v životě Vronského významné místo, poněvadž měl pluk rád, a ještě víc proto, že u pluku měli rádi jeho. U pluku měli Vronského rádi, a nejen to, vážili si ho a byli na něho hrdi, byli hrdi, že ten nesmírně bohatý člověk s vynikajícím vzděláním a schopnostmi, mající otevřenou cestu k všemožným úspěchům, které mohou lichotit ctižádosti a marnivosti, pohrdá tím vším a ze všech životních zájmů si nejvíce hledí zájmů pluku a kolegů. Vronskij si byl vědom, jak se na něho kolegové dívají, a kromě toho, že měl ten život rád, cítil se povinen nezradit ustálený názor.
 
 Rozumí se samo sebou, že s žádným kamarádem nemluvil o své lásce, nepodřekl se ani při největších pitkách (nikdy ostatně nebýval tak opilý, aby pozbyl sebekontrolu) a zacpával ústa všem lehkomyslníkům, kteří se pokoušeli činit narážky na jeho poměr. Ale přesto vědělo o jeho lásce celé město, všichni více nebo méně správně tušili, jaký vztah má ke Kareninové, a většina mladých mužů mu záviděla právě to, co bylo v jeho lásce největší obtíží, totiž význačné postavení Kareninovo, které způsobovalo, že poměr budil ve vyšších kruzích nápadnou pozornost.
@@ -18,3 +20,5 @@ Kromě vojenské služby a společnosti se Vronskij věnoval ještě jedné vě
 Letos se měly konat důstojnické překážkové dostihy. Vronskij se k dostihům přihlásil, koupil si čistokrevnou anglickou klisnu a přes svou lásku byl blízkými dostihy i při vší zdrženlivosti vřele zaujat.
 
 Dvě vášně si navzájem nepřekážely. Naopak, potřeboval se něčím zabývat, horovat pro něco, co nesouviselo s jeho láskou, aby se osvěžil a oddechl si po dojmech příliš vzrušujících.
+
+</section>

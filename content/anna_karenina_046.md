@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 „Je to trošku neslušné, ale tak roztomilé, že mám sto chutí to vyprávět,“ řekl Vronskij s rozesmátýma očima. „Nebudu nikoho jmenovat.“
 
 „Ale já budu hádat, tím líp.“
@@ -51,6 +53,10 @@ Když Vronskij přijel do Francouzského divadla, odešel s velitelem do foyeru
 
 „Zpropadená historie, ale k popukání. Přece se Kedrov nebude s tím pánem střílet! Tak se hrozně rozčiloval?“ se smíchem se ptal znovu a znovu. „Co dnes říkáte Clairové? Úžasná!“ prohlásil o nové francouzské herečce. „Člověk ji může vidět každý den, a pokaždé je jiná. Tohle dovedou jenom Francouzi.“
 
-  
+</section>
+
+<section>
 
 [^21]: Mnoho štěstí. _(franc.)_
+
+</section>

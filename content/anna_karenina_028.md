@@ -3,6 +3,8 @@ title: XXII
 contentType: prose
 ---
 
+<section>
+
 Ples zrovna začal, když Kitty s matkou vešla na velké schodiště, zaplavené světlem a plné květin a napudrovaných lokajů v červených livrejích. V sálech bylo živo, rozléhal se odtamtud plynulý hukot jako v úle, a zatímco si dámy na prostranství mezi stromečky upravovaly před zrcadlem účesy a šaty, zazněly ze sálu jemné i výrazné zvuky houslí v orchestru, který spustil první valčík. Stařeček v civilu, který si uhlazoval šedivé kotletky před druhým zrcadlem a šířil kolem sebe vůni parfému, se s dámami srazil na schodech, ale hned jim ustoupil z cesty a s patrným zalíbením se díval na Kitty, kterou neznal. Holobrádek ve vystřižené vestě, jeden z oněch mladíků z vyššího světa, kterým starý kníže Ščerbackij říkal cápkové, si v chůzi narovnával bílý nákrčník, uklonil se dámám a běžel dál, ale pak se vrátil a vyzval Kitty na čtverylku. Na první čtverylku už byla zadána s Vronským, musela mladíkovi slíbit druhou. Ve dveřích jim udělal místo jakýsi důstojník. Zapínal si rukavičku, hladil si knír a zálibně si prohlížel růžovou Kitty.
 
 Přestože toaleta, účes i všechny přípravy k plesu daly Kitty velkou námahu a mnoho přemýšlení, přicházela teď na ples ve svých bohatých tylových šatech s růžovým podkladem tak nenuceně a prostě, jako by všem těm rozetám, krajkám, všem detailům toalety nevěnovala ani ona, ani ostatní lidé doma nejmenší pozornost, jako by se byla narodila v tom tylu, v krajkách, s vysokým účesem a s růží o dvou lístcích.
@@ -55,6 +57,10 @@ V té chvíli se blížil Vronskij.
 
 „Pardon, pardon! Valčík, valčík!“ zavolal Korsunskij na druhém konci sálu, uchopil do náruče nejbližší tanečnici a pustil se do tance.
 
-  
+</section>
+
+<section>
 
 [^13]: Přesnost. _(franc.)_
+
+</section>

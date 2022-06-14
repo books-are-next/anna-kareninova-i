@@ -3,6 +3,8 @@ title: XXVII
 contentType: prose
 ---
 
+<section>
+
 „Kdyby nebylo škoda toho všeho, co jsem si pořídil… však to dalo nějakou práci… nechal bych toho, všecko bych to prodal a jel bych jako Nikolaj Ivanyč… poslechnout si _Helenu_,“ řekl statkář a moudrý starý obličej se mu rozjasnil v příjemném úsměvu.
 
 „Ale přece toho nechcete nechat,“ řekl Nikolaj Ivanovič Svijažskij, „tak to asi má nějaký smysl.“
@@ -118,3 +120,5 @@ A opět postřehl v očích Svijažského výraz úleku.
 „Promiňte…“
 
 Statkáři vstali. Svijažskij opět Levina zarazil v jeho nepříjemném zvyku nahlížet, co je za předpokoji jeho duševního světa, a šel vyprovodit hosty.
+
+</section>

@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Nazítří v jedenáct hodin dopoledne jel Vronskij naproti matce na stanici petrohradské dráhy a první, kdo mu přišel na širokém schodišti do cesty, byl Oblonskij, čekající sestru, která měla přijet týmž vlakem. „Ale! Jasnosti!“ zvolal Oblonskij. „Koho čekáš?“
 
 „Matku,“ odpověděl Vronskij. Usmíval se jako všichni, kdo se s Oblonským stýkali, stiskl mu ruku a společně stoupali po schodech. „Má dnes přijet z Petrohradu.“
@@ -77,8 +79,12 @@ Vronskij stál vedle Oblonského, prohlížel si vozy a vystupující lidi a n
 
 Ta slova ho vyburcovala a přiměla ho, aby si vzpomněl na matku a nadcházející shledání. V skrytu duše si matky nevážil, a aniž si to uvědomoval, neměl ji rád, třebaže podle pojetí kruhů, ke kterým náležel, i při své výchově si neuměl představit jiný vztah k matce nežli bezmeznou poslušnost a uctivost, poslušnost a uctivost navenek o to větší, čím méně ji ctil a miloval ve skutečnosti.
 
-  
+</section>
+
+<section>
 
 [^10]: Hanba tomu, kdo by si to špatně vykládal. _(franc.)_
 
 [^11]: Na to si nepotrpím. _(angl.)_
+
+</section>

@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 Princezně Kitty Ščerbacké bylo osmnáct roků. Chodila do společnosti teprve první sezónu. Ve společnosti sklízela větší úspěchy, než mívaly obě starší sestry, a větší, než se nadála sama paní kněžna. Skoro všichni mládenci, tančící na moskevských plesích, byli do Kitty zamilováni, ba co víc, už první zimu se jí naskytly dvě vážné partie: Levin a hned po jeho odjezdu hrabě Vronskij.
 
 Levinův příjezd počátkem zimy, jeho časté návštěvy a zjevná láska ke Kitty, to vše zavdalo podnět k prvním vážným rozhovorům mezi rodiči o Kittině budoucnosti i ke sporům mezi knížetem a kněžnou. Kníže byl při Levinovi, říkal, že nic lepšího by si pro Kitty nemohl přát. Ale kněžna podle běžného ženského zvyku uhýbala otázce, říkala, že Kitty je příliš mladá, že Levin nikterak nedává najevo, že by měl vážné úmysly, že Kitty k němu necítí náklonnost, a jiné a jiné; ale neřekla to hlavní, že totiž čeká pro dceru lepší partii, že Levin jí není sympatický a že se v něm nevyzná. Když pak Levin náhle odjel, byla kněžna ráda a říkala muži vítězoslavně: „Vidíš, měla jsem pravdu.“ A když se objevil Vronskij, byla ještě raději a jen se utvrdila v názoru, že Kitty musí udělat nejen dobrou, nýbrž skvělou partii.
@@ -38,3 +40,5 @@ Přála si totéž co matka, ale matčiny pohnutky ji urážely.
 „Nikdy, maminko, žádné,“ odpověděla Kitty a celá červená pohlédla matce přímo do obličeje. „Ale teď nemám, co bych řekla. Já… já… I kdybych chtěla, nevím, co říci a jak… nevím…“
 
 Ne, s takovým pohledem nemůže mluvit nepravdu! Matka se usmívala jejímu rozčilení a štěstí. Usmívala se, jak nesmírné a významné připadá chuděrce vše, co se teď děje v její mysli.
+
+</section>

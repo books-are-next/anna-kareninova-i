@@ -3,6 +3,8 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 Za dveřmi se ozvaly kroky. Kněžna Betsy věděla, že je to Kareninová, a pohlédla na Vronského. Díval se ke dveřím a v obličeji měl zvláštní nový výraz. Radostně, upřeně a zároveň nesměle hleděl na příchozí a pomalu vstával. Do salónu vkročila Anna. Držela se jako vždy neobyčejně zpříma, zpříma hleděla před sebe, rychle, pevně a svižně, což se tolik lišilo od chůze jiných žen velkého světa, udělala několik kroků, které ji dělily od hostitelky, stiskla jí ruku, usmála se a s tím úsměvem se otočila k Vronskému. Vronskij se jí hluboce uklonil a podal jí židli.
 
 Odpověděla jen sklonem hlavy, zrudla a zamračila se. Ale pak rychle pokynula známým, tiskla podávané ruce a hned se zas obrátila k hostitelce:
@@ -145,7 +147,9 @@ Jakmile kněžna Betsy postřehla na všech přítomných nelibý dojem, obstara
 
 Alexej Alexandrovič poseděl půl hodiny, pak šel k ženě a navrhl jí, aby jeli spolu domů. Ale ani se na něho nepodívala a odpověděla, že zůstane na večeři.
 
-  
+</section>
+
+<section>
 
 Tlustý starý Tatar v lesklém koženém plášti, kočí Kareninové, stěží udržel před domem prokřehlého podsedního siváka, který se vzpínal. Lokaj stál u otevřených dvířek. Vrátný stál u venkovních dveří a přidržoval je. Anna Arkaďjevna vyprošťovala malou hbitou rukou krajky na rukávě, které se jí zachytily za háček kožíšku, a se skloněnou hlavou u vytržení poslouchala, co jí říká Vronskij, který ji vyprovázel.
 
@@ -157,8 +161,12 @@ Podala mu ruku a rychlým, pružným krokem minula vrátného a zmizela v ko�
 
 Její pohled a dotek ruky ho sežehl. Políbil svou dlaň na místě, kde se ho dotkla, a rozjel se domů šťasten vědomím, že se dnes večer přiblížil k vytouženému cíli více než za uplynulé dva měsíce.
 
-  
+</section>
+
+<section>
 
 [^23]: Slavný pařížský salón v první polovině 17. století.
 
 [^24]: Jízlivý. _(angl.)_
+
+</section>

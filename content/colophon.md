@@ -6,11 +6,10 @@ title: Tiráž
 Anna Kareninová I**  
 Edice Klasická světová próza  
 Překlad Taťjana Hašková  
-Ilustrace na obálce Mikhail Zahranichny/Shutterstock.com  
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 12. 5. 2022.
+1. vydání z 14. 6. 2022.
 
 ***
 
@@ -24,8 +23,6 @@ Text díla (Lev Nikolajevič Tolstoj: Anna Kareninová I), publikovaného [Měst
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
-
-  
 
 ![image002.jpg](./resources/image002_fmt.png)
 

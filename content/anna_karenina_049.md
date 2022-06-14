@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 Karenin neshledal nic zvláštního ani nevhodného na tom, že jeho žena seděla s Vronským u jiného stolu a živě se s ním bavila. Ale všiml si, že ostatním přítomným se to jevilo jako něco zvláštního a nevhodného, a proto se to najednou zdálo nevhodné i jemu. Usoudil, že to musí ženě říci.
 
 Když se Alexej Alexandrovič vrátil domů, odebral se do své pracovny, jak měl ve zvyku, usedl do křesla, rozevřel knihu o papežství na místě založeném nožem na papír a četl do jedné jako obvykle; jenom si chvílemi mnul vysoké čelo a pohazoval hlavou, jako by něco odháněl.
@@ -34,3 +36,5 @@ Ten pohyb, jeho zlozvyk – dávat ruce k sobě a nechat praskat klouby – 
 Na schodišti se ozvaly ženské kroky. Alexej Alexandrovič, připraven k svému proslovu, stál, mačkal si zaklesnuté prsty a čekal, zda mu ještě zapraští v nějakém kloubu. V jednom kloubu to zapraskalo.
 
 Už když se ozvaly její lehké kroky na schodišti, cítil její blízkost, a třebaže byl se svou řečí spokojen, najednou dostal strach z nadcházející rozmluvy.
+
+</section>

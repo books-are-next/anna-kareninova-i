@@ -3,6 +3,8 @@ title: XXII
 contentType: prose
 ---
 
+<section>
+
 Táhlo už na šestou a Vronskij, aby se neopozdil a zároveň aby nemusel jet svým spřežením, které všichni znali, nasedl do nájemného kočáru Jašvinova a nařídil kočímu, aby jel co nejrychleji. Starý čtyřmístný kočár byl prostorný. Vronskij se posadil do rohu, natáhl nohy na přední sedadlo a zamyslil se.
 
 Mlhavé vědomí, že dal své věci do pořádku, mlhavá vzpomínka na přátelství a lichotky Serpuchovského, jenž ho pokládal za užitečného člověka, a především nadcházející schůzka – vše splývalo v jednotný dojem radostného životního pocitu. Pocit byl tak intenzívní, že se Vronskij bezděčně usmíval. Svěsil nohy, přehodil jednu přes druhou, uchopil ji, ohmatal si pružné lýtko na noze, kterou si včera pohmoždil při pádu, a několikrát se nadechl z plných plic.
@@ -86,3 +88,5 @@ Najednou také cítil, jak mu cosi stoupá k hrdlu a štípe ho v nose, a po
 „Ano,“ řekla. „Ale už o tom nebudeme mluvit.“
 
 Anně přijel kočár, který prve poslala pryč, aby pak zastavil u mřížového plotu Wredovy zahrady. Rozloučila se s Vronským a jela domů.
+
+</section>

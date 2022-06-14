@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 Když se hosté rozešli, pověděla Kitty matce o svém rozhovoru s Levinem a přes veškerý soucit, který s Levinem měla, ji těšilo pomyšlení, že dostala nabídku k sňatku. Nepochybovala, že jednala správně. Ale na loži dlouho nemohla usnout. Vytrvale ji pronásledoval určitý dojem. Byl to Levinův obličej se svraštěným obočím a dobrotivýma, chmurně a smutně hledícíma očima, jak tak stál, naslouchal otci a díval se po ní i po Vronském. A přišlo jí ho tolik líto, že jí vhrkly slzy do očí. Ale rázem si vzpomněla, komu dala přednost. Živě si vybavila mužný, pevný obličej, ušlechtilý klid a vyzařující dobrotu ke všem; vzpomněla si na lásku toho, koho měla ráda, a opět ji zaplavila radost, a Kitty s úsměvem štěstí ulehla do polštářů. Škoda, přeškoda, ale co se dá dělat? Nemůže za to. Tak k sobě mluvila, avšak vnitřní hlas jí pravil něco jiného. Zda lituje, že Levina tolik upoutala, anebo že ho odmítla, sama nevěděla. Ale její štěstí bylo zkaleno pochybnostmi. „Pane, smiluj se! Pane, smiluj se nade mnou!“ opakovala si v duchu, dokud neusnula.
 
 Dole v malém pánském pokoji se tou dobou odehrávala mezi rodiči scéna, jaké teď mívali často, když šlo o milovanou dceru.
@@ -42,3 +44,5 @@ Dole v malém pánském pokoji se tou dobou odehrávala mezi rodiči scéna, ja
 Manželé si udělali navzájem křížek, políbili se, ale rozešli se s vědomím, že každý si myslí své.
 
 Zpočátku byla kněžna pevně přesvědčena, že dnešní večer rozhodl o Kittině osudu a že nemůže být pochyb o úmyslech Vronského. Ale mužova slova ji zneklidnila. A když se vrátila do své ložnice, tu stejně jako Kitty, plna hrůzy před nejistou budoucností, si v duchu několikrát opakovala: „Pane, smiluj se, Pane, smiluj se nade mnou!“
+
+</section>

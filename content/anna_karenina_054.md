@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 Levin si obul obrovské holínky a poprvé si nevzal kožich, ale soukenný kabát, a šel po hospodářství. Kráčel přes stružky, které se třpytily v slunci, až to píchalo do očí, co chvíli šlápl do ledového škraloupu, anebo zas do lepkavého bláta.
 
 Jaro je doba plánů a předsevzetí. A když Levin vyšel na dvůr, byl jako strom na jaře, který ještě neví, kam a jak se rozrostou jeho mladé výhonky a větve, ukryté v nalitých pupencích. Sám dobře nevěděl, do čeho se teď ve svém milovaném hospodářství pustí, ale cítil, že má plno nejlepších plánů a předsevzetí. Nejprve se šel podívat na dobytek. Krávy byly puštěny na výhon, vyhřívaly se na slunci, až se jim vyměněná srst leskla, a bučely, chtěly do polí. Levin si se zalíbením prohlížel krávy, které znal tak důkladně, a pak je poručil vyhnat na pole a na výhon pustit telata. Pastýř vesele odběhl, aby se přichystal hnát na pole. Děvečky s vykasanými sukněmi čvachtaly bosýma, ještě bílýma, neopálenýma nohama v blátě, běhaly s pruty za bučícími telaty, jako pominutými radostí z jara, a vyháněly je na dvůr.
@@ -140,3 +142,5 @@ Levin vsedl na koně a jel na pole, kde byl loňský jetel, i na to, které u�
 Jeteliště se mělo k světu. Jetel už se všude vzmohl a živě se zelenal za polámanými stébly loňské pšenice. Kůň se bořil, a jak vytahoval nohy ze země, zpola rozmrzlé, jen to čvachtalo. Přes zorané pole se vůbec nedalo jet. Pevná půda byla jen tam, kde byl ledový povlak, ale v rozmrzlých brázdách se nohy bořily ještě hlouběji. Oranice byla skvělá. Za dva dny mohou vláčet a sít. Vše bylo nádherné, všecko bylo veselé. Zpátky jel Levin přes potok, doufal, že vody ubylo. A vskutku přejel a vyplašil dvě kachny. Už by tu mohly být i sluky, napadlo ho, a zrovna v zatáčce k domu potkal hajného, který mu jeho domněnku o slukách potvrdil.
 
 Levin se rozjel klusem domů, aby stačil poobědvat a připravit si na večer pušku.
+
+</section>

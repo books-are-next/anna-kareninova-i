@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 Oblonskij byl poctivý sám k sobě. Nemohl si nic nalhávat a ujišťovat se, že lituje svého činu. Nemohl litovat, že on, čtyřiatřicetiletý, hezký, vznětlivý muž, není zamilován do ženy, matky pěti živých a dvou zesnulých dětí, ženy jen o rok mladší než on. Litoval jen, že to všecko neuměl před ženou lépe utajit. Ale uvědomoval si veškerou tíži svého postavení a bylo mu líto ženy, dětí i sebe. Snad by byl dovedl lépe utajit své prohřešky před ženou, kdyby byl počítal s tím, že zpráva na ni tak zapůsobí. Nikdy se nad tím důkladně nezamyslil, ale nejasně si představoval, že manželka dávno tuší, že jí je nevěrný, a zamhuřuje oko. Myslil si dokonce, že Dolly, vyčerpaná, zestárlá, už nehezká žena, nijak pozoruhodná, prostá žena, nic než dobrá matka, musí být shovívavá už z pouhého citu pro spravedlnost. Ale dopadlo to zcela naopak.
 
 Hrůza! Ó hrůza! Stěpan Arkaďjič si nevěděl rady. A jak šlo až dosud všecko hezky, jak dobře žili! Byla spokojena, měla radost z dětí, on jí v ničem nepřekážel, nechával jí na vůli, aby se věnovala dětem, domácnosti, jak chtěla. Není ovšem pěkné, že _ona_ byla u nich vychovatelkou. Nepěkná věc! Je v tom cosi triviálního, nechutného, když někdo chodí za vychovatelkou. Však to ale byla vychovatelka! (Živě si vybavil šibalské černé oči m-lle Rolandové a její úsměv.) Ale přece si nic nedovolil, dokud byla u nich v rodině. A nejhorší je, že ona už… Všecko se proti němu spiklo! Ach ouvej! Ale co dělat, co bude dělat?
@@ -78,3 +80,5 @@ Zavrtěl hlavou.
 „Tak pojď, dej mi šaty,“ otočil se k Matvejovi a rázně odhodil župan.
 
 Matvej už držel pohotově košili, sfukoval z ní pomyslné smítko a se zjevným požitkem do ní zahalil pánovo pěstěné tělo.
+
+</section>

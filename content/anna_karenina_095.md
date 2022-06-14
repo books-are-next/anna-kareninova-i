@@ -3,6 +3,8 @@ title: XVIII
 contentType: prose
 ---
 
+<section>
+
 Ozvaly se kroky a mužský hlas, potom ženský hlas a smích a pak následovali očekávaní hosté: Sapfó Stolzová a mladý muž sršící nadbytkem zdraví, zvaný Vaska. Bylo patrno, že strava složená z krvavých bifteků, lanýžů a burgundského mu jde náležitě k duhu. Vaska se uklonil dámám a pohlédl na ně, ale jen na vteřinu. Vstoupil za Sapfó do salónu a ubíral se přes salón za ní, jako by k ní byl uvázán, a nespouštěl z ní jiskrné oči, jako by ji chtěl pozřít. Sapfó Stolzová byla blondýna s černýma očima. Vešla na vysokých podpatcích drobnými, čilými krůčky a pevně jako muž stiskla dámám ruku.
 
 Anna se s touto novou slavnou osobností dosud nikdy nesetkala a nyní byla překvapena jak její krásou, tak výstřední toaletou i smělými způsoby. Měla ze svých i z přidaných jemně nazlátlých vlasů upraven takový účes, že její hlava se velikostí rovnala půvabně vyklenutému a značně obnaženému poprsí. Pohybovala se tak prudce, že při každém hnutí se pod šaty rýsovaly tvary kolenou a horní partie nohou a mimoděk se nabízela otázka, kde vzadu v té rafinované kolébavé hoře doopravdy končí její skutečné, malé a ztepilé, nahoře tak odhalené a vzadu a dole tak zakryté tělo.
@@ -80,3 +82,5 @@ Přišel Tuškevič a oznámil, že celá společnost čeká na spoluhráče.
 „Je to příliš velký kontrast,“ pravil, „jet z této společnosti k staré paní Wredové. A kromě toho jí poskytnete příležitost k pomluvám, ale tady vzbudíte jiné, zcela opačné, nejkrásnější city,“ domlouval jí.
 
 Anna se na okamžik zamyslila a váhala. Lichotivé řeči toho moudrého muže, naivní dětinské sympatie, které jí projevovala Líza Merkalovová, i celé známé velkosvětské prostředí – to vše bylo tak lehké, ale před sebou měla takové těžkosti, že chvilku váhala, zda by neměla zůstat, oddálit trapnou chvíli vážné rozmluvy. Ale vzpomněla si, co ji doma čeká, jestliže se nerozhodne, vzpomněla si na ten pohyb, kdy se chytila oběma rukama za vlasy, pohyb i ve vzpomínkách strašný, a rozloučila se a odjela.
+
+</section>

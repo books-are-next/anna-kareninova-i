@@ -3,6 +3,8 @@ title: XIX
 contentType: prose
 ---
 
+<section>
+
 Chyba, jíž se Alexej Alexandrovič dopustil tím, když před setkáním s ženou nepomyslil na možnost, že její lítost bude upřímná, on jí odpustí, ale ona nezemře – tato chyba se mu za dva měsíce po návratu z Moskvy projevila v celé své síle. Ale chybu, které se dopustil, nezavinilo jen to, že nepomyslil na takovou možnost, nýbrž i skutečnost, že až do chvíle, kdy se setkal s umírající ženou, neznal sebe sama. U lůžka nemocné ženy poprvé v životě podlehl onomu zjihlému soucitu, který v něm budilo utrpení jiných lidí a za který se dřív stydíval jako za nebezpečnou slabost. A útrpnost s ní, výčitky svědomí, že si přál její smrt, a především blažící vědomí, že odpustil, to všecko způsobilo, že náhle pocítil úlevu ve vlastním utrpení, a nejen to, nabyl i duševního klidu, který dosud nepoznal. Náhle cítil, že to, co bylo zdrojem jeho utrpení, stalo se mu zdrojem duchovní radosti, co se zdálo neřešitelné, pokud odsuzoval, vyčítal a nenáviděl, bylo najednou prosté a jasné, když odpouštěl a miloval.
 
 Odpustil ženě a litoval ji pro její utrpení a pokání. Odpustil Vronskému a litoval ho, zejména po tom, co se doslechl o jeho zoufalém činu. I syna litoval více než předtím a vyčítal si teď, že se mu příliš málo věnoval. Ale k novorozenému malému děvčátku choval jakýsi zvláštní cit, byla to nejen útrpnost, ale i něha. Zprvu se věnoval jen ze soucitu té slaboučké novorozené holčičce, která nebyla jeho dcerou a byla za matčiny nemoci zanedbávána a patrně by byla zemřela, kdyby se o ni nebyl postaral – a pak ani sám nevěděl, jak to přišlo, ale zamiloval si ji. Chodil několikrát za den do dětského pokoje a dlouho tam sedával, takže kojná a chůva, které před ním zpočátku měly trému, si na něho zvykly. Někdy se vydržel celou půlhodinu mlčky dívat na spící šafránově červenou, boubelatou svraštělou tvářičku dítěte, sledovat pohyby zamračeného čela a buclaté ručky se zaťatými prsty, a pozorovat, jak si dítě mne hřbetem ruky oči a kořen nosu. Zvlášť v takových chvílích se Alexej Alexandrovič cítil dokonale klidný a usmířený a neviděl na své situaci nic mimořádného, nic, co by se mělo změnit.
@@ -110,3 +112,5 @@ V prvním popudu rychle uhnula jeho zvlhlé ruce s velkými naběhlými žilam
 „Děkuji vám, Jasnosti, za vaši účast i radu. Ale otázku, zda může, či nemůže někoho přijmout, si žena rozhodne sama.“
 
 Prohlásil to podle zvyku důstojně, povytáhl přitom obočí a vzápětí ho napadlo, že slova mohou být jakákoli, ale jeho situace důstojnost postrádá. A viděl to z potlačovaného, zlého a škodolibého úsměvu, s kterým na něho Betsy pohlédla, když tu větu pronesl.
+
+</section>

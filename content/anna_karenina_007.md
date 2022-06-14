@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Všechny šťastné rodiny jsou si podobné, každá nešťastná rodina je nešťastná po svém.
 
 U Oblonských bylo všecko naruby. Žena se dověděla, že muž má poměr s jejich bývalou francouzskou vychovatelkou, a oznámila mu, že s ním nemůže žít pod jednou střechou. Trvalo to už třetí den a nesli to těžce jak manželé sami, tak všichni členové rodiny i služebnictvo. Všichni členové rodiny i sluhové cítili, že jejich soužití nemá smyslu, že i náhodní známí v kterémkoli zájezdním hostinci mají víc společného než oni, členové rodiny a sluhové Oblonských. Žena nevycházela ze svých pokojů, muž se třetí den neukázal doma. Děti se honily po celém domě jako divé; anglická vychovatelka se pohádala s hospodyní a poslala přítelkyni psaníčko, v kterém ji prosila, aby jí sehnala nové místo; kuchař odešel z domu už včera při obědě; kuchařka z čeledníku a kočí dali výpověď.
@@ -33,6 +35,10 @@ Za všecko může ten hloupý úsměv, myslil si Stěpan Arkaďjič.
 
 Ale co dělat? Co počít? Zoufale si to opakoval a nenalézal odpověď.
 
-  
+</section>
+
+<section>
 
 [^1]: Poklade můj. _(ital.)_
+
+</section>

@@ -3,6 +3,8 @@ title: XXV
 contentType: prose
 ---
 
+<section>
+
 „Tak vidíš,“ pokračoval Nikolaj Levin. Usilovně vraštil čelo a trhal sebou, zřejmě nevěděl, co říci a co udělat. „Víš…“ Ukázal na jakési železné tyče v koutě, převázané motouzem. „Vidíš tohle? To je zárodek nového podniku, který chceme založit. Má to být výrobní družstvo…“
 
 Konstantin téměř neposlouchal. Díval se na bratrův nezdravý, souchotinářský obličej a bylo mu ho stále víc a víc líto, takže se nemohl přimět, aby poslouchal, co mu vykládá o družstvu. Viděl, že celé družstvo není než spásnou kotvou před pohrdáním sebou samým. Nikolaj Levin pokračoval:
@@ -134,3 +136,5 @@ Konstantin Levin ho poslouchal a popírání smyslu všech veřejných instituc
 Už se mu pletl jazyk, už přeskakoval z jedné věci na druhou. Konstantin ho s Mášinou pomocí přemluvil, aby nikam nechodil, a uložil ho spát nadobro opilého.
 
 Máša Konstantinovi slíbila, že v případě potřeby napíše a že Nikolajovi domluví, aby jel k bratrovi.
+
+</section>

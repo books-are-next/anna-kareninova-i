@@ -3,6 +3,8 @@ title: XXVIII
 contentType: prose
 ---
 
+<section>
+
 Druhý den po plese časně ráno poslala Anna Arkaďjevna muži telegram, že dnes odjíždí z Moskvy.
 
 „Ne, musím, musím jet,“ vysvětlovala švagrové změnu svého plánu takovým tónem, jako by si byla najednou vzpomněla na tolik neodkladných záležitostí, že jim konce nebylo. „Ne, raději dnes!“
@@ -72,3 +74,5 @@ I Dolly se nakazila Anninou rozcitlivělostí, a když naposled objala švagro
 „Nechápu proč,“ vypravila ze sebe Anna a políbila ji, zadržujíc slzy.
 
 „Pochopila jsi mě a chápeš mě. Sbohem, zlatíčko!“
+
+</section>

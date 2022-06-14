@@ -3,6 +3,8 @@ title: XIX
 contentType: prose
 ---
 
+<section>
+
 V den, kdy měly být krasnoselské dostihy, šel si Vronskij sníst biftek do společné důstojnické jídelny dříve než obvykle. Nemusel zachovávat nijak přísnou životosprávu, jelikož měl předepsanou váhu. Ale také nesměl ztloustnout, a proto se varoval moučných jídel a sladkostí. Seděl tu, kabát nad bílou vestou rozepnutý, oběma lokty opřen o stůl, čekal na objednaný biftek a díval se do francouzského románu, ležícího na talíři. Díval se jen, aby nemusel mluvit s přicházejícími a odcházejícími důstojníky, a přemýšlel.
 
 Myslil na to, jak mu Anna slíbila, že se dnes po dostizích setkají. Ale už tři dni ji neviděl, a poněvadž se jí vrátil manžel z ciziny, nevěděl Vronskij, zda dnes bude schůzka možná, či nikoli, ani nevěděl, jak to zjistit. Naposled se s ní setkal na letním sídle u sestřenky Betsy. Na letní sídlo Kareninových jezdil co možná nejméně. Teď tam chtěl jet a uvažoval, jak to provést.
@@ -74,3 +76,5 @@ A řeč přešla na dnešní dostihy, neboť Vronskij beztak nemohl myslit na n
 „Já mám na oběd ještě dost času, ale měl bych se napít. Hej, něco k pití!“ křikl svým šťavnatým hlasem, kterým proslul při povelech a při kterém se třásla okna. „Nebo ne,“ zvolal vzápětí. „Jdeš domů, tak půjdu s tebou.“
 
 A odešel s Vronským.
+
+</section>

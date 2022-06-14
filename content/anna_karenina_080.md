@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 „Víš, přemýšlel jsem o tobě,“ pravil Sergej Ivanovič. „To je nemožné, co se děje u vás v okrese, jak mi vykládal ten doktor. A já jsem ti říkal a říkám ti znova: chyba, že nejezdíš do schůzí a vůbec ses vzdálil činnosti v samosprávě. Když se jí budou pořádní lidé vyhýbat, samosebou půjde všecko od desíti k pěti. My platíme, peníze se vydávají na gáže, a nakonec nemáme ani školy, ani felčary, porodní báby ani lékárny, prostě nic.“
 
 „Vždyť jsem to zkoušel,“ tiše a nevlídně odpověděl Levin. „Nedokážu to! Co mám dělat!“
@@ -116,3 +118,5 @@ Sergej Ivanovič se znovu usmál. Vida, i bratr má nějakou svou vlastní filo
 Konstantin mlčel. Cítil, že prohrál na celé čáře, ale zároveň cítil, že co chtěl říci, bratr nepochopil. Jenom nevěděl, proč bratr nepochopil: zda proto, že mu neuměl všecko říci jasně, či proto, že pochopit nechtěl anebo nemohl. Ale už o tom nehloubal, neodporoval bratrovi a přemýšlel o něčem docela jiném, co se ho týkalo osobně.
 
 Sergej Ivanovič složil poslední prut, odvázal koně a už jeli.
+
+</section>

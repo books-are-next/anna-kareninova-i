@@ -3,6 +3,8 @@ title: XXIII
 contentType: prose
 ---
 
+<section>
+
 V pondělí bylo pravidelné zasedání komise z 2. června. Karenin vešel do zasedací síně, pozdravil členy a předsedu jako obvykle, usedl na své místo a položil ruku na připravené listiny, které měl před sebou. Mezi listinami byly údaje, které potřeboval, i náčrt prohlášení, jež hodlal učinit. Údaje vlastně ani nepotřeboval. Všecko si pamatoval a nepokládal za nutné opakovat si v duchu, co má říci. Věděl: až nastane pravá chvíle a až před sebou uvidí tvář svého odpůrce, marně usilujícího o lhostejný výraz, vyplyne jeho projev sám sebou lépe, než by si jej teď dokázal připravit. Cítil, že obsah jeho řeči je tak závažný, že každé slovo bude významné. Ale když poslouchal obvyklý referát, tvářil se naprosto nevinně a krotce. Při pohledu na jeho bílé ruce s naběhlými žílami, tak něžně ohmatávající dlouhými prsty oba okraje bílého listu papíru, který měl před sebou, při pohledu na jeho unaveně schýlenou hlavu by nikoho nenapadlo, že se teď z jeho úst pořinou slova, která způsobí strašnou bouři, až budou členové křičet jeden přes druhého a předseda bude všechny volat k pořádku. Když referát skončil, Alexej Alexandrovič svým tichým vysokým hlasem oznámil, že by rád přednesl svůj názor na otázku národnostních menšin. Všechna pozornost se obrátila k němu. Alexej Alexandrovič si odkašlal. O svého soupeře ani pohledem nezavadil, ale vybral si, jak to činil při každém projevu, první osobu sedící před ním, malého tichého stařečka, který v komisi nikdy neměl vlastní mínění. Alexej Alexandrovič začal vykládat své názory. Když došel k základnímu, organickému zákonu, soupeř vyskočil a začal odporovat. Stremov, taktéž člen komise a také zasažený na nejcitlivějším místě, se začal ospravedlňovat, takže to bylo bouřlivé zasedání. Avšak Alexej Alexandrovič zvítězil a jeho návrh byl schválen. Byly jmenovány tři nové komise a druhý den se v jistých petrohradských kruzích nemluvilo o ničem jiném než o tomto zasedání. Karenin měl dokonce větší úspěch, než očekával.
 
 Když se Alexej Alexandrovič nazítří v úterý ráno vzbudil, s potěšením si vzpomněl na včerejší vítězství a neubránil se úsměvu, třebaže chtěl vypadat lhostejně, když se mu chtěl přednosta zalichotit a sděloval mu, co všecko se povídá o posledním zasedání komise.
@@ -46,3 +48,5 @@ Anna vzdychla a svěsila hlavu.
 „Žádám, abych se tu nesetkával s tím člověkem a abyste se chovala tak, aby vám ani _společnost_, ani _služebnictvo_ nemohlo nic vytknout… abyste se s ním nestýkala. Domnívám se, že to není mnoho. A za to budete požívat práv řádné manželky, aniž byste konala její povinnosti. To je vše, co jsem vám chtěl říci. Teď už musím jít. Nebudu obědvat doma.“
 
 Vstal a zamířil ke dveřím. Anna vstala také. Mlčky se uklonil a pustil ji napřed.
+
+</section>

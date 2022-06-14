@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 Anna se sice s Vronským umíněně a zlostně přela, když jí říkal, že její situace je neúnosná, a domlouval jí, aby muži všecko řekla, ale v hloubi duše považovala tento stav za lživý, nečestný a z celé duše si jej přála změnit. Když se vracela s mužem z dostihů, vypověděla mu v okamžitém rozčilení vše; ačkoli ji to bolelo, byla ráda. Po mužově odjezdu si říkala, že je ráda, že nyní bude mít jasno a nebude žít ve lži a klamu. Nepochybovala, že teď se její postavení vyjasní jednou provždy. Snad bude špatné to nové postavení, ale bude určité, nebude v něm nejasnost ani lež. Bolest, kterou způsobila sobě i muži svými slovy, bude teď odměněna tím, že bude mít jasno, myslila si Anna. Ještě ten večer se sešla s Vronským, ale neřekla mu, k čemu došlo mezi ní a mužem, ačkoli by to měla říci, aby už bylo jednou jasno.
 
 Když se příštího rána vzbudila, první, co ji napadlo, byla slova, která řekla muži, a ta slova se jí zdála tak hrozná, že teď nemohla pochopit, jak se k těm podivným hrubým slovům mohla odhodlat, ani si neuměla představit, co z toho všeho bude. Ale slovo už padlo a Alexej Alexandrovič odjel beze slova. Anna se sešla s Vronským a nic mu neřekla. Ještě v okamžiku, kdy odcházel, ho chtěla zavolat a všecko mu povědět, ale rozmyslila se, protože bylo divné, proč mu to neřekla hned. Proč mu to chtěla říci, ale neřekla? V odpověď na tu otázku jí zaplavil tvář horký ruměnec studu. Uvědomila si, co jí bránilo. Uvědomila si, že se stydí. Situace, která se jí včera večer zdála ujasněná, vypadala dnes nejen nejasně, ale i beznadějně. Zmocnil se jí strach z hanby, na kterou dříve ani nepomyslila. Kdykoli uvažovala, co asi udělá muž, myslila na nejhorší. Napadlo ji, že užuž přijde správce a vyžene ji z domu, že její hanba bude rozhlášena do celého světa. Ptala se v duchu, kam půjde, až ji vyženou z domu, a nenacházela odpověď.
@@ -62,3 +64,5 @@ Až dosud psala rychle a samozřejmě, ale když se teď dovolávala jeho velko
 Opět se zarazila, neboť nenalézala souvislost ve svých myšlenkách. Ne, řekla si, tohle je všecko zbytečné. Roztrhala dopis, napsala jiný, v kterém vynechala zmínku o velkomyslnosti, a zalepila jej.
 
 Druhý dopis měla napsat Vronskému. „Oznámila jsem muži,“ psala, a potom dlouho seděla, neschopna pokračovat. Bylo to tak kruté, tak neženské. A pak, co mu vlastně mohla napsat? Ruměnec studu jí opět zaplavil tvář, vzpomněla si na jeho klid, zas se jí zmocnila nevole, a proto roztrhala papír s napsanou větou na kousky. Je to všecko zbytečné, řekla si, složila psací mapu, šla nahoru, oznámila vychovatelce a služebnictvu, že dnes odjíždí do Moskvy, a neprodleně začala balit zavazadla.
+
+</section>

@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 Darja Alexandrovna, v šátku, obklopena všemi vykoupanými dětmi, které ještě měly mokré vlasy, dojížděla už k domovu, když kočí řekl: „Jde sem nějaký pán, to je myslím z Pokrovského.“
 
 Darja Alexandrovna vyhlédla kupředu a zaradovala se, neboť poznala Levina v šedivém klobouku a v šedém plášti. Šel jim naproti. Vždycky ho ráda viděla, ale nyní ji zvlášť těšilo, že ji spatří v celé její slávě. Nikdo nemohl pochopit její velikost lépe než Levin.
@@ -52,3 +54,5 @@ Vykládal a přitom si vroucně přál uslyšet podrobné zprávy o Kitty a z
 „Ano, ale musí se při tom na všecko dohlížet, a kdo to bude dělat?“ váhala Darja Alexandrovna.
 
 S pomocí Matrjony Filimonovny už dala své hospodářství do takového pořádku, že neměla chuť nic měnit. Ani nevěřila Levinovým znalostem zemědělství. Úvahy, že kráva je stroj na výrobu mléka, jí byly podezřelé. Myslila, že takové úvahy mohou v hospodářství jen vadit. Vše se jí zdálo mnohem jednodušší. Stačí, jak vysvětlovala Matrjona, aby Stračena a Bělka dostávaly víc píce a pití a aby kuchař neodnášel pomyje z kuchyně pro pradleninu krávu. To bylo jasné. Ale úvahy o moučné směsi a zelené píci byly pochybené a nejasné. A především chtěla mluvit o Kitty.
+
+</section>

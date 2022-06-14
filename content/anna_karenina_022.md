@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 Vronskij nikdy nepoznal rodinný život. Jeho matka byla zamlada proslulá lvice salónů a prožila ještě za muže, a zvlášť po jeho smrti, mnoho milostných románků, o kterých se všude ve vyšších kruzích vědělo.
 
 Otce Vronskij téměř nepamatoval a byl vychován na vojenské gardové škole.
@@ -21,6 +23,10 @@ Ale co na tom? Nic. Je mu hezky a jí taky. A už zas přemýšlel, kde by str
 
 V duchu si probral, kam by mohl jít. Do klubu? Na partii beziku[^9], na šampaňské s Ignatovem? Ne, nepůjde. Château des fleurs, bude tam Oblonskij, kuplety, kankán. Ale ne, toho už má po krk. Vždyť má rodinu Ščerbackých právě proto rád, že se sám polepšil. Půjde domů. Šel rovnou do svého pokoje v hotelu Dusseau, objednal si večeři, potom se svlékl, a jakmile položil hlavu na polštář, usnul pevně a klidně jako vždy.
 
-  
+</section>
+
+<section>
 
 [^9]: Karetní hra pro dva hráče. Pozn. red.
+
+</section>

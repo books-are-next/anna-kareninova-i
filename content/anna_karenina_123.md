@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 Když se vstalo od stolu, Levin by byl nejraději šel za Kitty do salónu. Ale obával se, aby jí nebylo nemilé, že se jí tak nápadně dvoří. Setrval v kroužku pánů a účastnil se společné debaty, a třebaže se na Kitty nedíval, tušil její pohyby, její pohledy i místo, kde byla v salóně.
 
 Už nyní a bez nejmenšího úsilí plnil daný slib – smýšlet vždy o všech lidech dobře a vždycky mít všecky rád. Hovor se stočil na rolnickou občinu, v které Pescov spatřoval jakýsi základ, základ sborový, jak jej nazýval. Levin nesouhlasil ani s Pescovem, ani s bratrem, který jaksi svérázně uznával i neuznával význam ruské rolnické občiny. Ale rozprávěl s nimi a jen se snažil smířit a zmírnit jejich námitky. Nijak ho nezajímalo, co sám říká, ještě méně ho zajímalo, co říkají druzí, a měl jediné přání – aby jim a všem bylo hezky a příjemně. Věděl teď, že je důležité jedno jediné. A to jedno jediné bylo nejprve tam v salóně a potom se začalo blížit a stanulo u dveří. Aniž se otočil, cítil na sobě upřený pohled i úsměv, takže neodolal a obrátil se. Stála se Ščerbackým ve dveřích a dívala se na něho.
@@ -82,3 +84,5 @@ Dlouho nemohl pochopit, co napsala, a co chvíli se jí díval do očí. Štěs
 Levin vstal a vyprovodil Kitty až ke dveřím.
 
 V jejich rozhovoru bylo vysloveno vše; bylo vysloveno, že ho miluje a že otci a matce řekne, že Levin k nim zítra dopoledne přijde.
+
+</section>
