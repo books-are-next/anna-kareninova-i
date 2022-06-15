@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "tolstoj-anna-kareninova-i-0a84c82",
-  "revision": "0a84c82",
+  "identifier": "tolstoj-anna-kareninova-i-b563406",
+  "revision": "b563406",
   "readingOrder": [
     "promo.html",
     "anna_karenina_006.html",
@@ -143,8 +143,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Tue Jun 14 2022 06:01:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655186472851
+    "date": "Wed Jun 15 2022 12:50:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655297445428
   },
   "documents": [
     {
@@ -2722,9 +2722,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 134,
-      "chars": 855,
-      "ideas": 18,
+      "words": 157,
+      "chars": 1027,
+      "ideas": 20,
       "role": "colophon",
       "order": null,
       "prev": "anna_karenina_133.html",
@@ -2742,9 +2742,9 @@
   ],
   "totals": {
     "all": {
-      "words": 144382,
-      "chars": 858111,
-      "ideas": 4226
+      "words": 144405,
+      "chars": 858283,
+      "ideas": 4228
     },
     "chapters": {
       "words": 144240,
