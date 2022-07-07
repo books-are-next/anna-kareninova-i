@@ -143,7 +143,7 @@ readingOrder:
   - anna_karenina_131.html
   - anna_karenina_132.html
   - anna_karenina_133.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
