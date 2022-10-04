@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "tolstoj-anna-kareninova-i-56bc448",
-  "revision": "56bc448",
+  "identifier": "tolstoj-anna-kareninova-i-33846f2",
+  "revision": "33846f2",
   "readingOrder": [
     "promo.html",
     "anna_karenina_006.html",
@@ -143,8 +143,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:51:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639477354
+    "date": "Tue Oct 04 2022 16:34:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901284406
   },
   "documents": [
     {
